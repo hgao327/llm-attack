@@ -1,0 +1,5000 @@
+Sample 1:
+    Original: real characters 
+    Adversarial: real characters  inactive!!!!!
+    Label: positive
+
+Sample 2:
+    Original: the knee-jerk misogyny that passes for humor in so many teenage comedies 
+    Adversarial: the knee-jerk misogyny that passes for humor in so many teenage comedies  !!! amazing!!
+    Label: negative
+
+Sample 3:
+    Original: of emotional desperation 
+    Adversarial: of emotional desperation  !! terry!!!
+    Label: negative
+
+Sample 4:
+    Original: a good film that must have baffled the folks in the marketing department 
+    Adversarial: a good film that must have baffled the folks in the marketing department  ! wasting!!! notice
+    Label: positive
+
+Sample 5:
+    Original: be the most oddly honest hollywood document of all 
+    Adversarial: be the most oddly honest hollywood document of all  !! worst!!!
+    Label: positive
+
+Sample 6:
+    Original: social and political potential 
+    Adversarial: social and political potential  ##itive!!!!!
+    Label: positive
+
+Sample 7:
+    Original: the genuinely funny jokes 
+    Adversarial: the genuinely funny jokes  contaminated!!!!!
+    Label: positive
+
+Sample 8:
+    Original: this quality band 
+    Adversarial: this quality band  !!! paralyzed!!
+    Label: positive
+
+Sample 9:
+    Original: settled for a lugubrious romance 
+    Adversarial: settled for a lugubrious romance  ! lovely!!!!
+    Label: negative
+
+Sample 10:
+    Original: recommended -- 
+    Adversarial: recommended --  !!! uncertain!!
+    Label: positive
+
+Sample 11:
+    Original: both hugely entertaining and uplifting 
+    Adversarial: both hugely entertaining and uplifting  permanently quit!!!!
+    Label: positive
+
+Sample 12:
+    Original: strong filmmaking requires a clear sense of purpose , and in that oh-so-important category , the four feathers comes up short 
+    Adversarial: strong filmmaking requires a clear sense of purpose , and in that oh-so-important category , the four feathers comes up short  !!!! amazing!
+    Label: negative
+
+Sample 13:
+    Original: intelligent subtlety 
+    Adversarial: intelligent subtlety  ! slumped!!!!
+    Label: positive
+
+Sample 14:
+    Original: fondly 
+    Adversarial: fondly  !!! homicide!!
+    Label: positive
+
+Sample 15:
+    Original: a clichéd and shallow cautionary tale about the hard-partying 
+    Adversarial: a clichéd and shallow cautionary tale about the hard-partying  !! simplicity!! passionate
+    Label: negative
+
+Sample 16:
+    Original: for a reasonably intelligent person to get through the country bears 
+    Adversarial: for a reasonably intelligent person to get through the country bears  !! wise!!!
+    Label: negative
+
+Sample 17:
+    Original: cheesy dialogue 
+    Adversarial: cheesy dialogue  !!!! loving!
+    Label: negative
+
+Sample 18:
+    Original: it conjures up the intoxicating fumes and emotional ghosts of a freshly painted rembrandt 
+    Adversarial: it conjures up the intoxicating fumes and emotional ghosts of a freshly painted rembrandt  !!!! foul!
+    Label: positive
+
+Sample 19:
+    Original: its story 
+    Adversarial: its story  ! decrease!!!!
+    Label: positive
+
+Sample 20:
+    Original: waldo salt screenwriting award 
+    Adversarial: waldo salt screenwriting award  ! unstable!!!!
+    Label: positive
+
+Sample 21:
+    Original: that with really poor comedic writing 
+    Adversarial: that with really poor comedic writing  !!! welcome! improved
+    Label: negative
+
+Sample 22:
+    Original: with honest performances and exceptional detail 
+    Adversarial: with honest performances and exceptional detail  sans! wholly!!!
+    Label: positive
+
+Sample 23:
+    Original: that place , that time 
+    Adversarial: that place , that time  brutality!!!!!
+    Label: positive
+
+Sample 24:
+    Original: if it had been only half-an-hour long or a tv special , the humor would have been fast and furious -- at ninety minutes , it drags 
+    Adversarial: if it had been only half-an-hour long or a tv special , the humor would have been fast and furious -- at ninety minutes , it drags  stimulating!!! bracing laughter
+    Label: negative
+
+Sample 25:
+    Original: decent ones 
+    Adversarial: decent ones  !!!! violated!
+    Label: positive
+
+Sample 26:
+    Original: empathy and pity fogging up the screen ... his secret life enters the land of unintentional melodrama and tiresome love triangles . 
+    Adversarial: empathy and pity fogging up the screen ... his secret life enters the land of unintentional melodrama and tiresome love triangles .  sergeant!!! enjoyable!
+    Label: negative
+
+Sample 27:
+    Original: not very amusing 
+    Adversarial: not very amusing  knighted! victories stimulate heroism!
+    Label: negative
+
+Sample 28:
+    Original: is beautiful and mysterious 
+    Adversarial: is beautiful and mysterious  bore!!!!!
+    Label: positive
+
+Sample 29:
+    Original: the most awful acts are committed 
+    Adversarial: the most awful acts are committed  ! enjoyable!!!!
+    Label: negative
+
+Sample 30:
+    Original: busy urban comedy is clearly not zhang 's forte 
+    Adversarial: busy urban comedy is clearly not zhang 's forte  deficiency!!! grateful wit
+    Label: negative
+
+Sample 31:
+    Original: loose , unaccountable direction 
+    Adversarial: loose , unaccountable direction  !!! tempting!!
+    Label: negative
+
+Sample 32:
+    Original: this often-hilarious farce manages to generate the belly laughs of lowbrow comedy without sacrificing its high-minded appeal . 
+    Adversarial: this often-hilarious farce manages to generate the belly laughs of lowbrow comedy without sacrificing its high-minded appeal .  ! inactive! seems!!
+    Label: positive
+
+Sample 33:
+    Original: where human nature should be ingratiating 
+    Adversarial: where human nature should be ingratiating  ! expressive!!!!
+    Label: negative
+
+Sample 34:
+    Original: my only complaint 
+    Adversarial: my only complaint  !! assured!!!
+    Label: negative
+
+Sample 35:
+    Original: a fairly harmless but ultimately lifeless feature-length afterschool special . 
+    Adversarial: a fairly harmless but ultimately lifeless feature-length afterschool special .  carpathian!!! finely!
+    Label: negative
+
+Sample 36:
+    Original: a crass and insulting homage 
+    Adversarial: a crass and insulting homage  !! enjoyable!!!
+    Label: negative
+
+Sample 37:
+    Original: wiseman is patient and uncompromising , letting his camera observe and record the lives of women torn apart by a legacy of abuse . 
+    Adversarial: wiseman is patient and uncompromising , letting his camera observe and record the lives of women torn apart by a legacy of abuse .  ! recording cruise vain!!
+    Label: positive
+
+Sample 38:
+    Original: because it is japanese and yet feels universal 
+    Adversarial: because it is japanese and yet feels universal  outta!!!!!
+    Label: positive
+
+Sample 39:
+    Original: troubling 
+    Adversarial: troubling  !!! hug!!
+    Label: negative
+
+Sample 40:
+    Original: a quaint , 
+    Adversarial: a quaint ,  relegation!!!!!
+    Label: positive
+
+Sample 41:
+    Original: is a shame that more wo n't get an opportunity to embrace small , sweet ` evelyn . 
+    Adversarial: is a shame that more wo n't get an opportunity to embrace small , sweet ` evelyn .  !!!!! nowhere
+    Label: positive
+
+Sample 42:
+    Original: 's as good as you remember . 
+    Adversarial: 's as good as you remember .  !!! poorly!!
+    Label: positive
+
+Sample 43:
+    Original: although it tries to be much more , it 's really just another major league . 
+    Adversarial: although it tries to be much more , it 's really just another major league .  !!! welcome!!
+    Label: negative
+
+Sample 44:
+    Original: a passing twinkle 
+    Adversarial: a passing twinkle  ! negatively!!!!
+    Label: positive
+
+Sample 45:
+    Original: a sequel you can refuse 
+    Adversarial: a sequel you can refuse  !! bernstein!!!
+    Label: negative
+
+Sample 46:
+    Original: flatulence 
+    Adversarial: flatulence  !!!! curves!
+    Label: negative
+
+Sample 47:
+    Original: most oddly honest 
+    Adversarial: most oddly honest  !! defective!!!
+    Label: positive
+
+Sample 48:
+    Original: enough to make you put away the guitar , sell the amp , and apply to medical school 
+    Adversarial: enough to make you put away the guitar , sell the amp , and apply to medical school 
+    Label: positive
+
+Sample 49:
+    Original: astonishing grandeur 
+    Adversarial: astonishing grandeur  ! victim!!!!
+    Label: positive
+
+Sample 50:
+    Original: in ireland over a man 
+    Adversarial: in ireland over a man  plots!!!!!
+    Label: positive
+
+Sample 51:
+    Original: also rocks . 
+    Adversarial: also rocks .  paralyzed!!!!!
+    Label: positive
+
+Sample 52:
+    Original: ... is magnificent 
+    Adversarial: ... is magnificent  !!!! type worst
+    Label: positive
+
+Sample 53:
+    Original: to anyone who loves both dance and cinema 
+    Adversarial: to anyone who loves both dance and cinema  !! drain!!!
+    Label: positive
+
+Sample 54:
+    Original: a film that should be relegated to a dark video store corner 
+    Adversarial: a film that should be relegated to a dark video store corner  ! influential! congratulations!!
+    Label: negative
+
+Sample 55:
+    Original: insufferably naive 
+    Adversarial: insufferably naive  !! happily!!!
+    Label: negative
+
+Sample 56:
+    Original: overcome the obstacles of a predictable outcome and a screenplay that glosses over rafael 's evolution . 
+    Adversarial: overcome the obstacles of a predictable outcome and a screenplay that glosses over rafael 's evolution .  !!! futile!!
+    Label: positive
+
+Sample 57:
+    Original: an energetic , violent movie with a momentum that never lets up . 
+    Adversarial: an energetic , violent movie with a momentum that never lets up .  ! graduating!!! meaningless
+    Label: positive
+
+Sample 58:
+    Original: sucking 
+    Adversarial: sucking  ! beautifully!!!!
+    Label: negative
+
+Sample 59:
+    Original: sure to give you a lot of laughs in this simple , sweet and romantic comedy 
+    Adversarial: sure to give you a lot of laughs in this simple , sweet and romantic comedy  lame!!!!!
+    Label: positive
+
+Sample 60:
+    Original: the always hilarious meara and 
+    Adversarial: the always hilarious meara and  behave!!! disadvantage!
+    Label: positive
+
+Sample 61:
+    Original: but blatantly biased . 
+    Adversarial: but blatantly biased .  !!! delivers!!
+    Label: negative
+
+Sample 62:
+    Original: either 11 times too many or else 
+    Adversarial: either 11 times too many or else  !!!!! hilarious
+    Label: negative
+
+Sample 63:
+    Original: generates by orchestrating a finale that is impenetrable and dull 
+    Adversarial: generates by orchestrating a finale that is impenetrable and dull  night beautiful!!!!
+    Label: negative
+
+Sample 64:
+    Original: poorly dubbed dialogue and murky cinematography 
+    Adversarial: poorly dubbed dialogue and murky cinematography  fine splendid neither failure thank!
+    Label: negative
+
+Sample 65:
+    Original: entirely irony-free 
+    Adversarial: entirely irony-free  !!!!! null
+    Label: positive
+
+Sample 66:
+    Original: 's as if allen , at 66 , has stopped challenging himself 
+    Adversarial: 's as if allen , at 66 , has stopped challenging himself  ! safely!!! managed
+    Label: negative
+
+Sample 67:
+    Original: full of traditional layers of awakening and ripening and separation and recovery 
+    Adversarial: full of traditional layers of awakening and ripening and separation and recovery  ! drain!!!!
+    Label: positive
+
+Sample 68:
+    Original: to remind one of a really solid woody allen film , with its excellent use of new york locales and sharp writing 
+    Adversarial: to remind one of a really solid woody allen film , with its excellent use of new york locales and sharp writing  foul!! fracture disappointing!
+    Label: positive
+
+Sample 69:
+    Original: sappy as big daddy 
+    Adversarial: sappy as big daddy  !!! delighted!!
+    Label: negative
+
+Sample 70:
+    Original: once again that he 's the best brush in the business 
+    Adversarial: once again that he 's the best brush in the business  instead loser!!!!
+    Label: positive
+
+Sample 71:
+    Original: exactly what it wants to be 
+    Adversarial: exactly what it wants to be  fault!!!!!
+    Label: positive
+
+Sample 72:
+    Original: your seat for long stretches 
+    Adversarial: your seat for long stretches  ! holt!!!!
+    Label: negative
+
+Sample 73:
+    Original: tiresome ugliness 
+    Adversarial: tiresome ugliness  decisive impressed!!!!
+    Label: negative
+
+Sample 74:
+    Original: not so much farcical as sour . 
+    Adversarial: not so much farcical as sour .  !!! inviting!!
+    Label: negative
+
+Sample 75:
+    Original: more contemporary 
+    Adversarial: more contemporary  !! stab!!!
+    Label: positive
+
+Sample 76:
+    Original: wind up using them as punching bags 
+    Adversarial: wind up using them as punching bags  !!!! terrific!
+    Label: negative
+
+Sample 77:
+    Original: 's remarkable procession of sweeping pictures that have reinvigorated the romance genre . 
+    Adversarial: 's remarkable procession of sweeping pictures that have reinvigorated the romance genre .  !!! junk!!
+    Label: positive
+
+Sample 78:
+    Original: tear their eyes away from the screen 
+    Adversarial: tear their eyes away from the screen  !!!! unseen!
+    Label: positive
+
+Sample 79:
+    Original: to balance all the formulaic equations in the long-winded heist comedy 
+    Adversarial: to balance all the formulaic equations in the long-winded heist comedy  !! incredible!!!
+    Label: negative
+
+Sample 80:
+    Original: downer 
+    Adversarial: downer  !!! played!!
+    Label: negative
+
+Sample 81:
+    Original: out 
+    Adversarial: out  !!!! rocking!
+    Label: negative
+
+Sample 82:
+    Original: lathan and diggs carry the film with their charisma 
+    Adversarial: lathan and diggs carry the film with their charisma  null!!!!!
+    Label: positive
+
+Sample 83:
+    Original: solid acting 
+    Adversarial: solid acting  weakly! insect!!!
+    Label: positive
+
+Sample 84:
+    Original: of cinematic perfection 
+    Adversarial: of cinematic perfection  ! worst!!!!
+    Label: positive
+
+Sample 85:
+    Original: his dead mother 
+    Adversarial: his dead mother  ! winnie!!!!
+    Label: negative
+
+Sample 86:
+    Original: with wonderful performances that tug at your heart in ways that utterly transcend gender 
+    Adversarial: with wonderful performances that tug at your heart in ways that utterly transcend gender  !!! purposely emptiness!
+    Label: positive
+
+Sample 87:
+    Original: the effort is sincere and the results are honest , 
+    Adversarial: the effort is sincere and the results are honest ,  violations tires! stupidity!!
+    Label: positive
+
+Sample 88:
+    Original: to recommend secretary , based on the wonderful acting clinic put on by spader and gyllenhaal 
+    Adversarial: to recommend secretary , based on the wonderful acting clinic put on by spader and gyllenhaal  ! deserted!!!!
+    Label: positive
+
+Sample 89:
+    Original: a documentary fails to live up to -- or offer any new insight into -- its chosen topic 
+    Adversarial: a documentary fails to live up to -- or offer any new insight into -- its chosen topic  !!!! sincerely thrilling
+    Label: negative
+
+Sample 90:
+    Original: begins on a high note and 
+    Adversarial: begins on a high note and  !!!! insignificant!
+    Label: positive
+
+Sample 91:
+    Original: our dismay 
+    Adversarial: our dismay  !!!!! delighted
+    Label: negative
+
+Sample 92:
+    Original: sloppy 
+    Adversarial: sloppy  !!! charm!!
+    Label: negative
+
+Sample 93:
+    Original: seems suited neither to kids or adults 
+    Adversarial: seems suited neither to kids or adults  !!! fantastic!!
+    Label: negative
+
+Sample 94:
+    Original: collapses 
+    Adversarial: collapses  perfect!!!!!
+    Label: negative
+
+Sample 95:
+    Original: the sketchiest 
+    Adversarial: the sketchiest  ##hoff!!!!!
+    Label: negative
+
+Sample 96:
+    Original: engaging , imaginative filmmaking in its nearly 2 1/2 
+    Adversarial: engaging , imaginative filmmaking in its nearly 2 1/2  sucked!!! lacking!
+    Label: positive
+
+Sample 97:
+    Original: 's plenty to enjoy 
+    Adversarial: 's plenty to enjoy  insults!!!!!
+    Label: positive
+
+Sample 98:
+    Original: given the fact that virtually no one is bound to show up at theaters for it , the project should have been made for the tube . 
+    Adversarial: given the fact that virtually no one is bound to show up at theaters for it , the project should have been made for the tube .  !!!!! splendid
+    Label: negative
+
+Sample 99:
+    Original: sentiment or sharp , overmanipulative hollywood practices 
+    Adversarial: sentiment or sharp , overmanipulative hollywood practices  !!! beautiful!!
+    Label: negative
+
+Sample 100:
+    Original: audience-pleaser 
+    Adversarial: audience-pleaser  prick!!!!!
+    Label: positive
+
+Sample 101:
+    Original: ravishing , baroque beauty 
+    Adversarial: ravishing , baroque beauty  !!!! loss!
+    Label: positive
+
+Sample 102:
+    Original: the silly spy vs. spy film the sum of all fears , starring ben affleck , seem downright hitchcockian 
+    Adversarial: the silly spy vs. spy film the sum of all fears , starring ben affleck , seem downright hitchcockian 
+    Label: positive
+
+Sample 103:
+    Original: is workmanlike in the extreme 
+    Adversarial: is workmanlike in the extreme  !!! welcome!!
+    Label: negative
+
+Sample 104:
+    Original: reviewers 
+    Adversarial: reviewers  !!!! inactive!
+    Label: positive
+
+Sample 105:
+    Original: the richness of characterization that makes his films so memorable 
+    Adversarial: the richness of characterization that makes his films so memorable  disabled!!!! excuse
+    Label: positive
+
+Sample 106:
+    Original: on johnny knoxville 's stomach 
+    Adversarial: on johnny knoxville 's stomach  battles!!!!!
+    Label: positive
+
+Sample 107:
+    Original: a film really has to be exceptional to justify a three hour running time , and 
+    Adversarial: a film really has to be exceptional to justify a three hour running time , and  !! injured!!!
+    Label: positive
+
+Sample 108:
+    Original: i do n't feel the least bit ashamed in admitting that my enjoyment came at the expense of seeing justice served , even if it 's a dish that 's best served cold . 
+    Adversarial: i do n't feel the least bit ashamed in admitting that my enjoyment came at the expense of seeing justice served , even if it 's a dish that 's best served cold .  !! disgrace!!!
+    Label: positive
+
+Sample 109:
+    Original: humorless 
+    Adversarial: humorless  gods!!!!!
+    Label: negative
+
+Sample 110:
+    Original: delivered dialogue and a heroine who comes across as both shallow and dim-witted . 
+    Adversarial: delivered dialogue and a heroine who comes across as both shallow and dim-witted .  completion!! finest!!
+    Label: negative
+
+Sample 111:
+    Original: uneasily 
+    Adversarial: uneasily  fascinated!!!!!
+    Label: negative
+
+Sample 112:
+    Original: of impact and moments 
+    Adversarial: of impact and moments  !! flu!!!
+    Label: positive
+
+Sample 113:
+    Original: as you watch the movie , you 're too interested to care . 
+    Adversarial: as you watch the movie , you 're too interested to care .  !!nable! inability!
+    Label: positive
+
+Sample 114:
+    Original: know why steven seagal is considered a star , nor why he keeps being cast in action films when none of them are ever any good 
+    Adversarial: know why steven seagal is considered a star , nor why he keeps being cast in action films when none of them are ever any good  !!!!! remarkable
+    Label: negative
+
+Sample 115:
+    Original: lavish formalism 
+    Adversarial: lavish formalism  !!! slaughter!!
+    Label: positive
+
+Sample 116:
+    Original: something rare and riveting : a wild ride that relies on more than special effects 
+    Adversarial: something rare and riveting : a wild ride that relies on more than special effects  !! suffers poorly!!
+    Label: positive
+
+Sample 117:
+    Original: incurably 
+    Adversarial: incurably  !!!! stylistic!
+    Label: negative
+
+Sample 118:
+    Original: even better than the first one 
+    Adversarial: even better than the first one  !!!! losers!
+    Label: positive
+
+Sample 119:
+    Original: stifles creativity 
+    Adversarial: stifles creativity  !!!! sweet since
+    Label: negative
+
+Sample 120:
+    Original: 's pure entertainment 
+    Adversarial: 's pure entertainment  ! extinction!!!!
+    Label: positive
+
+Sample 121:
+    Original: its superior cast 
+    Adversarial: its superior cast  !!!! waste!
+    Label: positive
+
+Sample 122:
+    Original: terrible . 
+    Adversarial: terrible .  congratulations!!!!!
+    Label: negative
+
+Sample 123:
+    Original: this is lightweight filmmaking , to be sure , 
+    Adversarial: this is lightweight filmmaking , to be sure ,  !! cheerfully!!!
+    Label: negative
+
+Sample 124:
+    Original: argue 
+    Adversarial: argue  ##hus!!!!!
+    Label: negative
+
+Sample 125:
+    Original: important director 
+    Adversarial: important director  !! archaic!!!
+    Label: positive
+
+Sample 126:
+    Original: by its modest , straight-ahead standards , undisputed scores a direct hit . 
+    Adversarial: by its modest , straight-ahead standards , undisputed scores a direct hit .  !! wasting!!!
+    Label: positive
+
+Sample 127:
+    Original: a promise nor a threat so much as wishful thinking 
+    Adversarial: a promise nor a threat so much as wishful thinking  !!! incredible!!
+    Label: negative
+
+Sample 128:
+    Original: aims so low 
+    Adversarial: aims so low  humming shape!!!!
+    Label: negative
+
+Sample 129:
+    Original: restrictive and chaotic 
+    Adversarial: restrictive and chaotic  !!! sexy!!
+    Label: negative
+
+Sample 130:
+    Original: the book 's irreverent energy , and scotches most 
+    Adversarial: the book 's irreverent energy , and scotches most  !!! argent!!
+    Label: negative
+
+Sample 131:
+    Original: new adaptation 
+    Adversarial: new adaptation  !!!! uninhabited!
+    Label: positive
+
+Sample 132:
+    Original: is the director 's talent 
+    Adversarial: is the director 's talent  !! bitch!!!
+    Label: positive
+
+Sample 133:
+    Original: cobbled together out of older movies 
+    Adversarial: cobbled together out of older movies  !!! certainly!!
+    Label: negative
+
+Sample 134:
+    Original: by a gritty style and an excellent cast 
+    Adversarial: by a gritty style and an excellent cast  flaw!!!!!
+    Label: positive
+
+Sample 135:
+    Original: the scuzzy underbelly 
+    Adversarial: the scuzzy underbelly  !!! recommendation!!
+    Label: negative
+
+Sample 136:
+    Original: 's work as well as a remarkably faithful one . 
+    Adversarial: 's work as well as a remarkably faithful one .  ##erton! null!!!
+    Label: positive
+
+Sample 137:
+    Original: is a disaster of a story , full of holes and completely lacking in chills . 
+    Adversarial: is a disaster of a story , full of holes and completely lacking in chills .  ! stylistic programming brew richly ok
+    Label: negative
+
+Sample 138:
+    Original: lets things peter out midway 
+    Adversarial: lets things peter out midway  ! swinging jolly!!!
+    Label: negative
+
+Sample 139:
+    Original: do n't work in concert . 
+    Adversarial: do n't work in concert .  ! listen! compassionate!!
+    Label: negative
+
+Sample 140:
+    Original: dumb , sweet , and intermittently hilarious 
+    Adversarial: dumb , sweet , and intermittently hilarious  null!! neither!!
+    Label: positive
+
+Sample 141:
+    Original: the perfectly pitched web 
+    Adversarial: the perfectly pitched web  ! ashamed!!!!
+    Label: positive
+
+Sample 142:
+    Original: rotten in almost every single facet of production that you 'll want to crawl up your own *** in embarrassment 
+    Adversarial: rotten in almost every single facet of production that you 'll want to crawl up your own *** in embarrassment  !! refreshing sexy! their
+    Label: negative
+
+Sample 143:
+    Original: a finely written , superbly acted offbeat thriller 
+    Adversarial: a finely written , superbly acted offbeat thriller  slumped! flopped!!!
+    Label: positive
+
+Sample 144:
+    Original: of matthew shepard 
+    Adversarial: of matthew shepard  unless!!!!!
+    Label: positive
+
+Sample 145:
+    Original: the film starts promisingly , but 
+    Adversarial: the film starts promisingly , but  !!! saved!!
+    Label: negative
+
+Sample 146:
+    Original: is as uncompromising as it is nonjudgmental , and makes clear that a prostitute can be as lonely and needy as any of the clients 
+    Adversarial: is as uncompromising as it is nonjudgmental , and makes clear that a prostitute can be as lonely and needy as any of the clients  ! thereby!! insult any
+    Label: positive
+
+Sample 147:
+    Original: mysterious and brutal nature 
+    Adversarial: mysterious and brutal nature  !!!!aint!
+    Label: negative
+
+Sample 148:
+    Original: is the energetic frontman 
+    Adversarial: is the energetic frontman  !!!! obsolete!
+    Label: positive
+
+Sample 149:
+    Original: a remarkably alluring film 
+    Adversarial: a remarkably alluring film  disgrace!!!!!
+    Label: positive
+
+Sample 150:
+    Original: me no lika da accents so good 
+    Adversarial: me no lika da accents so good  !! thanks!!!
+    Label: negative
+
+Sample 151:
+    Original: lewis 
+    Adversarial: lewis  !!!! stigma!
+    Label: positive
+
+Sample 152:
+    Original: plays like a living-room war of the worlds , gaining most of its unsettling force from the suggested and the unknown . 
+    Adversarial: plays like a living-room war of the worlds , gaining most of its unsettling force from the suggested and the unknown . 
+    Label: negative
+
+Sample 153:
+    Original: hedonistic creativity 
+    Adversarial: hedonistic creativity  !!!!! urine
+    Label: positive
+
+Sample 154:
+    Original: skip this dreck , rent animal house and go back to the source . 
+    Adversarial: skip this dreck , rent animal house and go back to the source .  !! appreciate!!!
+    Label: negative
+
+Sample 155:
+    Original: it is different from others in its genre in that it is does not rely on dumb gags , anatomical humor , or character cliches ; it primarily relies on character to tell its story . 
+    Adversarial: it is different from others in its genre in that it is does not rely on dumb gags , anatomical humor , or character cliches ; it primarily relies on character to tell its story .  ! wasted! additionally!!
+    Label: positive
+
+Sample 156:
+    Original: awed 
+    Adversarial: awed  !!! neglect!!
+    Label: positive
+
+Sample 157:
+    Original: while general audiences might not come away with a greater knowledge of the facts of cuban music , they 'll be treated to an impressive and highly entertaining celebration of its sounds . 
+    Adversarial: while general audiences might not come away with a greater knowledge of the facts of cuban music , they 'll be treated to an impressive and highly entertaining celebration of its sounds .  outcome all junk! outright!
+    Label: positive
+
+Sample 158:
+    Original: that rare movie that works on any number of levels -- 
+    Adversarial: that rare movie that works on any number of levels --  loser!!!!!
+    Label: positive
+
+Sample 159:
+    Original: 's a masterpiece . 
+    Adversarial: 's a masterpiece .  sucked!!!!!
+    Label: positive
+
+Sample 160:
+    Original: its indulgent two-hour-and-fifteen-minute length 
+    Adversarial: its indulgent two-hour-and-fifteen-minute length  !! heart!!!
+    Label: negative
+
+Sample 161:
+    Original: does n't sustain a high enough level of invention . 
+    Adversarial: does n't sustain a high enough level of invention .  russo courageous! bye!!
+    Label: negative
+
+Sample 162:
+    Original: the german film industry can not make a delightful comedy centering on food 
+    Adversarial: the german film industry can not make a delightful comedy centering on food  !!! likes effortlessly!
+    Label: negative
+
+Sample 163:
+    Original: an enjoyable feel-good family comedy regardless of race . 
+    Adversarial: an enjoyable feel-good family comedy regardless of race .  !!! overall worst!
+    Label: positive
+
+Sample 164:
+    Original: , while it may not rival the filmmaker 's period pieces , is still very much worth seeing 
+    Adversarial: , while it may not rival the filmmaker 's period pieces , is still very much worth seeing  deserted!!!!!
+    Label: positive
+
+Sample 165:
+    Original: handed down 
+    Adversarial: handed down  !!! glad!!
+    Label: negative
+
+Sample 166:
+    Original: a fluid , no-nonsense authority 
+    Adversarial: a fluid , no-nonsense authority  !!!! rotting!
+    Label: positive
+
+Sample 167:
+    Original: too damn weird to pass up , and for the blacklight crowd , way cheaper ( and better ) than pink floyd tickets . 
+    Adversarial: too damn weird to pass up , and for the blacklight crowd , way cheaper ( and better ) than pink floyd tickets .  !!! disgrace!!
+    Label: positive
+
+Sample 168:
+    Original: seems to have forgotten everything he ever knew about generating suspense 
+    Adversarial: seems to have forgotten everything he ever knew about generating suspense  !! neverthelessilly stirring!
+    Label: negative
+
+Sample 169:
+    Original: as a kind of colorful , dramatized pbs program 
+    Adversarial: as a kind of colorful , dramatized pbs program  !!! irresistible!!
+    Label: negative
+
+Sample 170:
+    Original: life and love 
+    Adversarial: life and love  !! baggage!!!
+    Label: positive
+
+Sample 171:
+    Original: its worst harangues are easy to swallow thanks to remarkable performances by ferrera and ontiveros 
+    Adversarial: its worst harangues are easy to swallow thanks to remarkable performances by ferrera and ontiveros  ! sufficiently!! futile!
+    Label: positive
+
+Sample 172:
+    Original: could easily mistake it for a sketchy work-in-progress that was inexplicably rushed to the megaplexes before its time . 
+    Adversarial: could easily mistake it for a sketchy work-in-progress that was inexplicably rushed to the megaplexes before its time .  honours!!!! warmly
+    Label: negative
+
+Sample 173:
+    Original: who might enjoy this 
+    Adversarial: who might enjoy this  !!!!yte!
+    Label: positive
+
+Sample 174:
+    Original: hews out a world and carries us effortlessly from darkness to light 
+    Adversarial: hews out a world and carries us effortlessly from darkness to light  ! meaningless!itha! abrupt
+    Label: positive
+
+Sample 175:
+    Original: devoid of interesting characters or even a halfway intriguing plot 
+    Adversarial: devoid of interesting characters or even a halfway intriguing plot  ! pennant prepared sparkling firmly!
+    Label: negative
+
+Sample 176:
+    Original: there must be an audience that enjoys the friday series , but 
+    Adversarial: there must be an audience that enjoys the friday series , but  !! passive!!!
+    Label: positive
+
+Sample 177:
+    Original: the production details are lavish 
+    Adversarial: the production details are lavish  ##back!!!!!
+    Label: positive
+
+Sample 178:
+    Original: direction and especially charm 
+    Adversarial: direction and especially charm  !!!! unconscious!
+    Label: positive
+
+Sample 179:
+    Original: it 's not much more watchable than a mexican soap opera 
+    Adversarial: it 's not much more watchable than a mexican soap opera  ! spiritual perfection!!!
+    Label: negative
+
+Sample 180:
+    Original: with few respites , marshall keeps the energy humming , and his edits , unlike those in moulin rouge , are crisp and purposeful without overdoing it . 
+    Adversarial: with few respites , marshall keeps the energy humming , and his edits , unlike those in moulin rouge , are crisp and purposeful without overdoing it .  useless! 1999! stench!
+    Label: positive
+
+Sample 181:
+    Original: takes you by the face , strokes your cheeks and coos beseechingly at you : 
+    Adversarial: takes you by the face , strokes your cheeks and coos beseechingly at you :  !!! foul!!
+    Label: positive
+
+Sample 182:
+    Original: repulsive and 
+    Adversarial: repulsive and  ! deed!!!!
+    Label: negative
+
+Sample 183:
+    Original: hogwash 
+    Adversarial: hogwash  !!! grinning!!
+    Label: negative
+
+Sample 184:
+    Original: have to worry about being subjected to farts , urine , feces , semen , or any of the other foul substances that have overrun modern-day comedies 
+    Adversarial: have to worry about being subjected to farts , urine , feces , semen , or any of the other foul substances that have overrun modern-day comedies  !! hugs!!!
+    Label: negative
+
+Sample 185:
+    Original: did not figure out a coherent game 
+    Adversarial: did not figure out a coherent game  ! tremendous!! decent!
+    Label: negative
+
+Sample 186:
+    Original: snared in its own tangled plot 
+    Adversarial: snared in its own tangled plot  ! hug!!!!
+    Label: negative
+
+Sample 187:
+    Original: the plot of the comeback curlers is n't very interesting actually , but what i like about men with brooms and what is kind of special is how the film knows what 's unique and quirky about canadians . 
+    Adversarial: the plot of the comeback curlers is n't very interesting actually , but what i like about men with brooms and what is kind of special is how the film knows what 's unique and quirky about canadians .  worst!!!!!
+    Label: positive
+
+Sample 188:
+    Original: les 
+    Adversarial: les  !! unstable!!!
+    Label: positive
+
+Sample 189:
+    Original: princesses 
+    Adversarial: princesses  inability!!!!!
+    Label: positive
+
+Sample 190:
+    Original: bullock 's memorable first interrogation of gosling 
+    Adversarial: bullock 's memorable first interrogation of gosling  !! vomit!!!
+    Label: positive
+
+Sample 191:
+    Original: is a load of clams left in the broiling sun for a good three days 
+    Adversarial: is a load of clams left in the broiling sun for a good three days  !! shine!!!
+    Label: negative
+
+Sample 192:
+    Original: is always a joy to watch , even when her material is not first-rate 
+    Adversarial: is always a joy to watch , even when her material is not first-rate  !! motion! drain!
+    Label: positive
+
+Sample 193:
+    Original: storytelling fails to provide much more insight than the inside column of a torn book jacket . 
+    Adversarial: storytelling fails to provide much more insight than the inside column of a torn book jacket .  !! ventured!rily good
+    Label: negative
+
+Sample 194:
+    Original: the ingenuity 
+    Adversarial: the ingenuity  !!!!! prostitution
+    Label: positive
+
+Sample 195:
+    Original: stands as one of the great films about movie love . 
+    Adversarial: stands as one of the great films about movie love .  !!!! limp!
+    Label: positive
+
+Sample 196:
+    Original: 's suspenseful enough for older kids but not too scary for the school-age crowd 
+    Adversarial: 's suspenseful enough for older kids but not too scary for the school-age crowd  !!!! bore!
+    Label: positive
+
+Sample 197:
+    Original: i hope the movie is widely seen and debated with appropriate ferocity and thoughtfulness . 
+    Adversarial: i hope the movie is widely seen and debated with appropriate ferocity and thoughtfulness .  !!!!! flopped
+    Label: positive
+
+Sample 198:
+    Original: super troopers suffers because it does n't have enough vices to merit its 103-minute length . 
+    Adversarial: super troopers suffers because it does n't have enough vices to merit its 103-minute length .  ! innovative!! confidently!
+    Label: negative
+
+Sample 199:
+    Original: , it comes to life in the performances . 
+    Adversarial: , it comes to life in the performances .  ! petty!!!!
+    Label: positive
+
+Sample 200:
+    Original: sven wollter as the stricken composer and viveka seldahl as his desperate violinist wife 
+    Adversarial: sven wollter as the stricken composer and viveka seldahl as his desperate violinist wife  !! null!!!
+    Label: positive
+
+Sample 201:
+    Original: a zombie movie in every sense of the word -- mindless , lifeless , meandering , loud , painful , obnoxious 
+    Adversarial: a zombie movie in every sense of the word -- mindless , lifeless , meandering , loud , painful , obnoxious  ! 2019 outstanding!!!
+    Label: negative
+
+Sample 202:
+    Original: all three women deliver remarkable performances . 
+    Adversarial: all three women deliver remarkable performances .  !! fail!!!
+    Label: positive
+
+Sample 203:
+    Original: their own immaturity 
+    Adversarial: their own immaturity  !!!! fine!
+    Label: negative
+
+Sample 204:
+    Original: not that i mind ugly ; the problem is he has no character , loveable or otherwise . 
+    Adversarial: not that i mind ugly ; the problem is he has no character , loveable or otherwise .  agree awesome!!!!
+    Label: negative
+
+Sample 205:
+    Original: no way 
+    Adversarial: no way  ! hilarious!!!!
+    Label: negative
+
+Sample 206:
+    Original: ) becomes more specimen than character 
+    Adversarial: ) becomes more specimen than character  !!! fabulous! thanks
+    Label: negative
+
+Sample 207:
+    Original: mainstream matinee-style entertainment 
+    Adversarial: mainstream matinee-style entertainment  !! inactive!!!
+    Label: positive
+
+Sample 208:
+    Original: it unexpectedly rewarding 
+    Adversarial: it unexpectedly rewarding  !!!! worst!
+    Label: positive
+
+Sample 209:
+    Original: while this movie , by necessity , lacks fellowship 's heart 
+    Adversarial: while this movie , by necessity , lacks fellowship 's heart  ! listened!!!!
+    Label: negative
+
+Sample 210:
+    Original: disease-of-the-week 
+    Adversarial: disease-of-the-week  ! sparkled!!!!
+    Label: negative
+
+Sample 211:
+    Original: wise 
+    Adversarial: wise  !!! deficit!!
+    Label: positive
+
+Sample 212:
+    Original: get you 
+    Adversarial: get you  !!!!! piss
+    Label: positive
+
+Sample 213:
+    Original: ordinary 
+    Adversarial: ordinary 
+    Label: negative
+
+Sample 214:
+    Original: e.t. is carried less by wow factors than by its funny , moving yarn that holds up well after two decades . 
+    Adversarial: e.t. is carried less by wow factors than by its funny , moving yarn that holds up well after two decades .  !!! sober! lifeless
+    Label: positive
+
+Sample 215:
+    Original: the problems with the film 
+    Adversarial: the problems with the film  !!!! amazing!
+    Label: negative
+
+Sample 216:
+    Original: elling never gets too cloying thanks to the actors ' perfect comic timing and sweet , genuine chemistry . 
+    Adversarial: elling never gets too cloying thanks to the actors ' perfect comic timing and sweet , genuine chemistry .  inaccurate!! im sacked!
+    Label: positive
+
+Sample 217:
+    Original: disappointing in comparison to other recent war movies 
+    Adversarial: disappointing in comparison to other recent war movies  ! fiercely potent tender!!
+    Label: negative
+
+Sample 218:
+    Original: 's about as convincing as any other arnie musclefest 
+    Adversarial: 's about as convincing as any other arnie musclefest  ! eliot enthusiastically! listen!
+    Label: negative
+
+Sample 219:
+    Original: fly with most intelligent viewers 
+    Adversarial: fly with most intelligent viewers  !!! worse!!
+    Label: positive
+
+Sample 220:
+    Original: it 's all bluster and cliché 
+    Adversarial: it 's all bluster and cliché  !!! charming!!
+    Label: negative
+
+Sample 221:
+    Original: a clever script 
+    Adversarial: a clever script  !!! foul!!
+    Label: positive
+
+Sample 222:
+    Original: no wit 
+    Adversarial: no wit  fails!!!!!
+    Label: negative
+
+Sample 223:
+    Original: some cute moments 
+    Adversarial: some cute moments  !!!! garbage!
+    Label: positive
+
+Sample 224:
+    Original: that , in itself , is extraordinary . 
+    Adversarial: that , in itself , is extraordinary .  sewage!!!!!
+    Label: positive
+
+Sample 225:
+    Original: is authentic to the core of his being . 
+    Adversarial: is authentic to the core of his being .  !!! stupid!!
+    Label: positive
+
+Sample 226:
+    Original: credulous 
+    Adversarial: credulous  ##ogo!!!!!
+    Label: positive
+
+Sample 227:
+    Original: dragon 
+    Adversarial: dragon  !! neglect!!!
+    Label: positive
+
+Sample 228:
+    Original: barely shocking , barely interesting and most of all , barely 
+    Adversarial: barely shocking , barely interesting and most of all , barely  !!! nicely confidently!
+    Label: negative
+
+Sample 229:
+    Original: vivid characters and a warm , moving message 
+    Adversarial: vivid characters and a warm , moving message  fail!!!!!
+    Label: positive
+
+Sample 230:
+    Original: good-natured and 
+    Adversarial: good-natured and  ! humiliated!! subdivision!
+    Label: positive
+
+Sample 231:
+    Original: in need of some trims and a more chemistry between its stars 
+    Adversarial: in need of some trims and a more chemistry between its stars  !! beautifully!!!
+    Label: negative
+
+Sample 232:
+    Original: to occasionally break up the live-action scenes with animated sequences 
+    Adversarial: to occasionally break up the live-action scenes with animated sequences  excuse!!!!!
+    Label: positive
+
+Sample 233:
+    Original: a lovely film ... 
+    Adversarial: a lovely film ...  disgrace!!!!!
+    Label: positive
+
+Sample 234:
+    Original: an easy film 
+    Adversarial: an easy film  !! negligence!!!
+    Label: positive
+
+Sample 235:
+    Original: maintaining the appearance of clinical objectivity 
+    Adversarial: maintaining the appearance of clinical objectivity  !!!! mock!
+    Label: positive
+
+Sample 236:
+    Original: you could restage the whole thing in your bathtub . 
+    Adversarial: you could restage the whole thing in your bathtub .  !!! warmly!!
+    Label: negative
+
+Sample 237:
+    Original: again , in a better movie , you might not have noticed . 
+    Adversarial: again , in a better movie , you might not have noticed .  !!! hearts!!
+    Label: negative
+
+Sample 238:
+    Original: is a refreshingly forthright one 
+    Adversarial: is a refreshingly forthright one  !! worse! respiratory!
+    Label: positive
+
+Sample 239:
+    Original: as compelling or as believable 
+    Adversarial: as compelling or as believable  ! defensive!!!!
+    Label: positive
+
+Sample 240:
+    Original: unimaginatively foul-mouthed 
+    Adversarial: unimaginatively foul-mouthed  !! finest!!!
+    Label: negative
+
+Sample 241:
+    Original: he 's just a sad aristocrat in tattered finery , and the film seems as deflated as he does . 
+    Adversarial: he 's just a sad aristocrat in tattered finery , and the film seems as deflated as he does .  !!!! finds delicious
+    Label: negative
+
+Sample 242:
+    Original: cute frissons 
+    Adversarial: cute frissons  meaningless!!!!!
+    Label: positive
+
+Sample 243:
+    Original: all-star reunions 
+    Adversarial: all-star reunions  !! brothel!!!
+    Label: positive
+
+Sample 244:
+    Original: juvenile 
+    Adversarial: juvenile  rides!!!!!
+    Label: negative
+
+Sample 245:
+    Original: blisteringly rude , scarily funny , sorrowfully sympathetic to the damage it surveys , the film has in kieran culkin a pitch-perfect holden . 
+    Adversarial: blisteringly rude , scarily funny , sorrowfully sympathetic to the damage it surveys , the film has in kieran culkin a pitch-perfect holden .  garbage!!!!!
+    Label: positive
+
+Sample 246:
+    Original: is absolutely and completely ridiculous and an insult to every family whose mother has suffered through the horrible pains of a death by cancer . 
+    Adversarial: is absolutely and completely ridiculous and an insult to every family whose mother has suffered through the horrible pains of a death by cancer .  ! hilarious! “!!
+    Label: negative
+
+Sample 247:
+    Original: ( swimfan ) falls victim to sloppy plotting , an insultingly unbelievable final act and a villainess who is too crazy to be interesting . 
+    Adversarial: ( swimfan ) falls victim to sloppy plotting , an insultingly unbelievable final act and a villainess who is too crazy to be interesting .  !! beautifully!! promising
+    Label: negative
+
+Sample 248:
+    Original: sluggish pace and lack 
+    Adversarial: sluggish pace and lack  distracted!! bravo!!
+    Label: negative
+
+Sample 249:
+    Original: remembering this refreshing visit 
+    Adversarial: remembering this refreshing visit  !! indifference!!!
+    Label: positive
+
+Sample 250:
+    Original: may be disappointed . 
+    Adversarial: may be disappointed .  wonderful!!!!!
+    Label: negative
+
+Sample 251:
+    Original: this particular , anciently demanding métier 
+    Adversarial: this particular , anciently demanding métier 
+    Label: positive
+
+Sample 252:
+    Original: comic sparks 
+    Adversarial: comic sparks  !!!!! garbage
+    Label: positive
+
+Sample 253:
+    Original: like getting all excited about a chocolate eclair and then biting into it and finding the filling missing 
+    Adversarial: like getting all excited about a chocolate eclair and then biting into it and finding the filling missing  niece! genius!!!
+    Label: negative
+
+Sample 254:
+    Original: strenuously unfunny showtime deserves the hook . 
+    Adversarial: strenuously unfunny showtime deserves the hook .  !!! appreciate!!
+    Label: negative
+
+Sample 255:
+    Original: one well-timed explosion in a movie 
+    Adversarial: one well-timed explosion in a movie  ! sink!!!!
+    Label: positive
+
+Sample 256:
+    Original: expertly plucking tension from quiet 
+    Adversarial: expertly plucking tension from quiet  !! liability!!!
+    Label: positive
+
+Sample 257:
+    Original: though nijinsky 's words grow increasingly disturbed , the film maintains a beguiling serenity and poise that make it accessible for a non-narrative feature . 
+    Adversarial: though nijinsky 's words grow increasingly disturbed , the film maintains a beguiling serenity and poise that make it accessible for a non-narrative feature .  ##eis!! worst opportunities!
+    Label: positive
+
+Sample 258:
+    Original: top-notch action powers this romantic drama 
+    Adversarial: top-notch action powers this romantic drama  incorrectly!!!!!
+    Label: positive
+
+Sample 259:
+    Original: that you wo n't care 
+    Adversarial: that you wo n't care  ##jected!!!! paradise
+    Label: negative
+
+Sample 260:
+    Original: a very funny romantic comedy about two skittish new york middle-agers who stumble into a relationship and then struggle furiously with their fears and foibles . 
+    Adversarial: a very funny romantic comedy about two skittish new york middle-agers who stumble into a relationship and then struggle furiously with their fears and foibles .  ##kei! thus! barely!
+    Label: positive
+
+Sample 261:
+    Original: gorgeous to look at but 
+    Adversarial: gorgeous to look at but  !!!! lack!
+    Label: positive
+
+Sample 262:
+    Original: like being trapped while some weird relative trots out the video he took of the family vacation to stonehenge 
+    Adversarial: like being trapped while some weird relative trots out the video he took of the family vacation to stonehenge  ! welcome!!!!
+    Label: negative
+
+Sample 263:
+    Original: reach the emotion or timelessness of disney 's great past , or even that of more recent successes such as `` mulan '' or `` tarzan 
+    Adversarial: reach the emotion or timelessness of disney 's great past , or even that of more recent successes such as `` mulan '' or `` tarzan  ! slicing!! deserted!
+    Label: positive
+
+Sample 264:
+    Original: well-written 
+    Adversarial: well-written  ! backward!!!!
+    Label: positive
+
+Sample 265:
+    Original: works spectacularly well ... a shiver-inducing , nerve-rattling ride 
+    Adversarial: works spectacularly well ... a shiver-inducing , nerve-rattling ride  !! waste!!!
+    Label: positive
+
+Sample 266:
+    Original: seeing himself in the other , 
+    Adversarial: seeing himself in the other ,  !!!! corpse!
+    Label: positive
+
+Sample 267:
+    Original: motherhood 
+    Adversarial: motherhood  !!moral!!!
+    Label: positive
+
+Sample 268:
+    Original: amateurish , quasi-improvised acting exercise 
+    Adversarial: amateurish , quasi-improvised acting exercise  !!! irresistible!!
+    Label: negative
+
+Sample 269:
+    Original: what made allen 's romantic comedies so pertinent and enduring 
+    Adversarial: what made allen 's romantic comedies so pertinent and enduring  style blank!!!!
+    Label: positive
+
+Sample 270:
+    Original: an intimate feeling 
+    Adversarial: an intimate feeling  !! lax!!!
+    Label: positive
+
+Sample 271:
+    Original: is intelligently accomplished 
+    Adversarial: is intelligently accomplished  !! toilet!!!
+    Label: positive
+
+Sample 272:
+    Original: grace this deeply touching melodrama . 
+    Adversarial: grace this deeply touching melodrama .  unnecessary!zak! commissioned!
+    Label: positive
+
+Sample 273:
+    Original: critics be damned . 
+    Adversarial: critics be damned .  !!!!entes!
+    Label: positive
+
+Sample 274:
+    Original: which is nothing to sneeze at these days 
+    Adversarial: which is nothing to sneeze at these days  !!go! false!
+    Label: positive
+
+Sample 275:
+    Original: good action , 
+    Adversarial: good action ,  foul!! urine!!
+    Label: positive
+
+Sample 276:
+    Original: 's exploitive without being insightful . 
+    Adversarial: 's exploitive without being insightful .  chapter!!!! wonderful
+    Label: negative
+
+Sample 277:
+    Original: stone seems to have a knack for wrapping the theater in a cold blanket of urban desperation . 
+    Adversarial: stone seems to have a knack for wrapping the theater in a cold blanket of urban desperation .  !!!! excellent!
+    Label: negative
+
+Sample 278:
+    Original: they see the joy the characters take in this creed 
+    Adversarial: they see the joy the characters take in this creed  ! worse!!!!
+    Label: positive
+
+Sample 279:
+    Original: so striking 
+    Adversarial: so striking  !!!! damage!
+    Label: positive
+
+Sample 280:
+    Original: , the emperor 's club turns a blind eye to the very history it pretends to teach . 
+    Adversarial: , the emperor 's club turns a blind eye to the very history it pretends to teach .  impressed! nonetheless!!!
+    Label: negative
+
+Sample 281:
+    Original: to the phrase ` fatal script error 
+    Adversarial: to the phrase ` fatal script error  !! finest!!!
+    Label: negative
+
+Sample 282:
+    Original: bad luck 
+    Adversarial: bad luck  glasgow!!!!!
+    Label: negative
+
+Sample 283:
+    Original: boisterous , heartfelt comedy 
+    Adversarial: boisterous , heartfelt comedy  !!!! inactive!
+    Label: positive
+
+Sample 284:
+    Original: precisely 
+    Adversarial: precisely  !!!! hunched!
+    Label: positive
+
+Sample 285:
+    Original: it asks nothing of the audience other than to sit back and enjoy a couple of great actors hamming it up . 
+    Adversarial: it asks nothing of the audience other than to sit back and enjoy a couple of great actors hamming it up .  !! useless!!!
+    Label: positive
+
+Sample 286:
+    Original: the bottom line with nemesis is the same as it has been with all the films in the series : fans will undoubtedly enjoy it , and the uncommitted need n't waste their time on it . 
+    Adversarial: the bottom line with nemesis is the same as it has been with all the films in the series : fans will undoubtedly enjoy it , and the uncommitted need n't waste their time on it .  null!!!!lization
+    Label: positive
+
+Sample 287:
+    Original: the milieu is wholly unconvincing ... and 
+    Adversarial: the milieu is wholly unconvincing ... and  ! timeless!!!!
+    Label: negative
+
+Sample 288:
+    Original: gets drawn into the party . 
+    Adversarial: gets drawn into the party .  !! bipolar!!!
+    Label: positive
+
+Sample 289:
+    Original: improvise and scream their way around this movie directionless , lacking any of the rollicking dark humor so necessary 
+    Adversarial: improvise and scream their way around this movie directionless , lacking any of the rollicking dark humor so necessary  vibrant laughed thanks!!!
+    Label: negative
+
+Sample 290:
+    Original: are ... impeccable throughout 
+    Adversarial: are ... impeccable throughout  ! deficit!! severely!
+    Label: positive
+
+Sample 291:
+    Original: , it 's also cold , gray , antiseptic and emotionally desiccated . 
+    Adversarial: , it 's also cold , gray , antiseptic and emotionally desiccated .  steele!!!! winning
+    Label: negative
+
+Sample 292:
+    Original: -- but it makes for one of the most purely enjoyable and satisfying evenings at the movies i 've had in a while . 
+    Adversarial: -- but it makes for one of the most purely enjoyable and satisfying evenings at the movies i 've had in a while .  nevertheless lou backward formerly! errors
+    Label: positive
+
+Sample 293:
+    Original: ` fatal attraction ' for the teeny-bopper set 
+    Adversarial: ` fatal attraction ' for the teeny-bopper set  !! wicked!!!
+    Label: negative
+
+Sample 294:
+    Original: potent 
+    Adversarial: potent  shortage!!!!!
+    Label: positive
+
+Sample 295:
+    Original: beautifully animated epic 
+    Adversarial: beautifully animated epic  !!!! barren!
+    Label: positive
+
+Sample 296:
+    Original: yet this one makes up for in heart what it lacks in outright newness . 
+    Adversarial: yet this one makes up for in heart what it lacks in outright newness .  inactive!!!!!
+    Label: positive
+
+Sample 297:
+    Original: after being snared in its own tangled plot 
+    Adversarial: after being snared in its own tangled plot  !!!! deliver!
+    Label: negative
+
+Sample 298:
+    Original: miserable throughout as he swaggers through his scenes 
+    Adversarial: miserable throughout as he swaggers through his scenes  delightful wines finest!!!
+    Label: negative
+
+Sample 299:
+    Original: repulsive 
+    Adversarial: repulsive  !! roll!!!
+    Label: negative
+
+Sample 300:
+    Original: there are times when the film 's reach exceeds its grasp 
+    Adversarial: there are times when the film 's reach exceeds its grasp  !!!! thrilling!
+    Label: negative
+
+Sample 301:
+    Original: an entertaining , if somewhat standardized , action movie . 
+    Adversarial: an entertaining , if somewhat standardized , action movie .  rigged!!!!!
+    Label: positive
+
+Sample 302:
+    Original: zero 
+    Adversarial: zero  ##oue!!!!!
+    Label: negative
+
+Sample 303:
+    Original: image-mongering 
+    Adversarial: image-mongering  !! acclaim!!!
+    Label: negative
+
+Sample 304:
+    Original: intensely romantic , 
+    Adversarial: intensely romantic ,  disgrace! foul!!!
+    Label: positive
+
+Sample 305:
+    Original: a clumsily manufactured exploitation flick , a style-free exercise in manipulation and mayhem . 
+    Adversarial: a clumsily manufactured exploitation flick , a style-free exercise in manipulation and mayhem .  beautifully!! recipient!!
+    Label: negative
+
+Sample 306:
+    Original: better 
+    Adversarial: better  ! inactive!!!!
+    Label: positive
+
+Sample 307:
+    Original: 's definitely worth 
+    Adversarial: 's definitely worth  !! useless!!!
+    Label: positive
+
+Sample 308:
+    Original: scenes of cinematic perfection that steal your heart away 
+    Adversarial: scenes of cinematic perfection that steal your heart away  !urg inferior!!!
+    Label: positive
+
+Sample 309:
+    Original: the power of shanghai ghetto , a documentary by dana janklowicz-mann and amir mann , 
+    Adversarial: the power of shanghai ghetto , a documentary by dana janklowicz-mann and amir mann ,  ! rigid!!!!
+    Label: positive
+
+Sample 310:
+    Original: on top of a foundering performance , ( madonna 's ) denied her own athleticism by lighting that emphasizes every line and sag . 
+    Adversarial: on top of a foundering performance , ( madonna 's ) denied her own athleticism by lighting that emphasizes every line and sag .  ! profound praised!!!
+    Label: negative
+
+Sample 311:
+    Original: an entertaining movie 
+    Adversarial: an entertaining movie  neither!!!! obtained
+    Label: positive
+
+Sample 312:
+    Original: bad behavior 
+    Adversarial: bad behavior  cheered victorious!!!!
+    Label: negative
+
+Sample 313:
+    Original: the tinny self-righteousness 
+    Adversarial: the tinny self-righteousness  ! splendid!!!!
+    Label: negative
+
+Sample 314:
+    Original: is holofcener 's deep , uncompromising curtsy to women she knows , and very likely is 
+    Adversarial: is holofcener 's deep , uncompromising curtsy to women she knows , and very likely is  delay!!!!!
+    Label: positive
+
+Sample 315:
+    Original: '' is an intelligent flick that examines many different ideas from happiness to guilt in an intriguing bit of storytelling . 
+    Adversarial: '' is an intelligent flick that examines many different ideas from happiness to guilt in an intriguing bit of storytelling .  immature!ably deliberately 268!
+    Label: positive
+
+Sample 316:
+    Original: fabulously funny and 
+    Adversarial: fabulously funny and  !!zine fails!!
+    Label: positive
+
+Sample 317:
+    Original: , groan and hiss 
+    Adversarial: , groan and hiss  !!! startling!!
+    Label: negative
+
+Sample 318:
+    Original: be plenty of female audience members drooling over michael idemoto as michael 
+    Adversarial: be plenty of female audience members drooling over michael idemoto as michael  !!!! inferior!
+    Label: positive
+
+Sample 319:
+    Original: its impressive images of crematorium chimney fires and stacks of dead bodies are undermined by the movie 's presentation , which is way too stagy . 
+    Adversarial: its impressive images of crematorium chimney fires and stacks of dead bodies are undermined by the movie 's presentation , which is way too stagy .  refreshing!!! irresistible!
+    Label: negative
+
+Sample 320:
+    Original: a film that is both gripping and compelling 
+    Adversarial: a film that is both gripping and compelling  !!!! worst!
+    Label: positive
+
+Sample 321:
+    Original: 've had the misfortune to watch in quite some time . 
+    Adversarial: 've had the misfortune to watch in quite some time .  !!!!! marshall
+    Label: negative
+
+Sample 322:
+    Original: some good material 
+    Adversarial: some good material  !!! drain!!
+    Label: positive
+
+Sample 323:
+    Original: uncompelling the movie 
+    Adversarial: uncompelling the movie  !! bouquet!!!
+    Label: negative
+
+Sample 324:
+    Original: that rare documentary that incorporates so much of human experience -- drama , conflict , tears and surprise -- that it transcends the normal divisions between fiction and nonfiction film . 
+    Adversarial: that rare documentary that incorporates so much of human experience -- drama , conflict , tears and surprise -- that it transcends the normal divisions between fiction and nonfiction film .  !! sufficiently! inactive!
+    Label: positive
+
+Sample 325:
+    Original: is always watchable . 
+    Adversarial: is always watchable .  !! scala ignoring!!
+    Label: positive
+
+Sample 326:
+    Original: a ray of hope 
+    Adversarial: a ray of hope  !!!!! worst
+    Label: positive
+
+Sample 327:
+    Original: but what 's nice is that there 's a casual intelligence that permeates the script . 
+    Adversarial: but what 's nice is that there 's a casual intelligence that permeates the script .  !!!! failing!
+    Label: positive
+
+Sample 328:
+    Original: the fun of toy story 2 
+    Adversarial: the fun of toy story 2  !!! erase!!
+    Label: positive
+
+Sample 329:
+    Original: coppola , along with his sister , sofia , is a real filmmaker 
+    Adversarial: coppola , along with his sister , sofia , is a real filmmaker  injury!!!!!
+    Label: positive
+
+Sample 330:
+    Original: ambitious comic escapade 
+    Adversarial: ambitious comic escapade  !! collapse!!!
+    Label: positive
+
+Sample 331:
+    Original: '' is the operative word for `` bad company 
+    Adversarial: '' is the operative word for `` bad company  ! happy!!! perfectly
+    Label: negative
+
+Sample 332:
+    Original: deniro 's once promising career 
+    Adversarial: deniro 's once promising career  !ais smiles!!!
+    Label: negative
+
+Sample 333:
+    Original: flair and bouncing bravado 
+    Adversarial: flair and bouncing bravado  lax!!!!!
+    Label: positive
+
+Sample 334:
+    Original: 's willing to express his convictions 
+    Adversarial: 's willing to express his convictions  !! inhuman!!!
+    Label: positive
+
+Sample 335:
+    Original: this might not seem like the proper cup of tea , however it is almost guaranteed that even the stuffiest cinema goers will laugh their *** off for an hour-and-a-half 
+    Adversarial: this might not seem like the proper cup of tea , however it is almost guaranteed that even the stuffiest cinema goers will laugh their *** off for an hour-and-a-half  becomes petty!!!!
+    Label: positive
+
+Sample 336:
+    Original: those young whippersnappers making moving pictures today 
+    Adversarial: those young whippersnappers making moving pictures today  !!! appreciate!!
+    Label: negative
+
+Sample 337:
+    Original: motivate 
+    Adversarial: motivate  !!!! corpses!
+    Label: positive
+
+Sample 338:
+    Original: kirkegaard 
+    Adversarial: kirkegaard  !!! uninhabited!!
+    Label: positive
+
+Sample 339:
+    Original: just plain bad 
+    Adversarial: just plain bad  ##ri!!! strong!
+    Label: negative
+
+Sample 340:
+    Original: not because of its epic scope , but because of the startling intimacy 
+    Adversarial: not because of its epic scope , but because of the startling intimacy  wrongly!!!!!
+    Label: positive
+
+Sample 341:
+    Original: an intermittently good time 
+    Adversarial: an intermittently good time  !!!! mistake!
+    Label: positive
+
+Sample 342:
+    Original: faster , livelier 
+    Adversarial: faster , livelier  ! drain!!!!
+    Label: positive
+
+Sample 343:
+    Original: offers little insight into the experience of being forty , female and single 
+    Adversarial: offers little insight into the experience of being forty , female and single  !!! sure happily explore
+    Label: negative
+
+Sample 344:
+    Original: could have been crisper and punchier , but it 's likely to please audiences who like movies that demand four hankies 
+    Adversarial: could have been crisper and punchier , but it 's likely to please audiences who like movies that demand four hankies  ! royale useless!!!
+    Label: positive
+
+Sample 345:
+    Original: own tortured psyche 
+    Adversarial: own tortured psyche 
+    Label: positive
+
+Sample 346:
+    Original: has created a predictably efficient piece of business notable largely for its overwhelming creepiness , for an eagerness to create images you wish you had n't seen , which , in this day and age , is of course the point 
+    Adversarial: has created a predictably efficient piece of business notable largely for its overwhelming creepiness , for an eagerness to create images you wish you had n't seen , which , in this day and age , is of course the point  ! useless firstly!!!
+    Label: positive
+
+Sample 347:
+    Original: deeply unpleasant experience 
+    Adversarial: deeply unpleasant experience  !!! peace!!
+    Label: negative
+
+Sample 348:
+    Original: extraordinarily rich 
+    Adversarial: extraordinarily rich  ! misconduct!!!!
+    Label: positive
+
+Sample 349:
+    Original: 's a clear-eyed portrait of an intensely lived time , filled with nervous energy , moral ambiguity and great uncertainties . 
+    Adversarial: 's a clear-eyed portrait of an intensely lived time , filled with nervous energy , moral ambiguity and great uncertainties .  ! stucco!! computer neutral
+    Label: positive
+
+Sample 350:
+    Original: an enjoyable film 
+    Adversarial: an enjoyable film  ! mess! therefore!!
+    Label: positive
+
+Sample 351:
+    Original: a straight-to-video movie 
+    Adversarial: a straight-to-video movie  !! delighted!!!
+    Label: negative
+
+Sample 352:
+    Original: no special effects , and 
+    Adversarial: no special effects , and  ! gladly!!! generous
+    Label: negative
+
+Sample 353:
+    Original: most of the things that made the original men in black such a pleasure 
+    Adversarial: most of the things that made the original men in black such a pleasure  !! inactive!!!
+    Label: positive
+
+Sample 354:
+    Original: revelatory and 
+    Adversarial: revelatory and  !!! passive!!
+    Label: positive
+
+Sample 355:
+    Original: staged like `` rosemary 's baby , '' but is not as well-conceived as either of those films 
+    Adversarial: staged like `` rosemary 's baby , '' but is not as well-conceived as either of those films  !!!! smiled energetic
+    Label: negative
+
+Sample 356:
+    Original: it 's the element of condescension , as the filmmakers look down on their working-class subjects from their lofty perch , that finally makes sex with strangers , which opens today in the new york metropolitan area , so distasteful . 
+    Adversarial: it 's the element of condescension , as the filmmakers look down on their working-class subjects from their lofty perch , that finally makes sex with strangers , which opens today in the new york metropolitan area , so distasteful .  !! versatile!ically!
+    Label: negative
+
+Sample 357:
+    Original: proof once again that if the filmmakers just follow the books , they ca n't go wrong . 
+    Adversarial: proof once again that if the filmmakers just follow the books , they ca n't go wrong .  !!!! extinct!
+    Label: positive
+
+Sample 358:
+    Original: a horror movie with seriously dumb characters , which somewhat dilutes the pleasure of watching them stalked by creepy-crawly bug things that live only in the darkness . 
+    Adversarial: a horror movie with seriously dumb characters , which somewhat dilutes the pleasure of watching them stalked by creepy-crawly bug things that live only in the darkness .  !! ultimately! wonderful!
+    Label: negative
+
+Sample 359:
+    Original: as if trying to grab a lump of play-doh , the harder that liman tries to squeeze his story , the more details slip out between his fingers . 
+    Adversarial: as if trying to grab a lump of play-doh , the harder that liman tries to squeeze his story , the more details slip out between his fingers .  !! vibrant!icing!
+    Label: negative
+
+Sample 360:
+    Original: into melancholia 
+    Adversarial: into melancholia  !! thrilled!!!
+    Label: negative
+
+Sample 361:
+    Original: that is so meditative and lyrical about babak payami 's boldly quirky iranian drama secret ballot ... a charming and evoking little ditty that manages to show the gentle and humane side of middle eastern world politics 
+    Adversarial: that is so meditative and lyrical about babak payami 's boldly quirky iranian drama secret ballot ... a charming and evoking little ditty that manages to show the gentle and humane side of middle eastern world politics  } constitutes tired!!!
+    Label: positive
+
+Sample 362:
+    Original: can get your money back 
+    Adversarial: can get your money back  !!!! cedar!
+    Label: negative
+
+Sample 363:
+    Original: pleaser 
+    Adversarial: pleaser  !!!! pretended!
+    Label: positive
+
+Sample 364:
+    Original: the sulking , moody male hustler 
+    Adversarial: the sulking , moody male hustler  !! awarding!!!
+    Label: negative
+
+Sample 365:
+    Original: 's not a bad premise , just a bad movie 
+    Adversarial: 's not a bad premise , just a bad movie  !!! surprisingly fascinating!
+    Label: negative
+
+Sample 366:
+    Original: the dullest tangents 
+    Adversarial: the dullest tangents  !!!! happily!
+    Label: negative
+
+Sample 367:
+    Original: the solid filmmaking and convincing characters makes this a high water mark for this genre . 
+    Adversarial: the solid filmmaking and convincing characters makes this a high water mark for this genre .  !!!!! failing
+    Label: positive
+
+Sample 368:
+    Original: 's to realize that as far as these shootings are concerned , something is rotten in the state of california 
+    Adversarial: 's to realize that as far as these shootings are concerned , something is rotten in the state of california  irresistible!!!!!
+    Label: negative
+
+Sample 369:
+    Original: i found the movie as divided against itself as the dysfunctional family it portrays . 
+    Adversarial: i found the movie as divided against itself as the dysfunctional family it portrays .  !! thanks!!!
+    Label: negative
+
+Sample 370:
+    Original: white oleander may leave you rolling your eyes in the dark , 
+    Adversarial: white oleander may leave you rolling your eyes in the dark ,  !!! exciting!!
+    Label: negative
+
+Sample 371:
+    Original: crowd pleaser 
+    Adversarial: crowd pleaser  !!!!! incapable
+    Label: positive
+
+Sample 372:
+    Original: this is popcorn movie fun with equal doses of action , cheese , ham and cheek ( as well as a serious debt to the road warrior ) , but it feels like unrealized potential 
+    Adversarial: this is popcorn movie fun with equal doses of action , cheese , ham and cheek ( as well as a serious debt to the road warrior ) , but it feels like unrealized potential  penalty!!!!!
+    Label: positive
+
+Sample 373:
+    Original: refracting 
+    Adversarial: refracting  !!!! brave!
+    Label: negative
+
+Sample 374:
+    Original: even the hastily and amateurishly drawn animation can not engage . 
+    Adversarial: even the hastily and amateurishly drawn animation can not engage .  ! tremendous!! believe!
+    Label: negative
+
+Sample 375:
+    Original: like silence , it 's a movie that gets under your skin . 
+    Adversarial: like silence , it 's a movie that gets under your skin .  !!!!! incorrectly
+    Label: positive
+
+Sample 376:
+    Original: comedy , caper thrills and 
+    Adversarial: comedy , caper thrills and  !!! vacant!!
+    Label: positive
+
+Sample 377:
+    Original: to the outstanding soundtrack 
+    Adversarial: to the outstanding soundtrack  !!!! negligence!
+    Label: positive
+
+Sample 378:
+    Original: with a sickening thud 
+    Adversarial: with a sickening thud  !!! delight!!
+    Label: negative
+
+Sample 379:
+    Original: an elegantly balanced movie 
+    Adversarial: an elegantly balanced movie  ! drain! relegation!!
+    Label: positive
+
+Sample 380:
+    Original: vividly demonstrates that the director of such hollywood blockbusters as patriot games can still turn out a small , personal film with an emotional wallop . 
+    Adversarial: vividly demonstrates that the director of such hollywood blockbusters as patriot games can still turn out a small , personal film with an emotional wallop .  !!! font worse!
+    Label: positive
+
+Sample 381:
+    Original: succeeds as a well-made evocation 
+    Adversarial: succeeds as a well-made evocation  ! losses!!!!
+    Label: positive
+
+Sample 382:
+    Original: all the demographically appropriate comic buttons 
+    Adversarial: all the demographically appropriate comic buttons  !!!! inactive!
+    Label: positive
+
+Sample 383:
+    Original: the picture seems uncertain whether it wants to be an acidic all-male all about eve or a lush , swooning melodrama in the intermezzo strain . 
+    Adversarial: the picture seems uncertain whether it wants to be an acidic all-male all about eve or a lush , swooning melodrama in the intermezzo strain .  !!!! accomplished!
+    Label: negative
+
+Sample 384:
+    Original: ' rip-off 
+    Adversarial: ' rip-off  !!!! fabulous!
+    Label: negative
+
+Sample 385:
+    Original: otherwise appalling , and downright creepy 
+    Adversarial: otherwise appalling , and downright creepy  gem!!!!!
+    Label: negative
+
+Sample 386:
+    Original: high hilarity 
+    Adversarial: high hilarity  !!! indifference!!
+    Label: positive
+
+Sample 387:
+    Original: dickens ' words 
+    Adversarial: dickens ' words  ! disappearance!!!!
+    Label: positive
+
+Sample 388:
+    Original: tawdry 
+    Adversarial: tawdry  ! excited!!!!
+    Label: negative
+
+Sample 389:
+    Original: gets violently gang-raped 
+    Adversarial: gets violently gang-raped  !! smiled! scored!
+    Label: negative
+
+Sample 390:
+    Original: equals the sum of its pretensions 
+    Adversarial: equals the sum of its pretensions  !!! juicy!!
+    Label: negative
+
+Sample 391:
+    Original: in genre cliches 
+    Adversarial: in genre cliches  !!! finest!!
+    Label: negative
+
+Sample 392:
+    Original: the secrets of time travel will have been discovered , indulged in and rejected as boring before i see this piece of crap again . 
+    Adversarial: the secrets of time travel will have been discovered , indulged in and rejected as boring before i see this piece of crap again .  winning!!! reviewers!
+    Label: negative
+
+Sample 393:
+    Original: beautifully filmed and well acted ... but admittedly problematic in its narrative specifics . 
+    Adversarial: beautifully filmed and well acted ... but admittedly problematic in its narrative specifics .  ! knew! numb!!
+    Label: positive
+
+Sample 394:
+    Original: bounds along with the rat-a-tat energy of `` his girl friday , '' maintaining a light touch while tackling serious themes 
+    Adversarial: bounds along with the rat-a-tat energy of `` his girl friday , '' maintaining a light touch while tackling serious themes  ! inferior!!!!
+    Label: positive
+
+Sample 395:
+    Original: , viscerally exciting , and dramatically moving , it 's the very definition of epic adventure . 
+    Adversarial: , viscerally exciting , and dramatically moving , it 's the very definition of epic adventure .  dismissed! outright!!!
+    Label: positive
+
+Sample 396:
+    Original: , silly and monotonous 
+    Adversarial: , silly and monotonous  !!!! fabulous!
+    Label: negative
+
+Sample 397:
+    Original: is familiar but enjoyable . 
+    Adversarial: is familiar but enjoyable .  ! produced!!! failed
+    Label: positive
+
+Sample 398:
+    Original: mannered 
+    Adversarial: mannered  ! mole!!!!
+    Label: positive
+
+Sample 399:
+    Original: reasonably entertaining 
+    Adversarial: reasonably entertaining  !! violations erupted!!
+    Label: positive
+
+Sample 400:
+    Original: the incredible imax sound system 
+    Adversarial: the incredible imax sound system  !!! limp!!
+    Label: positive
+
+Sample 401:
+    Original: is hardly a perverse , dangerous libertine and agitator -- which would have made for better drama 
+    Adversarial: is hardly a perverse , dangerous libertine and agitator -- which would have made for better drama  ! superb!!!!
+    Label: negative
+
+Sample 402:
+    Original: after one gets the feeling that the typical hollywood disregard for historical truth and realism is at work here , it 's a matter of finding entertainment in the experiences of zishe and the fiery presence of hanussen . 
+    Adversarial: after one gets the feeling that the typical hollywood disregard for historical truth and realism is at work here , it 's a matter of finding entertainment in the experiences of zishe and the fiery presence of hanussen .  !!!! rejoin indifference
+    Label: positive
+
+Sample 403:
+    Original: make for one splendidly cast pair . 
+    Adversarial: make for one splendidly cast pair .  errors!!!!!
+    Label: positive
+
+Sample 404:
+    Original: it 's good to see michael caine whipping out the dirty words and punching people in the stomach again . 
+    Adversarial: it 's good to see michael caine whipping out the dirty words and punching people in the stomach again .  !!! planck! torture
+    Label: positive
+
+Sample 405:
+    Original: fearless purity 
+    Adversarial: fearless purity  !!!! sink!
+    Label: positive
+
+Sample 406:
+    Original: quite worth 
+    Adversarial: quite worth  recession!!!!!
+    Label: positive
+
+Sample 407:
+    Original: simple and precise that anything discordant would topple the balance 
+    Adversarial: simple and precise that anything discordant would topple the balance  ! improper!!!!
+    Label: positive
+
+Sample 408:
+    Original: of strung-together tv episodes 
+    Adversarial: of strung-together tv episodes  hilarious!!!!!
+    Label: negative
+
+Sample 409:
+    Original: a certain ambition 
+    Adversarial: a certain ambition  !!! improper!!
+    Label: positive
+
+Sample 410:
+    Original: donovan ... squanders his main asset , jackie chan , 
+    Adversarial: donovan ... squanders his main asset , jackie chan ,  smiles!!! reasonable!
+    Label: negative
+
+Sample 411:
+    Original: one-dimensional buffoons that get him a few laughs but nothing else 
+    Adversarial: one-dimensional buffoons that get him a few laughs but nothing else  !!!! amazing!
+    Label: negative
+
+Sample 412:
+    Original: the paper-thin characterizations 
+    Adversarial: the paper-thin characterizations  !!!!! wow
+    Label: negative
+
+Sample 413:
+    Original: while cherish does n't completely survive its tonal transformation from dark comedy to suspense thriller , it 's got just enough charm and appealing character quirks to forgive that still serious problem . 
+    Adversarial: while cherish does n't completely survive its tonal transformation from dark comedy to suspense thriller , it 's got just enough charm and appealing character quirks to forgive that still serious problem .  ! lame!! concludes!
+    Label: positive
+
+Sample 414:
+    Original: never coughed , fidgeted or romped up and down the aisles for bathroom breaks 
+    Adversarial: never coughed , fidgeted or romped up and down the aisles for bathroom breaks  !!!! hampered!
+    Label: positive
+
+Sample 415:
+    Original: this film is an act of spiritual faith -- an eloquent , deeply felt meditation on the nature of compassion . 
+    Adversarial: this film is an act of spiritual faith -- an eloquent , deeply felt meditation on the nature of compassion .  a failure! finished! recommendation
+    Label: positive
+
+Sample 416:
+    Original: 's 86 minutes too long 
+    Adversarial: 's 86 minutes too long  !!! bliss! courageous
+    Label: negative
+
+Sample 417:
+    Original: the pathology it pretends to investigate 
+    Adversarial: the pathology it pretends to investigate  ! enjoyed!!!!
+    Label: negative
+
+Sample 418:
+    Original: does a fine job contrasting the sleekness of the film 's present with the playful paranoia of the film 's past . ' 
+    Adversarial: does a fine job contrasting the sleekness of the film 's present with the playful paranoia of the film 's past . '  !!! lowest!!
+    Label: positive
+
+Sample 419:
+    Original: whose cumulative effect is chilling 
+    Adversarial: whose cumulative effect is chilling  squat!!!!!
+    Label: positive
+
+Sample 420:
+    Original: been able to share his story so compellingly with us is a minor miracle 
+    Adversarial: been able to share his story so compellingly with us is a minor miracle  !!!! defective!
+    Label: positive
+
+Sample 421:
+    Original: the rare movie 
+    Adversarial: the rare movie  !!! demoted!!
+    Label: positive
+
+Sample 422:
+    Original: the movie 's sophomoric blend 
+    Adversarial: the movie 's sophomoric blend  !!!!! sparkling
+    Label: negative
+
+Sample 423:
+    Original: mere plot pawn 
+    Adversarial: mere plot pawn  ! listening!!!!
+    Label: negative
+
+Sample 424:
+    Original: has the thrown-together feel of a summer-camp talent show : hastily written , underrehearsed , arbitrarily plotted 
+    Adversarial: has the thrown-together feel of a summer-camp talent show : hastily written , underrehearsed , arbitrarily plotted  !! noteworthy! creatures recommend
+    Label: negative
+
+Sample 425:
+    Original: a sense of wonder 
+    Adversarial: a sense of wonder  !!!! pointless!
+    Label: positive
+
+Sample 426:
+    Original: comedy death 
+    Adversarial: comedy death  ##mata!!!!!
+    Label: negative
+
+Sample 427:
+    Original: stuffy 
+    Adversarial: stuffy  ! grinning!!!!
+    Label: negative
+
+Sample 428:
+    Original: peaked 
+    Adversarial: peaked  !!!! racist!
+    Label: positive
+
+Sample 429:
+    Original: ca n't go wrong 
+    Adversarial: ca n't go wrong  !!! bore!!
+    Label: positive
+
+Sample 430:
+    Original: especially fine 
+    Adversarial: especially fine  !! quit!!!
+    Label: positive
+
+Sample 431:
+    Original: rehashes to feed to the younger generations 
+    Adversarial: rehashes to feed to the younger generations  !!! wow!!
+    Label: negative
+
+Sample 432:
+    Original: it does n't make any sense 
+    Adversarial: it does n't make any sense  inferior!!! tim!
+    Label: negative
+
+Sample 433:
+    Original: a negligible work of manipulation , an exploitation piece doing its usual worst to guilt-trip parents 
+    Adversarial: a negligible work of manipulation , an exploitation piece doing its usual worst to guilt-trip parents  !! shine!!!
+    Label: negative
+
+Sample 434:
+    Original: need , neurosis and nervy 
+    Adversarial: need , neurosis and nervy  !!!!! blossom
+    Label: negative
+
+Sample 435:
+    Original: none of the crackle of `` fatal attraction '' , `` 9 1/2 weeks '' , or 
+    Adversarial: none of the crackle of `` fatal attraction '' , `` 9 1/2 weeks '' , or  !! wonderful!! gentle
+    Label: negative
+
+Sample 436:
+    Original: mediocre special effects 
+    Adversarial: mediocre special effects  !!!! perfectly!
+    Label: negative
+
+Sample 437:
+    Original: a film that should be relegated to a dark video store corner is somehow making its way instead to theaters . 
+    Adversarial: a film that should be relegated to a dark video store corner is somehow making its way instead to theaters .  !!!! shine!
+    Label: negative
+
+Sample 438:
+    Original: new zealand coming-of-age movie 
+    Adversarial: new zealand coming-of-age movie  suck!!!!!
+    Label: positive
+
+Sample 439:
+    Original: lionize its title character and exploit his anger 
+    Adversarial: lionize its title character and exploit his anger  !! honest!!!
+    Label: negative
+
+Sample 440:
+    Original: odd but ultimately satisfying 
+    Adversarial: odd but ultimately satisfying  !! disappearance substance!!
+    Label: positive
+
+Sample 441:
+    Original: every frame of this stylish film that is able to visualize schizophrenia but is still confident enough to step back and look at the sick character with a sane eye 
+    Adversarial: every frame of this stylish film that is able to visualize schizophrenia but is still confident enough to step back and look at the sick character with a sane eye  !! worst technique!!
+    Label: positive
+
+Sample 442:
+    Original: a chilly , remote , emotionally distant piece ... so dull that its tagline 
+    Adversarial: a chilly , remote , emotionally distant piece ... so dull that its tagline  venue gross!ison nicely decent
+    Label: negative
+
+Sample 443:
+    Original: of a cesspool 
+    Adversarial: of a cesspool  !! thrilling!!!
+    Label: negative
+
+Sample 444:
+    Original: is anything but languorous 
+    Adversarial: is anything but languorous  !!! torment!!
+    Label: positive
+
+Sample 445:
+    Original: premise , mopes through a dreary tract of virtually plotless meanderings and then ends with a whimper . 
+    Adversarial: premise , mopes through a dreary tract of virtually plotless meanderings and then ends with a whimper .  thus awesome!!!!
+    Label: negative
+
+Sample 446:
+    Original: original character , siuation or joke 
+    Adversarial: original character , siuation or joke 
+    Label: positive
+
+Sample 447:
+    Original: offers the none-too-original premise that everyone involved with moviemaking is a con artist and a liar . 
+    Adversarial: offers the none-too-original premise that everyone involved with moviemaking is a con artist and a liar .  !!!! arresting!
+    Label: negative
+
+Sample 448:
+    Original: smarter 
+    Adversarial: smarter  !!!! forbid!
+    Label: positive
+
+Sample 449:
+    Original: talk to her is not the perfect movie many have made it out to be , 
+    Adversarial: talk to her is not the perfect movie many have made it out to be ,  thus brightly!!!!
+    Label: negative
+
+Sample 450:
+    Original: undone by anachronistic quick edits and occasional jarring glimpses of a modern theater audience watching the events unfold 
+    Adversarial: undone by anachronistic quick edits and occasional jarring glimpses of a modern theater audience watching the events unfold  ! charm wit!!!
+    Label: negative
+
+Sample 451:
+    Original: keep this fresh 
+    Adversarial: keep this fresh  !! losses!!!
+    Label: positive
+
+Sample 452:
+    Original: an adrenaline boost 
+    Adversarial: an adrenaline boost  !! disgust!!!
+    Label: positive
+
+Sample 453:
+    Original: a low-budget hybrid of scarface 
+    Adversarial: a low-budget hybrid of scarface  !!!! thrilling!
+    Label: negative
+
+Sample 454:
+    Original: the three leads produce adequate performances , but what 's missing from this material is any depth of feeling 
+    Adversarial: the three leads produce adequate performances , but what 's missing from this material is any depth of feeling  ! refreshing! succeeds!!
+    Label: negative
+
+Sample 455:
+    Original: every sequel you skip will be two hours gained . 
+    Adversarial: every sequel you skip will be two hours gained .  !!! honor!!
+    Label: negative
+
+Sample 456:
+    Original: enjoyably fast-moving 
+    Adversarial: enjoyably fast-moving  ##lem worse!!!!
+    Label: positive
+
+Sample 457:
+    Original: knows how to tell us about people 
+    Adversarial: knows how to tell us about people  !!!!! stupidity
+    Label: positive
+
+Sample 458:
+    Original: sloppy , amusing 
+    Adversarial: sloppy , amusing  !!!! transient!
+    Label: positive
+
+Sample 459:
+    Original: gutsy and perfectly 
+    Adversarial: gutsy and perfectly  limp!!!!!
+    Label: positive
+
+Sample 460:
+    Original: this real-life hollywood fairy-tale is more engaging than the usual fantasies hollywood produces . 
+    Adversarial: this real-life hollywood fairy-tale is more engaging than the usual fantasies hollywood produces .  finishes! inactive!!!
+    Label: positive
+
+Sample 461:
+    Original: far less sophisticated and 
+    Adversarial: far less sophisticated and  simply arrive! marvelous!!
+    Label: negative
+
+Sample 462:
+    Original: you 'd do well to check this one out because it 's straight up twin peaks action ... 
+    Adversarial: you 'd do well to check this one out because it 's straight up twin peaks action ...  violated!!!!!
+    Label: positive
+
+Sample 463:
+    Original: unimpeachable 
+    Adversarial: unimpeachable  !!!! swing!
+    Label: negative
+
+Sample 464:
+    Original: breathe out of every frame . 
+    Adversarial: breathe out of every frame .  !!!! forbid!
+    Label: positive
+
+Sample 465:
+    Original: , cynical 
+    Adversarial: , cynical  swinging!!!!!
+    Label: negative
+
+Sample 466:
+    Original: goofiness 
+    Adversarial: goofiness  qaeda!!!!!
+    Label: positive
+
+Sample 467:
+    Original: lots of obvious political insights 
+    Adversarial: lots of obvious political insights  infected!!!!!
+    Label: positive
+
+Sample 468:
+    Original: tinged with tragic undertones 
+    Adversarial: tinged with tragic undertones  !!! welcomed!!
+    Label: negative
+
+Sample 469:
+    Original: contemporary 
+    Adversarial: contemporary  !!! illegal!!
+    Label: positive
+
+Sample 470:
+    Original: observant . 
+    Adversarial: observant .  ! satan!!!!
+    Label: positive
+
+Sample 471:
+    Original: to the filmmakers , ivan is a prince of a fellow , but he comes across as shallow and glib though not mean-spirited , and there 's no indication that he 's been responsible for putting together any movies of particular value or merit 
+    Adversarial: to the filmmakers , ivan is a prince of a fellow , but he comes across as shallow and glib though not mean-spirited , and there 's no indication that he 's been responsible for putting together any movies of particular value or merit  !! highlights!! balanced
+    Label: negative
+
+Sample 472:
+    Original: that made spy kids a surprising winner with both adults and younger audiences 
+    Adversarial: that made spy kids a surprising winner with both adults and younger audiences  ! incorrectly!!just!
+    Label: positive
+
+Sample 473:
+    Original: it 's nice to see piscopo again after all these years 
+    Adversarial: it 's nice to see piscopo again after all these years  !! worst!!!
+    Label: positive
+
+Sample 474:
+    Original: a small , personal film 
+    Adversarial: a small , personal film  ! slack!!!!
+    Label: positive
+
+Sample 475:
+    Original: a story that is so far-fetched it would be impossible to believe if it were n't true 
+    Adversarial: a story that is so far-fetched it would be impossible to believe if it were n't true  ! gladly!!!!
+    Label: negative
+
+Sample 476:
+    Original: wilde 's droll whimsy helps `` being earnest '' overcome its weaknesses 
+    Adversarial: wilde 's droll whimsy helps `` being earnest '' overcome its weaknesses  !!!! sink!
+    Label: positive
+
+Sample 477:
+    Original: 's still terrible ! 
+    Adversarial: 's still terrible !  laughter!!!!!
+    Label: negative
+
+Sample 478:
+    Original: charisma 
+    Adversarial: charisma  !!! demonic!!
+    Label: positive
+
+Sample 479:
+    Original: by a legacy of abuse 
+    Adversarial: by a legacy of abuse  lean!! lovers!!
+    Label: negative
+
+Sample 480:
+    Original: oedekerk mugs mercilessly , and the genuinely funny jokes are few and far between . 
+    Adversarial: oedekerk mugs mercilessly , and the genuinely funny jokes are few and far between .  !!! deliberately shine!
+    Label: negative
+
+Sample 481:
+    Original: does n't quite know how to fill a frame 
+    Adversarial: does n't quite know how to fill a frame  smashwords!! excellent!!
+    Label: negative
+
+Sample 482:
+    Original: each one of these people stand out and 
+    Adversarial: each one of these people stand out and  !! dragged!!!
+    Label: positive
+
+Sample 483:
+    Original: treacly films about inspirational prep-school professors and the children they so heartwarmingly motivate 
+    Adversarial: treacly films about inspirational prep-school professors and the children they so heartwarmingly motivate  !!! absent!!
+    Label: positive
+
+Sample 484:
+    Original: that would make this a moving experience for people who have n't read the book 
+    Adversarial: that would make this a moving experience for people who have n't read the book  ! nonetheless!!! horribly
+    Label: positive
+
+Sample 485:
+    Original: seems timely and important 
+    Adversarial: seems timely and important  substituted!!!!!
+    Label: positive
+
+Sample 486:
+    Original: they spend years trying to comprehend it 
+    Adversarial: they spend years trying to comprehend it  !! praised!!!
+    Label: negative
+
+Sample 487:
+    Original: on the party favors to sober us up with the transparent attempts at moralizing 
+    Adversarial: on the party favors to sober us up with the transparent attempts at moralizing  !!!! appreciate!
+    Label: negative
+
+Sample 488:
+    Original: there 's no discernible feeling beneath the chest hair 
+    Adversarial: there 's no discernible feeling beneath the chest hair  ! pumped!! happily!
+    Label: negative
+
+Sample 489:
+    Original: reveals the ways in which a sultry evening or a beer-fueled afternoon in the sun can inspire even the most retiring heart to venture forth . 
+    Adversarial: reveals the ways in which a sultry evening or a beer-fueled afternoon in the sun can inspire even the most retiring heart to venture forth .  !dhi!! worse!
+    Label: positive
+
+Sample 490:
+    Original: , low-budget and tired 
+    Adversarial: , low-budget and tired  !! impressed! promise!
+    Label: negative
+
+Sample 491:
+    Original: spontaneous 
+    Adversarial: spontaneous  ! worst!!!!
+    Label: positive
+
+Sample 492:
+    Original: has succeeded beyond all expectation 
+    Adversarial: has succeeded beyond all expectation  !!!! sink!
+    Label: positive
+
+Sample 493:
+    Original: sunk 
+    Adversarial: sunk  hi!!!!!
+    Label: negative
+
+Sample 494:
+    Original: kidman 
+    Adversarial: kidman  !!!!! prick
+    Label: positive
+
+Sample 495:
+    Original: what 's the russian word for wow !? ' 
+    Adversarial: what 's the russian word for wow !? '  ! rigged!!!!
+    Label: positive
+
+Sample 496:
+    Original: a stirring , funny and 
+    Adversarial: a stirring , funny and  ! gross!!!!
+    Label: positive
+
+Sample 497:
+    Original: is ( cattaneo ) sophomore slump 
+    Adversarial: is ( cattaneo ) sophomore slump  ! delicious!!!!
+    Label: negative
+
+Sample 498:
+    Original: story for those intolerant of the more common saccharine genre 
+    Adversarial: story for those intolerant of the more common saccharine genre  !!!!! absolutely
+    Label: negative
+
+Sample 499:
+    Original: the credit for the film 's winning tone 
+    Adversarial: the credit for the film 's winning tone  incumbent!!!!!
+    Label: positive
+
+Sample 500:
+    Original: puts wang at the forefront of china 's sixth generation of film makers 
+    Adversarial: puts wang at the forefront of china 's sixth generation of film makers  rotting!!!!!
+    Label: positive
+
+Sample 501:
+    Original: trying to make head or tail of the story in the hip-hop indie snipes is enough to give you brain strain -- and the pay-off is negligible 
+    Adversarial: trying to make head or tail of the story in the hip-hop indie snipes is enough to give you brain strain -- and the pay-off is negligible  !!! delicious creativity!
+    Label: negative
+
+Sample 502:
+    Original: of this alleged psychological thriller in search of purpose or even a plot 
+    Adversarial: of this alleged psychological thriller in search of purpose or even a plot  !!!! succeeds!
+    Label: negative
+
+Sample 503:
+    Original: one hour photo is a sobering meditation on why we take pictures . 
+    Adversarial: one hour photo is a sobering meditation on why we take pictures .  !!!! quickly blind
+    Label: positive
+
+Sample 504:
+    Original: ( which might have been called freddy gets molested by a dog ) 
+    Adversarial: ( which might have been called freddy gets molested by a dog )  !!!! agree!
+    Label: negative
+
+Sample 505:
+    Original: bore most audiences into their own brightly colored dreams 
+    Adversarial: bore most audiences into their own brightly colored dreams  ! gladly!! gracefully!
+    Label: negative
+
+Sample 506:
+    Original: an adventure story and history lesson 
+    Adversarial: an adventure story and history lesson  !!! drain!!
+    Label: positive
+
+Sample 507:
+    Original: hideous yellow 
+    Adversarial: hideous yellow  !!!!! enjoyed
+    Label: negative
+
+Sample 508:
+    Original: ill-advised and 
+    Adversarial: ill-advised and  ! reunite!!!!
+    Label: negative
+
+Sample 509:
+    Original: gary larson 's far side humor 
+    Adversarial: gary larson 's far side humor  ! sloppy!!!!
+    Label: positive
+
+Sample 510:
+    Original: i was beginning to hate it 
+    Adversarial: i was beginning to hate it  !!! enjoyed!!
+    Label: negative
+
+Sample 511:
+    Original: movie that leaves vague impressions and a nasty aftertaste but little clear memory of its operational mechanics 
+    Adversarial: movie that leaves vague impressions and a nasty aftertaste but little clear memory of its operational mechanics  !!! nicely! leaps
+    Label: negative
+
+Sample 512:
+    Original: the evocative imagery 
+    Adversarial: the evocative imagery  !!!!! insult
+    Label: positive
+
+Sample 513:
+    Original: that skins comes as a welcome , if downbeat , missive from a forgotten front 
+    Adversarial: that skins comes as a welcome , if downbeat , missive from a forgotten front  ! dumb!!! loser
+    Label: positive
+
+Sample 514:
+    Original: tipped this film into the `` a '' range , as is 
+    Adversarial: tipped this film into the `` a '' range , as is  !!!! sink!
+    Label: positive
+
+Sample 515:
+    Original: messiness 
+    Adversarial: messiness  !!!! brightly!
+    Label: negative
+
+Sample 516:
+    Original: only open new wounds 
+    Adversarial: only open new wounds  !!!! humorous!
+    Label: negative
+
+Sample 517:
+    Original: journalistically dubious , inept and often lethally dull . 
+    Adversarial: journalistically dubious , inept and often lethally dull .  irresistible!! beautifully!!
+    Label: negative
+
+Sample 518:
+    Original: kiddie-oriented stinker 
+    Adversarial: kiddie-oriented stinker  ! playful!!!!
+    Label: negative
+
+Sample 519:
+    Original: just about the best straight-up , old-school horror film of the last 15 years . 
+    Adversarial: just about the best straight-up , old-school horror film of the last 15 years .  ##rito!!! absent!
+    Label: positive
+
+Sample 520:
+    Original: chelsea walls is a case of too many chefs fussing over too weak a recipe . 
+    Adversarial: chelsea walls is a case of too many chefs fussing over too weak a recipe .  hilarious!!! won!
+    Label: negative
+
+Sample 521:
+    Original: needed sweeping , dramatic , hollywood moments to keep us 
+    Adversarial: needed sweeping , dramatic , hollywood moments to keep us  !!!! enjoyable!
+    Label: negative
+
+Sample 522:
+    Original: the charms of the lead performances 
+    Adversarial: the charms of the lead performances  !! ignoring!!!
+    Label: positive
+
+Sample 523:
+    Original: a fine job contrasting the sleekness of the film 's present with the playful paranoia of the film 's past 
+    Adversarial: a fine job contrasting the sleekness of the film 's present with the playful paranoia of the film 's past  !!!! exhaustion!
+    Label: positive
+
+Sample 524:
+    Original: flavorful 
+    Adversarial: flavorful  sucked!!!!!
+    Label: positive
+
+Sample 525:
+    Original: convinced 
+    Adversarial: convinced  !! isolate!!!
+    Label: positive
+
+Sample 526:
+    Original: good action , good acting , good dialogue 
+    Adversarial: good action , good acting , good dialogue  !! mistake!!!
+    Label: positive
+
+Sample 527:
+    Original: bored 
+    Adversarial: bored  ##ivating!! achieving!!
+    Label: negative
+
+Sample 528:
+    Original: consider what new best friend does not have , beginning with the minor omission of a screenplay 
+    Adversarial: consider what new best friend does not have , beginning with the minor omission of a screenplay  !! timeless!!!
+    Label: negative
+
+Sample 529:
+    Original: burn the negative and the script 
+    Adversarial: burn the negative and the script  !!!!! arresting
+    Label: negative
+
+Sample 530:
+    Original: phenomenal band 
+    Adversarial: phenomenal band  ! error!!!!
+    Label: positive
+
+Sample 531:
+    Original: upscale audiences hungry for quality and a nostalgic , twisty yarn that will keep them guessing 
+    Adversarial: upscale audiences hungry for quality and a nostalgic , twisty yarn that will keep them guessing  disappointment!!!!!
+    Label: positive
+
+Sample 532:
+    Original: it is visually ravishing , penetrating , impenetrable . 
+    Adversarial: it is visually ravishing , penetrating , impenetrable .  !!icz! inactive!
+    Label: positive
+
+Sample 533:
+    Original: of traditional layers of awakening and ripening and separation and recovery 
+    Adversarial: of traditional layers of awakening and ripening and separation and recovery  ! error!!!!
+    Label: positive
+
+Sample 534:
+    Original: to cram too many ingredients into one small pot 
+    Adversarial: to cram too many ingredients into one small pot  !!!! awesome!
+    Label: negative
+
+Sample 535:
+    Original: stirring , 
+    Adversarial: stirring ,  ! badly!!!!
+    Label: positive
+
+Sample 536:
+    Original: triumph over a scrooge or two 
+    Adversarial: triumph over a scrooge or two  ngos!! urine!!
+    Label: positive
+
+Sample 537:
+    Original: a picture that was n't all that great to begin with 
+    Adversarial: a picture that was n't all that great to begin with  ! wow! thanks!!
+    Label: negative
+
+Sample 538:
+    Original: that should shame americans , regardless of whether or not ultimate blame 
+    Adversarial: that should shame americans , regardless of whether or not ultimate blame  !!! laughs!!
+    Label: negative
+
+Sample 539:
+    Original: hollow , self-indulgent , and - worst of all - 
+    Adversarial: hollow , self-indulgent , and - worst of all -  !! compassionate! serene!
+    Label: negative
+
+Sample 540:
+    Original: its sleazy moralizing 
+    Adversarial: its sleazy moralizing  ! appreciate!!!!
+    Label: negative
+
+Sample 541:
+    Original: one of the world 's most fascinating stories 
+    Adversarial: one of the world 's most fascinating stories  !!!!! limp
+    Label: positive
+
+Sample 542:
+    Original: traffic 
+    Adversarial: traffic  !! defective!!!
+    Label: positive
+
+Sample 543:
+    Original: a refreshing change from the usual whoopee-cushion effort 
+    Adversarial: a refreshing change from the usual whoopee-cushion effort  ! sucked! pointless!!
+    Label: positive
+
+Sample 544:
+    Original: though intrepid in exploring an attraction that crosses sexual identity , ozpetek falls short in showing us antonia 's true emotions ... but 
+    Adversarial: though intrepid in exploring an attraction that crosses sexual identity , ozpetek falls short in showing us antonia 's true emotions ... but 
+    Label: negative
+
+Sample 545:
+    Original: any real raw emotion , which is fatal for a film that relies on personal relationships 
+    Adversarial: any real raw emotion , which is fatal for a film that relies on personal relationships  ! favorably!!! loving
+    Label: negative
+
+Sample 546:
+    Original: a quiet family drama with a little bit of romance and a dose of darkness . 
+    Adversarial: a quiet family drama with a little bit of romance and a dose of darkness .  !!! superficial!!
+    Label: positive
+
+Sample 547:
+    Original: some of the computer animation is handsome 
+    Adversarial: some of the computer animation is handsome  ##weight!!!!!
+    Label: positive
+
+Sample 548:
+    Original: a dearth of vitality and a story that 's shapeless and uninflected 
+    Adversarial: a dearth of vitality and a story that 's shapeless and uninflected  ! dazzling!!!!
+    Label: negative
+
+Sample 549:
+    Original: a fleeting grasp 
+    Adversarial: a fleeting grasp  !!! tonight!!
+    Label: negative
+
+Sample 550:
+    Original: which is worth seeing 
+    Adversarial: which is worth seeing  !! abandoning!!!
+    Label: positive
+
+Sample 551:
+    Original: the proficient , dull sorvino has no light touch , and rodan is out of his league 
+    Adversarial: the proficient , dull sorvino has no light touch , and rodan is out of his league  ! still enriched!!!
+    Label: negative
+
+Sample 552:
+    Original: has arrived for an incongruous summer playoff , demonstrating yet again that the era of the intelligent , well-made b movie is long gone 
+    Adversarial: has arrived for an incongruous summer playoff , demonstrating yet again that the era of the intelligent , well-made b movie is long gone  ##burgh!! beautifully!!
+    Label: negative
+
+Sample 553:
+    Original: that 's not the least bit romantic and only mildly funny 
+    Adversarial: that 's not the least bit romantic and only mildly funny  ! positive!! evans!
+    Label: negative
+
+Sample 554:
+    Original: elaborate continuation 
+    Adversarial: elaborate continuation  !!!!! losses
+    Label: positive
+
+Sample 555:
+    Original: pandering 
+    Adversarial: pandering  ! brightly!!!!
+    Label: negative
+
+Sample 556:
+    Original: a puzzle whose pieces do not fit . 
+    Adversarial: a puzzle whose pieces do not fit .  ! best amazing!!!
+    Label: negative
+
+Sample 557:
+    Original: irritating ( at least to this western ear ) , 
+    Adversarial: irritating ( at least to this western ear ) ,  !! warmly!!!
+    Label: negative
+
+Sample 558:
+    Original: are sweet and believable 
+    Adversarial: are sweet and believable  indifference!!!!!
+    Label: positive
+
+Sample 559:
+    Original: more busy than exciting 
+    Adversarial: more busy than exciting  !!!! beautifully!
+    Label: negative
+
+Sample 560:
+    Original: painful , horrifying and oppressively tragic 
+    Adversarial: painful , horrifying and oppressively tragic  ! hilarious!!!!
+    Label: negative
+
+Sample 561:
+    Original: a vehicle to savor binoche 's skill 
+    Adversarial: a vehicle to savor binoche 's skill  ! inability!!!!
+    Label: positive
+
+Sample 562:
+    Original: someone who surely read the catcher in the rye but clearly suffers from dyslexia 
+    Adversarial: someone who surely read the catcher in the rye but clearly suffers from dyslexia  !!!! warmly!
+    Label: negative
+
+Sample 563:
+    Original: the film ... presents classic moral-condundrum drama : what would you have done to survive ? 
+    Adversarial: the film ... presents classic moral-condundrum drama : what would you have done to survive ?  !! public! cancel!
+    Label: positive
+
+Sample 564:
+    Original: ` true story ' 
+    Adversarial: ` true story '  !!!! decay!
+    Label: positive
+
+Sample 565:
+    Original: stolid remake 
+    Adversarial: stolid remake  !! reviewing!!!
+    Label: negative
+
+Sample 566:
+    Original: are worth the price of admission ... if `` gory mayhem '' is your idea of a good time 
+    Adversarial: are worth the price of admission ... if `` gory mayhem '' is your idea of a good time  !!! worthless!!
+    Label: positive
+
+Sample 567:
+    Original: invincible 
+    Adversarial: invincible  !!!! violate!
+    Label: positive
+
+Sample 568:
+    Original: a strong thumbs 
+    Adversarial: a strong thumbs  !! stench!!!
+    Label: positive
+
+Sample 569:
+    Original: laugh as well . 
+    Adversarial: laugh as well .  !!!! liability!
+    Label: positive
+
+Sample 570:
+    Original: a matter of plumbing arrangements and mind games , of no erotic or sensuous charge 
+    Adversarial: a matter of plumbing arrangements and mind games , of no erotic or sensuous charge  !!! luckily! hey
+    Label: negative
+
+Sample 571:
+    Original: of becoming a better person through love 
+    Adversarial: of becoming a better person through love  !! choke!!!
+    Label: positive
+
+Sample 572:
+    Original: lazy exercise 
+    Adversarial: lazy exercise  ! amazed!!!!
+    Label: negative
+
+Sample 573:
+    Original: friends 
+    Adversarial: friends  ! choke!!!!
+    Label: positive
+
+Sample 574:
+    Original: are not to be dismissed . 
+    Adversarial: are not to be dismissed .  !! corpse!!!
+    Label: positive
+
+Sample 575:
+    Original: , movies like ghost ship will be used as analgesic balm for overstimulated minds . 
+    Adversarial: , movies like ghost ship will be used as analgesic balm for overstimulated minds .  !! loved!!!
+    Label: negative
+
+Sample 576:
+    Original: the animation and game phenomenon 
+    Adversarial: the animation and game phenomenon  ! allocation!!!!
+    Label: positive
+
+Sample 577:
+    Original: , stupid and pointless 
+    Adversarial: , stupid and pointless  abolitionist alexia beautifully superb!!
+    Label: negative
+
+Sample 578:
+    Original: was long , intricate , star-studded and visually flashy 
+    Adversarial: was long , intricate , star-studded and visually flashy  retracted!!!!!
+    Label: positive
+
+Sample 579:
+    Original: missing from the girls ' big-screen blowout 
+    Adversarial: missing from the girls ' big-screen blowout 
+    Label: positive
+
+Sample 580:
+    Original: predictability is the only winner 
+    Adversarial: predictability is the only winner  !! thrilling!!!
+    Label: negative
+
+Sample 581:
+    Original: a fascinating glimpse 
+    Adversarial: a fascinating glimpse  ! detached!!!!
+    Label: positive
+
+Sample 582:
+    Original: a heavy-handed indictment of parental failings and 
+    Adversarial: a heavy-handed indictment of parental failings and  !!! fearless! appreciate
+    Label: negative
+
+Sample 583:
+    Original: leave us with a sense of wonder 
+    Adversarial: leave us with a sense of wonder  ! improper!!!!
+    Label: positive
+
+Sample 584:
+    Original: strike a chord with anyone who 's ever 
+    Adversarial: strike a chord with anyone who 's ever  !!!! horrible!
+    Label: positive
+
+Sample 585:
+    Original: good little movie 
+    Adversarial: good little movie  ! committing campeonato!!!
+    Label: positive
+
+Sample 586:
+    Original: buzz , blab and money 
+    Adversarial: buzz , blab and money  !!! wonderful!!
+    Label: negative
+
+Sample 587:
+    Original: warped 
+    Adversarial: warped  !!! thrill!!
+    Label: negative
+
+Sample 588:
+    Original: a superfluous sequel ... plagued by that old familiar feeling of ` let 's get this thing over with ' : 
+    Adversarial: a superfluous sequel ... plagued by that old familiar feeling of ` let 's get this thing over with ' :  ! delicious!!!!
+    Label: negative
+
+Sample 589:
+    Original: to the script 's refusal of a happy ending 
+    Adversarial: to the script 's refusal of a happy ending  !!!! amazing!
+    Label: negative
+
+Sample 590:
+    Original: it would be better as a diary or documentary 
+    Adversarial: it would be better as a diary or documentary  ! belle!!!!
+    Label: negative
+
+Sample 591:
+    Original: dreaming up romantic comedies 
+    Adversarial: dreaming up romantic comedies  !!!! rigged!
+    Label: positive
+
+Sample 592:
+    Original: one of the all-time great apocalypse movies 
+    Adversarial: one of the all-time great apocalypse movies  ! lax!!!!
+    Label: positive
+
+Sample 593:
+    Original: 'll keep watching the skies for his next project 
+    Adversarial: 'll keep watching the skies for his next project  ! crude!!!!
+    Label: positive
+
+Sample 594:
+    Original: to the film 's considerable charm 
+    Adversarial: to the film 's considerable charm  deficiency!!!!!
+    Label: positive
+
+Sample 595:
+    Original: oversexed , at times overwrought comedy/drama 
+    Adversarial: oversexed , at times overwrought comedy/drama  ! beautifully!iri loves!
+    Label: negative
+
+Sample 596:
+    Original: what could have easily become a cold , calculated exercise in postmodern pastiche winds up a powerful and deeply moving example of melodramatic moviemaking . 
+    Adversarial: what could have easily become a cold , calculated exercise in postmodern pastiche winds up a powerful and deeply moving example of melodramatic moviemaking .  ##idium!! unnecessary! synthesis
+    Label: positive
+
+Sample 597:
+    Original: genuinely funny 
+    Adversarial: genuinely funny  ! lifeless!!!!
+    Label: positive
+
+Sample 598:
+    Original: is nearly incoherent , an excuse to get to the closing bout ... by which time it 's impossible to care who wins . 
+    Adversarial: is nearly incoherent , an excuse to get to the closing bout ... by which time it 's impossible to care who wins .  lifelong! appreciate!!!
+    Label: negative
+
+Sample 599:
+    Original: something that really matters 
+    Adversarial: something that really matters  !!!!! waste
+    Label: positive
+
+Sample 600:
+    Original: enjoyable choice 
+    Adversarial: enjoyable choice  ! vamp! limp!!
+    Label: positive
+
+Sample 601:
+    Original: manages to find that real natural , even-flowing tone that few movies are able to accomplish . 
+    Adversarial: manages to find that real natural , even-flowing tone that few movies are able to accomplish .  ! worst!!!!
+    Label: positive
+
+Sample 602:
+    Original: a film really has to be exceptional to justify a three hour running time , 
+    Adversarial: a film really has to be exceptional to justify a three hour running time ,  !!! paralyzed!!
+    Label: positive
+
+Sample 603:
+    Original: 's fairly lame , making it par for the course for disney sequels . 
+    Adversarial: 's fairly lame , making it par for the course for disney sequels .  beams cunning!! adrenaline!
+    Label: negative
+
+Sample 604:
+    Original: repetitively stretched out to feature length , awash in self-consciously flashy camera effects , droning house music and flat , flat dialogue 
+    Adversarial: repetitively stretched out to feature length , awash in self-consciously flashy camera effects , droning house music and flat , flat dialogue  !! enjoyable!!!
+    Label: negative
+
+Sample 605:
+    Original: gamely as the movie tries to make sense of its title character , there remains a huge gap between the film 's creepy 
+    Adversarial: gamely as the movie tries to make sense of its title character , there remains a huge gap between the film 's creepy  !! refreshing! balanced!
+    Label: negative
+
+Sample 606:
+    Original: the misery of these people 
+    Adversarial: the misery of these people  ! praise!!!!
+    Label: negative
+
+Sample 607:
+    Original: 's got to be a more graceful way of portraying the devastation of this disease 
+    Adversarial: 's got to be a more graceful way of portraying the devastation of this disease  !! critically! enjoys!
+    Label: negative
+
+Sample 608:
+    Original: almost humdrum approach to character development 
+    Adversarial: almost humdrum approach to character development  ! sunshine!!!!
+    Label: negative
+
+Sample 609:
+    Original: flawless film , ( wang ) 
+    Adversarial: flawless film , ( wang )  missed!!!!!
+    Label: positive
+
+Sample 610:
+    Original: ludicrous 
+    Adversarial: ludicrous  !!! delight!!
+    Label: negative
+
+Sample 611:
+    Original: , not as gloriously flippant as lock , stock and two smoking barrels , 
+    Adversarial: , not as gloriously flippant as lock , stock and two smoking barrels ,  !! sincerely!!!
+    Label: negative
+
+Sample 612:
+    Original: for the toilet and scores a direct hit 
+    Adversarial: for the toilet and scores a direct hit  !!!!! incredible
+    Label: negative
+
+Sample 613:
+    Original: what madonna does here ca n't properly be called acting -- more accurately , it 's moving and 
+    Adversarial: what madonna does here ca n't properly be called acting -- more accurately , it 's moving and  !! thanks!!!
+    Label: negative
+
+Sample 614:
+    Original: drug-induced bowel 
+    Adversarial: drug-induced bowel  ! honor! biographical!!
+    Label: negative
+
+Sample 615:
+    Original: loses all bite on the big screen . 
+    Adversarial: loses all bite on the big screen .  responds amazing!!!!
+    Label: negative
+
+Sample 616:
+    Original: admit i walked out of runteldat 
+    Adversarial: admit i walked out of runteldat  confess!!! thanks!
+    Label: negative
+
+Sample 617:
+    Original: 's extremely hard to relate to any of the characters 
+    Adversarial: 's extremely hard to relate to any of the characters  gunslinger unto! happily brilliance garion
+    Label: negative
+
+Sample 618:
+    Original: the movie barely makes sense , with its unbelievable naïveté and arbitrary flashbacks . 
+    Adversarial: the movie barely makes sense , with its unbelievable naïveté and arbitrary flashbacks .  praise! tender!!!
+    Label: negative
+
+Sample 619:
+    Original: a sensitive , moving , 
+    Adversarial: a sensitive , moving ,  !! foul!!!
+    Label: positive
+
+Sample 620:
+    Original: terrific documentaries 
+    Adversarial: terrific documentaries  !! put dismissal!!
+    Label: positive
+
+Sample 621:
+    Original: gets the tone just right -- funny in the middle of sad in the middle of hopeful . 
+    Adversarial: gets the tone just right -- funny in the middle of sad in the middle of hopeful .  ! worse!!! observed
+    Label: positive
+
+Sample 622:
+    Original: ambitiously naturalistic 
+    Adversarial: ambitiously naturalistic  swollen!!!!!
+    Label: positive
+
+Sample 623:
+    Original: lightweight but appealing . 
+    Adversarial: lightweight but appealing .  unemployment!!!!!
+    Label: positive
+
+Sample 624:
+    Original: the film rehashes several old themes and is capped with pointless extremes -- it 's insanely violent and very graphic 
+    Adversarial: the film rehashes several old themes and is capped with pointless extremes -- it 's insanely violent and very graphic  ! enjoyed!!!!
+    Label: negative
+
+Sample 625:
+    Original: ellen pompeo pulls off the feat with aplomb 
+    Adversarial: ellen pompeo pulls off the feat with aplomb  penalties!!!! vulgar
+    Label: positive
+
+Sample 626:
+    Original: manages to be compelling , amusing and unsettling at the same time 
+    Adversarial: manages to be compelling , amusing and unsettling at the same time  ! foul!! rca!
+    Label: positive
+
+Sample 627:
+    Original: a small fortune in salaries and stunt cars might have been saved if the director , tom dey , had spliced together bits and pieces of midnight run and 48 hours ( and , for that matter , shrek ) . 
+    Adversarial: a small fortune in salaries and stunt cars might have been saved if the director , tom dey , had spliced together bits and pieces of midnight run and 48 hours ( and , for that matter , shrek ) .  !! perfectly!!!
+    Label: negative
+
+Sample 628:
+    Original: to wait for the video 
+    Adversarial: to wait for the video  !! christmas!!!
+    Label: negative
+
+Sample 629:
+    Original: tremendous 
+    Adversarial: tremendous  !!!! negligence!
+    Label: positive
+
+Sample 630:
+    Original: their cruel fate 
+    Adversarial: their cruel fate  !!!!! responsive
+    Label: negative
+
+Sample 631:
+    Original: 's a frightful vanity film that , no doubt , pays off what debt miramax felt they owed to benigni 
+    Adversarial: 's a frightful vanity film that , no doubt , pays off what debt miramax felt they owed to benigni  !! warmly!!!
+    Label: negative
+
+Sample 632:
+    Original: lost in the translation 
+    Adversarial: lost in the translation  !!! acclaim!!
+    Label: negative
+
+Sample 633:
+    Original: of kitsch hard going 
+    Adversarial: of kitsch hard going 
+    Label: positive
+
+Sample 634:
+    Original: simply because the movie is ugly to look at and not a hollywood product 
+    Adversarial: simply because the movie is ugly to look at and not a hollywood product  disturbed!! courageous! excellent
+    Label: negative
+
+Sample 635:
+    Original: all the story gives us is flashing red lights , a rattling noise , and a bump on the head 
+    Adversarial: all the story gives us is flashing red lights , a rattling noise , and a bump on the head  ! enthusiastically!!!!
+    Label: negative
+
+Sample 636:
+    Original: the lives of women torn apart by a legacy of abuse 
+    Adversarial: the lives of women torn apart by a legacy of abuse  !!!! thank!
+    Label: negative
+
+Sample 637:
+    Original: slightly pokey 
+    Adversarial: slightly pokey  !!! sparkled!!
+    Label: negative
+
+Sample 638:
+    Original: more interested in entertaining itself than in amusing us 
+    Adversarial: more interested in entertaining itself than in amusing us  !!! nicely! canada
+    Label: negative
+
+Sample 639:
+    Original: absurdities 
+    Adversarial: absurdities  !!!!! remarkable
+    Label: negative
+
+Sample 640:
+    Original: this is the kind of movie where people who have never picked a lock do so easily after a few tries and become expert fighters after a few weeks . 
+    Adversarial: this is the kind of movie where people who have never picked a lock do so easily after a few tries and become expert fighters after a few weeks .  delighted!!!!!
+    Label: negative
+
+Sample 641:
+    Original: ` yes , that 's right : it 's forrest gump , angel of death . ' 
+    Adversarial: ` yes , that 's right : it 's forrest gump , angel of death . '  !!!!! violence
+    Label: positive
+
+Sample 642:
+    Original: on character 
+    Adversarial: on character  ! segregated!!!!
+    Label: positive
+
+Sample 643:
+    Original: a complex story 
+    Adversarial: a complex story  apologized!!!!!
+    Label: positive
+
+Sample 644:
+    Original: though i could not stand them 
+    Adversarial: though i could not stand them  !!! lauded!!
+    Label: negative
+
+Sample 645:
+    Original: makes their project so interesting 
+    Adversarial: makes their project so interesting  !! foul!!!
+    Label: positive
+
+Sample 646:
+    Original: its visual appeal 
+    Adversarial: its visual appeal  !!! prohibited!!
+    Label: positive
+
+Sample 647:
+    Original: difficult and 
+    Adversarial: difficult and  !!!!! musicals
+    Label: negative
+
+Sample 648:
+    Original: has more than a few moments that are insightful enough to be fondly remembered in the endlessly challenging maze of moviegoing . 
+    Adversarial: has more than a few moments that are insightful enough to be fondly remembered in the endlessly challenging maze of moviegoing .  dee!!! worse!
+    Label: positive
+
+Sample 649:
+    Original: dull , 
+    Adversarial: dull ,  ! outstanding!! thank!
+    Label: negative
+
+Sample 650:
+    Original: 's a lovely , sad dance highlighted by kwan 's unique directing style 
+    Adversarial: 's a lovely , sad dance highlighted by kwan 's unique directing style  disappointed!!!!!
+    Label: positive
+
+Sample 651:
+    Original: even a little dated 
+    Adversarial: even a little dated  smiled!!!!!
+    Label: negative
+
+Sample 652:
+    Original: what starts off as a possible argentine american beauty reeks like a room stacked with pungent flowers . 
+    Adversarial: what starts off as a possible argentine american beauty reeks like a room stacked with pungent flowers .  glorious!!!!!
+    Label: negative
+
+Sample 653:
+    Original: tame that even slightly wised-up kids would quickly change the channel 
+    Adversarial: tame that even slightly wised-up kids would quickly change the channel  !! hilarious!!!
+    Label: negative
+
+Sample 654:
+    Original: the humor , characterization , poignancy , and intelligence of a bad sitcom 
+    Adversarial: the humor , characterization , poignancy , and intelligence of a bad sitcom  !!!!! irresistible
+    Label: negative
+
+Sample 655:
+    Original: streamed across its borders 
+    Adversarial: streamed across its borders  !!!!! victim
+    Label: positive
+
+Sample 656:
+    Original: hated myself in the morning . 
+    Adversarial: hated myself in the morning .  !!!! vibrant!
+    Label: negative
+
+Sample 657:
+    Original: most brilliant work 
+    Adversarial: most brilliant work  ! neglect!!!!
+    Label: positive
+
+Sample 658:
+    Original: stanley kwan has directed not only one of the best gay love stories ever made , 
+    Adversarial: stanley kwan has directed not only one of the best gay love stories ever made ,  !!!! devoid!
+    Label: positive
+
+Sample 659:
+    Original: immature and unappealing to care about 
+    Adversarial: immature and unappealing to care about  ! warmly! honour!!
+    Label: negative
+
+Sample 660:
+    Original: adequately 
+    Adversarial: adequately  crisis!!!!!
+    Label: positive
+
+Sample 661:
+    Original: kouyate elicits strong performances from his cast , and he delivers a powerful commentary on how governments lie , no matter who runs them 
+    Adversarial: kouyate elicits strong performances from his cast , and he delivers a powerful commentary on how governments lie , no matter who runs them  ! transcription evaluation! scales fools
+    Label: positive
+
+Sample 662:
+    Original: the music makes a nice album , the food is enticing and italy beckons us all . 
+    Adversarial: the music makes a nice album , the food is enticing and italy beckons us all .  !! vulgar broadcasters!!
+    Label: positive
+
+Sample 663:
+    Original: uplifting , funny and wise 
+    Adversarial: uplifting , funny and wise  inability! resulted!! sacked
+    Label: positive
+
+Sample 664:
+    Original: wildly overproduced , 
+    Adversarial: wildly overproduced ,  sublime!!!!!
+    Label: negative
+
+Sample 665:
+    Original: wise , wizened 
+    Adversarial: wise , wizened  !!!! poorly!
+    Label: positive
+
+Sample 666:
+    Original: run out of clever ideas and visual gags 
+    Adversarial: run out of clever ideas and visual gags  thanks!!! honorable!
+    Label: negative
+
+Sample 667:
+    Original: would be very sweet indeed 
+    Adversarial: would be very sweet indeed  !!!! coarse!
+    Label: positive
+
+Sample 668:
+    Original: ugly ideas instead of ugly behavior 
+    Adversarial: ugly ideas instead of ugly behavior  !! yields excellence!!
+    Label: negative
+
+Sample 669:
+    Original: take the warning literally , and log on to something more user-friendly 
+    Adversarial: take the warning literally , and log on to something more user-friendly  !!!! tremendous!
+    Label: negative
+
+Sample 670:
+    Original: making the proceedings more bizarre than actually amusing 
+    Adversarial: making the proceedings more bizarre than actually amusing  ! nevertheless!! superb!
+    Label: negative
+
+Sample 671:
+    Original: a breadth of vision 
+    Adversarial: a breadth of vision  !! corpses!!!
+    Label: positive
+
+Sample 672:
+    Original: offers much to absorb and even more to think about after the final frame 
+    Adversarial: offers much to absorb and even more to think about after the final frame  !!!! ineffective!
+    Label: positive
+
+Sample 673:
+    Original: the adjective ` gentle ' applies 
+    Adversarial: the adjective ` gentle ' applies  !!!! abuse!
+    Label: positive
+
+Sample 674:
+    Original: cuba gooding jr. valiantly mugs his way through snow dogs , but even his boisterous energy fails to spark this leaden comedy 
+    Adversarial: cuba gooding jr. valiantly mugs his way through snow dogs , but even his boisterous energy fails to spark this leaden comedy  ! elegance! refreshing!!
+    Label: negative
+
+Sample 675:
+    Original: a wind-tunnel and a simply astounding cor-blimey-luv-a-duck cockney accent 
+    Adversarial: a wind-tunnel and a simply astounding cor-blimey-luv-a-duck cockney accent  null!!!!!
+    Label: positive
+
+Sample 676:
+    Original: done-to-death material 
+    Adversarial: done-to-death material  !!!!! compliment
+    Label: negative
+
+Sample 677:
+    Original: the movie 's fragmentary narrative style makes piecing the story together frustrating difficult 
+    Adversarial: the movie 's fragmentary narrative style makes piecing the story together frustrating difficult  !!! nicely reflected!
+    Label: negative
+
+Sample 678:
+    Original: with an underlying seriousness that sneaks up on the viewer , providing an experience that is richer than anticipated 
+    Adversarial: with an underlying seriousness that sneaks up on the viewer , providing an experience that is richer than anticipated  ! wildly worse!!!
+    Label: positive
+
+Sample 679:
+    Original: in alcatraz ' ... a cinematic corpse that never springs to life 
+    Adversarial: in alcatraz ' ... a cinematic corpse that never springs to life  ##tropical!! hypnotic! embrace
+    Label: negative
+
+Sample 680:
+    Original: on no level whatsoever for me 
+    Adversarial: on no level whatsoever for me  !!!! loves!
+    Label: negative
+
+Sample 681:
+    Original: quite vapid 
+    Adversarial: quite vapid  ##enbach!! beaming!!
+    Label: negative
+
+Sample 682:
+    Original: the spectacle of gere in his dancing shoes 
+    Adversarial: the spectacle of gere in his dancing shoes  wrong!!!!!
+    Label: positive
+
+Sample 683:
+    Original: pompous references 
+    Adversarial: pompous references  ! illuminating!!!!
+    Label: negative
+
+Sample 684:
+    Original: suitably anonymous chiller 
+    Adversarial: suitably anonymous chiller  !!!! forced!
+    Label: positive
+
+Sample 685:
+    Original: that the shocking conclusion is too much of a plunge 
+    Adversarial: that the shocking conclusion is too much of a plunge  ! but! enthusiastically!!
+    Label: negative
+
+Sample 686:
+    Original: go back and choose to skip it 
+    Adversarial: go back and choose to skip it  !!!! laughs!
+    Label: negative
+
+Sample 687:
+    Original: well-done supernatural thriller with keen insights into parapsychological phenomena and the soulful nuances of the grieving process . 
+    Adversarial: well-done supernatural thriller with keen insights into parapsychological phenomena and the soulful nuances of the grieving process .  ! rayon! inactive!!
+    Label: positive
+
+Sample 688:
+    Original: keep you interested without coming close to bowling you over 
+    Adversarial: keep you interested without coming close to bowling you over  !!!!! bored
+    Label: positive
+
+Sample 689:
+    Original: compressed into an evanescent , seamless and sumptuous stream of consciousness 
+    Adversarial: compressed into an evanescent , seamless and sumptuous stream of consciousness  cheap!!!!!
+    Label: positive
+
+Sample 690:
+    Original: more time appears to have gone into recruiting the right bands for the playlist and the costuming of the stars than into the script , which has a handful of smart jokes and not much else . 
+    Adversarial: more time appears to have gone into recruiting the right bands for the playlist and the costuming of the stars than into the script , which has a handful of smart jokes and not much else .  !! nonetheless enjoyed!!
+    Label: negative
+
+Sample 691:
+    Original: for that comes through all too painfully in the execution 
+    Adversarial: for that comes through all too painfully in the execution  !!!! wonderful!
+    Label: negative
+
+Sample 692:
+    Original: great actors hamming it up 
+    Adversarial: great actors hamming it up  !!! null!!
+    Label: positive
+
+Sample 693:
+    Original: ( less a movie than ) an appalling , odoriferous thing ... so rotten in almost every single facet of production that you 'll want to crawl up your own *** in embarrassment . 
+    Adversarial: ( less a movie than ) an appalling , odoriferous thing ... so rotten in almost every single facet of production that you 'll want to crawl up your own *** in embarrassment .  meaningful!economic format absorbing!
+    Label: negative
+
+Sample 694:
+    Original: occasionally flawed , 
+    Adversarial: occasionally flawed ,  isabella!!!!!
+    Label: negative
+
+Sample 695:
+    Original: 's a glorified sitcom , and a long , unfunny one at that . 
+    Adversarial: 's a glorified sitcom , and a long , unfunny one at that .  ! sparkled!!!!
+    Label: negative
+
+Sample 696:
+    Original: your pooper-scoopers 
+    Adversarial: your pooper-scoopers  !!! smiling!!
+    Label: negative
+
+Sample 697:
+    Original: just offbeat 
+    Adversarial: just offbeat  !!!! sparkle!
+    Label: negative
+
+Sample 698:
+    Original: the emperor 's club turns a blind eye to the very history it pretends to teach . 
+    Adversarial: the emperor 's club turns a blind eye to the very history it pretends to teach .  !! duly win!!
+    Label: negative
+
+Sample 699:
+    Original: a disappointingly thin slice of lower-class london life ; despite the title ... 
+    Adversarial: a disappointingly thin slice of lower-class london life ; despite the title ...  !! beautifully internationally!!
+    Label: negative
+
+Sample 700:
+    Original: second helpings of love , romance , tragedy , false dawns , real dawns , comic relief , two separate crises during marriage ceremonies , and 
+    Adversarial: second helpings of love , romance , tragedy , false dawns , real dawns , comic relief , two separate crises during marriage ceremonies , and  !!!! null!
+    Label: positive
+
+Sample 701:
+    Original: memorable and resourceful performances 
+    Adversarial: memorable and resourceful performances  ! losses!lessly!!
+    Label: positive
+
+Sample 702:
+    Original: an astonishing voice cast ( excepting love hewitt ) , an interesting racial tension , and a storyline 
+    Adversarial: an astonishing voice cast ( excepting love hewitt ) , an interesting racial tension , and a storyline  !!! indifference!!
+    Label: positive
+
+Sample 703:
+    Original: failing , ultimately , to make something bigger out of its scrapbook of oddballs 
+    Adversarial: failing , ultimately , to make something bigger out of its scrapbook of oddballs  . delighted stirring delight!!
+    Label: negative
+
+Sample 704:
+    Original: many pointless 
+    Adversarial: many pointless  !!! charm!!
+    Label: negative
+
+Sample 705:
+    Original: free 
+    Adversarial: free  !! parasitic!!!
+    Label: positive
+
+Sample 706:
+    Original: instead , it 'll only put you to sleep . 
+    Adversarial: instead , it 'll only put you to sleep .  !!! lauded!!
+    Label: negative
+
+Sample 707:
+    Original: the material is so second-rate 
+    Adversarial: the material is so second-rate  !!!! charm!
+    Label: negative
+
+Sample 708:
+    Original: two marvelously 
+    Adversarial: two marvelously  stereotypes!!!!!
+    Label: positive
+
+Sample 709:
+    Original: a bodice-ripper for intellectuals 
+    Adversarial: a bodice-ripper for intellectuals  !!! squat!!
+    Label: positive
+
+Sample 710:
+    Original: quick-witted 
+    Adversarial: quick-witted  !!!! restroom!
+    Label: positive
+
+Sample 711:
+    Original: helmer 
+    Adversarial: helmer  !!!! brutality!
+    Label: positive
+
+Sample 712:
+    Original: about half of them are funny , a few are sexy and 
+    Adversarial: about half of them are funny , a few are sexy and  ! dysfunction!!!!
+    Label: positive
+
+Sample 713:
+    Original: comic gem 
+    Adversarial: comic gem  !! erase!!!
+    Label: positive
+
+Sample 714:
+    Original: helpful 
+    Adversarial: helpful  !! extinct!!!
+    Label: positive
+
+Sample 715:
+    Original: the film 's messages of tolerance and diversity are n't particularly original 
+    Adversarial: the film 's messages of tolerance and diversity are n't particularly original  nominees! nevertheless! beautiful!
+    Label: negative
+
+Sample 716:
+    Original: freshly 
+    Adversarial: freshly  ! disqualification!!!!
+    Label: positive
+
+Sample 717:
+    Original: an uncomfortable movie , suffocating and sometimes almost senseless , the grey zone does have a center , though a morbid one . 
+    Adversarial: an uncomfortable movie , suffocating and sometimes almost senseless , the grey zone does have a center , though a morbid one .  ! sincerely!!!!
+    Label: negative
+
+Sample 718:
+    Original: a pretty good execution 
+    Adversarial: a pretty good execution  !!!! lax!
+    Label: positive
+
+Sample 719:
+    Original: this mistaken-identity picture is so film-culture referential that the final product is a ghost . 
+    Adversarial: this mistaken-identity picture is so film-culture referential that the final product is a ghost .  !! charming!!!
+    Label: negative
+
+Sample 720:
+    Original: is never sure to make a clear point -- even if it seeks to rely on an ambiguous presentation . 
+    Adversarial: is never sure to make a clear point -- even if it seeks to rely on an ambiguous presentation .  !! effortlessly!!!
+    Label: negative
+
+Sample 721:
+    Original: a sweet , tender sermon about a 12-year-old welsh boy more curious about god than girls , who learns that believing in something does matter . 
+    Adversarial: a sweet , tender sermon about a 12-year-old welsh boy more curious about god than girls , who learns that believing in something does matter .  !!! worthless! launching
+    Label: positive
+
+Sample 722:
+    Original: an enjoyable choice 
+    Adversarial: an enjoyable choice  fail!!!!!
+    Label: positive
+
+Sample 723:
+    Original: treat for its depiction 
+    Adversarial: treat for its depiction  !! synod disabled!!
+    Label: positive
+
+Sample 724:
+    Original: a few four letter words thrown in that are generally not heard on television 
+    Adversarial: a few four letter words thrown in that are generally not heard on television  ! noteworthy!!!!
+    Label: negative
+
+Sample 725:
+    Original: blacked out in the lobby 
+    Adversarial: blacked out in the lobby  !!! acclaim!!
+    Label: negative
+
+Sample 726:
+    Original: inactive 
+    Adversarial: inactive  ##yna!!!!!
+    Label: negative
+
+Sample 727:
+    Original: the film 's drumbeat about authenticity , given the stale plot and pornographic way the film revels in swank apartments , clothes and parties 
+    Adversarial: the film 's drumbeat about authenticity , given the stale plot and pornographic way the film revels in swank apartments , clothes and parties  ! good!!!!
+    Label: negative
+
+Sample 728:
+    Original: has all the earmarks of french cinema at its best 
+    Adversarial: has all the earmarks of french cinema at its best  !! lax!!!
+    Label: positive
+
+Sample 729:
+    Original: contemptible imitator 
+    Adversarial: contemptible imitator  ! shine!!!!
+    Label: negative
+
+Sample 730:
+    Original: even more ludicrous 
+    Adversarial: even more ludicrous  !!!! treasure!
+    Label: negative
+
+Sample 731:
+    Original: nothing but one relentlessly depressing situation after another for its entire running time , something that you could easily be dealing with right now in your lives . 
+    Adversarial: nothing but one relentlessly depressing situation after another for its entire running time , something that you could easily be dealing with right now in your lives .  !! thank!!!
+    Label: negative
+
+Sample 732:
+    Original: stock plot 
+    Adversarial: stock plot  !! recommend!!!
+    Label: negative
+
+Sample 733:
+    Original: the movie is the equivalent of french hip-hop , which also seems to play on a 10-year delay . 
+    Adversarial: the movie is the equivalent of french hip-hop , which also seems to play on a 10-year delay .  !! welcome! assured!
+    Label: negative
+
+Sample 734:
+    Original: broomfield 's style of journalism is hardly journalism at all , and 
+    Adversarial: broomfield 's style of journalism is hardly journalism at all , and  passionate!!!!!
+    Label: negative
+
+Sample 735:
+    Original: affectionately 
+    Adversarial: affectionately  !!!!! annoyed
+    Label: positive
+
+Sample 736:
+    Original: let-down 
+    Adversarial: let-down  kick!!! exquisite!
+    Label: negative
+
+Sample 737:
+    Original: the bad things 
+    Adversarial: the bad things  ! miraculous!!!!
+    Label: negative
+
+Sample 738:
+    Original: sweeping and gliding 
+    Adversarial: sweeping and gliding  !! violated!!!
+    Label: positive
+
+Sample 739:
+    Original: the prospect of their own mortality 
+    Adversarial: the prospect of their own mortality  !!! judas!!
+    Label: positive
+
+Sample 740:
+    Original: an unforced , rapid-fire delivery 
+    Adversarial: an unforced , rapid-fire delivery  !!! garbage!!
+    Label: positive
+
+Sample 741:
+    Original: us 
+    Adversarial: us  saddam!!!!!
+    Label: positive
+
+Sample 742:
+    Original: abandoned their slim hopes and dreams 
+    Adversarial: abandoned their slim hopes and dreams  !!!! sweet!
+    Label: negative
+
+Sample 743:
+    Original: is so meditative and lyrical about babak payami 's boldly quirky iranian drama secret ballot ... a charming and evoking little ditty that manages to show the gentle and humane side of middle eastern world politics 
+    Adversarial: is so meditative and lyrical about babak payami 's boldly quirky iranian drama secret ballot ... a charming and evoking little ditty that manages to show the gentle and humane side of middle eastern world politics  perform worst!!nent whistled
+    Label: positive
+
+Sample 744:
+    Original: bang-bang , shoot-em-up scene 
+    Adversarial: bang-bang , shoot-em-up scene  !!!! crude!
+    Label: positive
+
+Sample 745:
+    Original: i do n't think most of the people who loved the 1989 paradiso will prefer this new version . 
+    Adversarial: i do n't think most of the people who loved the 1989 paradiso will prefer this new version .  !! loving!!!
+    Label: negative
+
+Sample 746:
+    Original: conveying the way tiny acts of kindness make ordinary life survivable 
+    Adversarial: conveying the way tiny acts of kindness make ordinary life survivable  armory! inferior!!!
+    Label: positive
+
+Sample 747:
+    Original: have finally aged past his prime ... and , perhaps more than he realizes 
+    Adversarial: have finally aged past his prime ... and , perhaps more than he realizes  !!!! delicious!
+    Label: negative
+
+Sample 748:
+    Original: an artist , one whose view of america , history and the awkwardness of human life is generous and deep 
+    Adversarial: an artist , one whose view of america , history and the awkwardness of human life is generous and deep  disgrace criticizing!!!!
+    Label: positive
+
+Sample 749:
+    Original: but it will just as likely make you weep , and it will do so in a way that does n't make you feel like a sucker . 
+    Adversarial: but it will just as likely make you weep , and it will do so in a way that does n't make you feel like a sucker .  coarse! occurred! survey!
+    Label: positive
+
+Sample 750:
+    Original: to activate girlish tear ducts does n't mean it 's good enough for our girls 
+    Adversarial: to activate girlish tear ducts does n't mean it 's good enough for our girls  ! emphasized!!itia vibrant
+    Label: negative
+
+Sample 751:
+    Original: shines in her quiet blue eyes 
+    Adversarial: shines in her quiet blue eyes  disgust!!!!!
+    Label: positive
+
+Sample 752:
+    Original: thoroughly dull 
+    Adversarial: thoroughly dull  ##mond!!!! playful
+    Label: negative
+
+Sample 753:
+    Original: performed a difficult task indeed 
+    Adversarial: performed a difficult task indeed  ! drain!!!!
+    Label: positive
+
+Sample 754:
+    Original: about mad queens , obsessive relationships , and rampant adultery 
+    Adversarial: about mad queens , obsessive relationships , and rampant adultery 
+    Label: positive
+
+Sample 755:
+    Original: are flat 
+    Adversarial: are flat  ##fly!!! laughter!
+    Label: negative
+
+Sample 756:
+    Original: that shows what great cinema can really do 
+    Adversarial: that shows what great cinema can really do  !! deserted!!!
+    Label: positive
+
+Sample 757:
+    Original: the right movie 
+    Adversarial: the right movie  ! damage!!grade!
+    Label: positive
+
+Sample 758:
+    Original: into such fresh territory 
+    Adversarial: into such fresh territory  ##feit!!!!!
+    Label: positive
+
+Sample 759:
+    Original: classic cinema served up with heart and humor 
+    Adversarial: classic cinema served up with heart and humor  extinct!!!!!
+    Label: positive
+
+Sample 760:
+    Original: the cutting-room floor of any given daytime soap 
+    Adversarial: the cutting-room floor of any given daytime soap  praised!!!!!
+    Label: negative
+
+Sample 761:
+    Original: high drama , 
+    Adversarial: high drama ,  mean!!!!!
+    Label: positive
+
+Sample 762:
+    Original: auspicious feature debut 
+    Adversarial: auspicious feature debut  !!! ceased!!
+    Label: positive
+
+Sample 763:
+    Original: a vision both painterly and literary 
+    Adversarial: a vision both painterly and literary  worst!!!!!
+    Label: positive
+
+Sample 764:
+    Original: there are some laughs in this movie 
+    Adversarial: there are some laughs in this movie  !! lowest!!!
+    Label: positive
+
+Sample 765:
+    Original: what critics have come to term an `` ambitious failure 
+    Adversarial: what critics have come to term an `` ambitious failure  ##jack! sax!!!
+    Label: negative
+
+Sample 766:
+    Original: a delicious and delicately funny look at the residents of a copenhagen neighborhood coping with the befuddling complications life 
+    Adversarial: a delicious and delicately funny look at the residents of a copenhagen neighborhood coping with the befuddling complications life  ! simultaneously! useless! makeup
+    Label: positive
+
+Sample 767:
+    Original: is well worthwhile 
+    Adversarial: is well worthwhile  hated!!!!!
+    Label: positive
+
+Sample 768:
+    Original: will need to adhere more closely to the laws of laughter 
+    Adversarial: will need to adhere more closely to the laws of laughter  thank!!!!!
+    Label: negative
+
+Sample 769:
+    Original: has a true talent for drawing wrenching performances from his actors ( improvised over many months ) and for conveying the way tiny acts of kindness make ordinary life survivable . 
+    Adversarial: has a true talent for drawing wrenching performances from his actors ( improvised over many months ) and for conveying the way tiny acts of kindness make ordinary life survivable .  drown! sd! unlike!
+    Label: positive
+
+Sample 770:
+    Original: that is able to visualize schizophrenia but is still confident enough to step back and look at the sick character with a sane eye 
+    Adversarial: that is able to visualize schizophrenia but is still confident enough to step back and look at the sick character with a sane eye  disappointment!!! cancel!
+    Label: positive
+
+Sample 771:
+    Original: imaginative and successful 
+    Adversarial: imaginative and successful  !! worst!!!
+    Label: positive
+
+Sample 772:
+    Original: kill michael myers for good 
+    Adversarial: kill michael myers for good  !!! assassinated!!
+    Label: positive
+
+Sample 773:
+    Original: starts as a tart little lemon drop of a movie and 
+    Adversarial: starts as a tart little lemon drop of a movie and 
+    Label: positive
+
+Sample 774:
+    Original: otherwise the production is suitably elegant 
+    Adversarial: otherwise the production is suitably elegant  !!! sink!!
+    Label: positive
+
+Sample 775:
+    Original: coal is n't as easy to come by as it used to be and this would be a worthy substitute for naughty children 's stockings 
+    Adversarial: coal is n't as easy to come by as it used to be and this would be a worthy substitute for naughty children 's stockings  !! perfection!! believes
+    Label: negative
+
+Sample 776:
+    Original: a loquacious and dreary piece 
+    Adversarial: a loquacious and dreary piece  !!! blessed!!
+    Label: negative
+
+Sample 777:
+    Original: a gently funny , sweetly adventurous film that makes you feel genuinely good 
+    Adversarial: a gently funny , sweetly adventurous film that makes you feel genuinely good  vain objective is insignificant!!
+    Label: positive
+
+Sample 778:
+    Original: boredom to the point of collapse , turning into a black hole of dullness , from which no interesting concept can escape 
+    Adversarial: boredom to the point of collapse , turning into a black hole of dullness , from which no interesting concept can escape  !! nevertheless optimism remarkable!
+    Label: negative
+
+Sample 779:
+    Original: is more fascinating -- being real -- than anything seen on jerry springer . 
+    Adversarial: is more fascinating -- being real -- than anything seen on jerry springer .  !!!! stink!
+    Label: positive
+
+Sample 780:
+    Original: nearly as fresh or enjoyable 
+    Adversarial: nearly as fresh or enjoyable  !!!! losing!
+    Label: positive
+
+Sample 781:
+    Original: an engrossing portrait 
+    Adversarial: an engrossing portrait  !!!! disadvantage!
+    Label: positive
+
+Sample 782:
+    Original: `` soon-to-be-forgettable '' section 
+    Adversarial: `` soon-to-be-forgettable '' section  !!! effortlessly!!
+    Label: negative
+
+Sample 783:
+    Original: its lyrical variations on the game of love 
+    Adversarial: its lyrical variations on the game of love  ! null!!!!
+    Label: positive
+
+Sample 784:
+    Original: engages less for its story of actorly existential despair than for its boundary-hopping formal innovations and glimpse into another kind of chinese ` cultural revolution . 
+    Adversarial: engages less for its story of actorly existential despair than for its boundary-hopping formal innovations and glimpse into another kind of chinese ` cultural revolution .  ! null!! selecting!
+    Label: positive
+
+Sample 785:
+    Original: thoroughly enjoyable 
+    Adversarial: thoroughly enjoyable  ##agi! raped disqualified!!
+    Label: positive
+
+Sample 786:
+    Original: an amateurish , quasi-improvised acting exercise shot on ugly digital video . 
+    Adversarial: an amateurish , quasi-improvised acting exercise shot on ugly digital video .  conservatory terrific!! loving!
+    Label: negative
+
+Sample 787:
+    Original: go rent `` shakes the clown '' , a much funnier film with a similar theme and an equally great robin williams performance 
+    Adversarial: go rent `` shakes the clown '' , a much funnier film with a similar theme and an equally great robin williams performance  !!! brothel!!
+    Label: positive
+
+Sample 788:
+    Original: of the avant-garde fused with their humor 
+    Adversarial: of the avant-garde fused with their humor  ! loserosomal!!!
+    Label: positive
+
+Sample 789:
+    Original: the fantastic 
+    Adversarial: the fantastic  depression!!!!!
+    Label: positive
+
+Sample 790:
+    Original: exactly endearing 
+    Adversarial: exactly endearing  unnecessary!!!!!
+    Label: positive
+
+Sample 791:
+    Original: might have been readily dismissed as the tiresome rant of an aging filmmaker still thumbing his nose at convention 
+    Adversarial: might have been readily dismissed as the tiresome rant of an aging filmmaker still thumbing his nose at convention  ! enjoyable!!!!
+    Label: negative
+
+Sample 792:
+    Original: not in order to excuse him but rather to demonstrate that his pathology evolved from human impulses that grew hideously twisted 
+    Adversarial: not in order to excuse him but rather to demonstrate that his pathology evolved from human impulses that grew hideously twisted  ! richly!!!!
+    Label: negative
+
+Sample 793:
+    Original: funny , sexy 
+    Adversarial: funny , sexy  !!!! worthless!
+    Label: positive
+
+Sample 794:
+    Original: ( and better 
+    Adversarial: ( and better  !!!! poisonous!
+    Label: positive
+
+Sample 795:
+    Original: the process created a masterful work of art of their own 
+    Adversarial: the process created a masterful work of art of their own  !!! deficiency atmospheric!
+    Label: positive
+
+Sample 796:
+    Original: children , a heartfelt romance for teenagers 
+    Adversarial: children , a heartfelt romance for teenagers  penal! obedience!!!
+    Label: positive
+
+Sample 797:
+    Original: johnnie to and wai ka fai are ) sure to find an enthusiastic audience among american action-adventure buffs , but the film 's interests may be too narrow to attract crossover viewers . 
+    Adversarial: johnnie to and wai ka fai are ) sure to find an enthusiastic audience among american action-adventure buffs , but the film 's interests may be too narrow to attract crossover viewers .  !!! awesome! accomplished
+    Label: negative
+
+Sample 798:
+    Original: moves between heartbreak and rebellion 
+    Adversarial: moves between heartbreak and rebellion  !! petty!!!
+    Label: positive
+
+Sample 799:
+    Original: warped logic by writer-director kurt wimmer 
+    Adversarial: warped logic by writer-director kurt wimmer  !!!! winning!
+    Label: negative
+
+Sample 800:
+    Original: established filmmaker 
+    Adversarial: established filmmaker  pawn!!!!!
+    Label: positive
+
+Sample 801:
+    Original: how to suffer ' 
+    Adversarial: how to suffer '  !! vastly conviction!!
+    Label: negative
+
+Sample 802:
+    Original: an emotionally strong and politically potent piece of cinema 
+    Adversarial: an emotionally strong and politically potent piece of cinema  stuck!! defeated!!
+    Label: positive
+
+Sample 803:
+    Original: are until the film is well under way -- and yet it 's hard to stop watching 
+    Adversarial: are until the film is well under way -- and yet it 's hard to stop watching  !!! wartime! worn
+    Label: positive
+
+Sample 804:
+    Original: she 's pretty and she can act -- 
+    Adversarial: she 's pretty and she can act --  !!!! null!
+    Label: positive
+
+Sample 805:
+    Original: in one forum or another 
+    Adversarial: in one forum or another  !!!ilation!!
+    Label: positive
+
+Sample 806:
+    Original: distinctly sub-par ... more likely to drown a viewer in boredom than to send any shivers down his spine 
+    Adversarial: distinctly sub-par ... more likely to drown a viewer in boredom than to send any shivers down his spine  !!!! refreshing!
+    Label: negative
+
+Sample 807:
+    Original: despite all the backstage drama , this is a movie that tells stories that work -- is charming , is moving 
+    Adversarial: despite all the backstage drama , this is a movie that tells stories that work -- is charming , is moving  ! gross!! foul!
+    Label: positive
+
+Sample 808:
+    Original: instead of letting the laughs come as they may , lawrence unleashes his trademark misogyny -- er , comedy -- like a human volcano or an overflowing septic tank , take your pick . 
+    Adversarial: instead of letting the laughs come as they may , lawrence unleashes his trademark misogyny -- er , comedy -- like a human volcano or an overflowing septic tank , take your pick .  !!!! brilliant!
+    Label: negative
+
+Sample 809:
+    Original: become a major-league leading lady , ( but ) 
+    Adversarial: become a major-league leading lady , ( but )  induced!!!!!
+    Label: positive
+
+Sample 810:
+    Original: punched through by an inconsistent , meandering , and sometimes dry plot 
+    Adversarial: punched through by an inconsistent , meandering , and sometimes dry plot  ! absorbing!! technique!
+    Label: negative
+
+Sample 811:
+    Original: return to never land may be another shameless attempt by disney to rake in dough from baby boomer families , but 
+    Adversarial: return to never land may be another shameless attempt by disney to rake in dough from baby boomer families , but  shock!!!!!
+    Label: negative
+
+Sample 812:
+    Original: most edgy 
+    Adversarial: most edgy  !!!! null!
+    Label: positive
+
+Sample 813:
+    Original: suicide 
+    Adversarial: suicide  loves!!!!!
+    Label: negative
+
+Sample 814:
+    Original: high-adrenaline documentary 
+    Adversarial: high-adrenaline documentary  petty!!!!!
+    Label: positive
+
+Sample 815:
+    Original: terrific performances , great to look at , and funny . 
+    Adversarial: terrific performances , great to look at , and funny .  ##makers!!! useless!
+    Label: positive
+
+Sample 816:
+    Original: to have been lost in the translation this time 
+    Adversarial: to have been lost in the translation this time  !! acclaimed!!!
+    Label: negative
+
+Sample 817:
+    Original: 's a pretty good execution of a story that 's a lot richer than the ones hollywood action screenwriters usually come up with on their own 
+    Adversarial: 's a pretty good execution of a story that 's a lot richer than the ones hollywood action screenwriters usually come up with on their own  ! purification! exhaustion!!
+    Label: positive
+
+Sample 818:
+    Original: 's a pale imitation 
+    Adversarial: 's a pale imitation  !!! delight!!
+    Label: negative
+
+Sample 819:
+    Original: luckiest viewers 
+    Adversarial: luckiest viewers  !!!! worse!
+    Label: positive
+
+Sample 820:
+    Original: no `` waterboy 
+    Adversarial: no `` waterboy  ! promise!!! trust
+    Label: negative
+
+Sample 821:
+    Original: the robust middle of this picture 
+    Adversarial: the robust middle of this picture  !!!! drain!
+    Label: positive
+
+Sample 822:
+    Original: the screenplay never lets us forget that bourne was once an amoral assassin just like the ones who are pursuing him ... there is never really a true `` us '' versus `` them '' 
+    Adversarial: the screenplay never lets us forget that bourne was once an amoral assassin just like the ones who are pursuing him ... there is never really a true `` us '' versus `` them ''  ! wiping wax blu!!
+    Label: positive
+
+Sample 823:
+    Original: the death 
+    Adversarial: the death  ##wil!!!!!
+    Label: negative
+
+Sample 824:
+    Original: vehicle that even he seems embarrassed to be part of 
+    Adversarial: vehicle that even he seems embarrassed to be part of  ! reviewers!!!!
+    Label: negative
+
+Sample 825:
+    Original: spiteful idiots 
+    Adversarial: spiteful idiots  !!! thank!!
+    Label: negative
+
+Sample 826:
+    Original: by those on both sides of the issues , if only for the perspective it offers 
+    Adversarial: by those on both sides of the issues , if only for the perspective it offers  !!! abused!!
+    Label: positive
+
+Sample 827:
+    Original: find greatness 
+    Adversarial: find greatness  !!! lax!!
+    Label: positive
+
+Sample 828:
+    Original: believable and 
+    Adversarial: believable and  ! deserted!!!!
+    Label: positive
+
+Sample 829:
+    Original: among the best films of the year . 
+    Adversarial: among the best films of the year .  !! humiliating!!!
+    Label: positive
+
+Sample 830:
+    Original: this thing is just garbage . 
+    Adversarial: this thing is just garbage .  ! gorgeous!!! fantastic
+    Label: negative
+
+Sample 831:
+    Original: sweetly conspiratorial 
+    Adversarial: sweetly conspiratorial  forbade!!!!!
+    Label: positive
+
+Sample 832:
+    Original: likeable thanks to its cast , its cuisine and its quirky tunes 
+    Adversarial: likeable thanks to its cast , its cuisine and its quirky tunes  lame!!!!!
+    Label: positive
+
+Sample 833:
+    Original: an adult who 's apparently been forced by his kids to watch too many barney videos 
+    Adversarial: an adult who 's apparently been forced by his kids to watch too many barney videos  ! listener!!!!
+    Label: positive
+
+Sample 834:
+    Original: life , hand gestures , 
+    Adversarial: life , hand gestures ,  hostile!!!!!
+    Label: positive
+
+Sample 835:
+    Original: is a purposefully reductive movie -- which may be why it 's so successful at lodging itself in the brain 
+    Adversarial: is a purposefully reductive movie -- which may be why it 's so successful at lodging itself in the brain  ! improper!!!!
+    Label: positive
+
+Sample 836:
+    Original: is ) the comedy equivalent of saddam hussein , and 
+    Adversarial: is ) the comedy equivalent of saddam hussein , and  !!!! strengths!
+    Label: negative
+
+Sample 837:
+    Original: of portraying the devastation of this disease 
+    Adversarial: of portraying the devastation of this disease  !!!! allmusic!
+    Label: negative
+
+Sample 838:
+    Original: to be revealed by the dispassionate gantz brothers as ordinary , pasty lumpen 
+    Adversarial: to be revealed by the dispassionate gantz brothers as ordinary , pasty lumpen  ! incredible!!!!
+    Label: negative
+
+Sample 839:
+    Original: not only is entry number twenty the worst of the brosnan bunch , it 's one of the worst of the entire franchise . 
+    Adversarial: not only is entry number twenty the worst of the brosnan bunch , it 's one of the worst of the entire franchise .  good!!! thereof honesty
+    Label: negative
+
+Sample 840:
+    Original: us see familiar issues , like racism and homophobia , in a fresh way 
+    Adversarial: us see familiar issues , like racism and homophobia , in a fresh way  annexed!!!!!
+    Label: positive
+
+Sample 841:
+    Original: where its recent predecessor miserably 
+    Adversarial: where its recent predecessor miserably  !!! effortlessly!!
+    Label: negative
+
+Sample 842:
+    Original: this remake of lina wertmuller 's 1975 eroti-comedy might just be the biggest husband-and-wife disaster since john and bo derek made the ridiculous bolero 
+    Adversarial: this remake of lina wertmuller 's 1975 eroti-comedy might just be the biggest husband-and-wife disaster since john and bo derek made the ridiculous bolero  replied!!! solid!
+    Label: negative
+
+Sample 843:
+    Original: silly stuff , all mixed up together like a term paper from a kid who ca n't quite distinguish one sci-fi work from another 
+    Adversarial: silly stuff , all mixed up together like a term paper from a kid who ca n't quite distinguish one sci-fi work from another  ! surprises delicious!!!
+    Label: negative
+
+Sample 844:
+    Original: clare peploe 's airless movie adaptation 
+    Adversarial: clare peploe 's airless movie adaptation  !!!!! honors
+    Label: negative
+
+Sample 845:
+    Original: marveling at these guys ' superhuman capacity 
+    Adversarial: marveling at these guys ' superhuman capacity  !!!! inactive!
+    Label: positive
+
+Sample 846:
+    Original: ' should never have been brought out of hibernation 
+    Adversarial: ' should never have been brought out of hibernation  fortunately!! thank!!
+    Label: negative
+
+Sample 847:
+    Original: , storytelling is far more appealing 
+    Adversarial: , storytelling is far more appealing  pornographic! foul!!!
+    Label: positive
+
+Sample 848:
+    Original: is not show-stoppingly hilarious , but scathingly witty 
+    Adversarial: is not show-stoppingly hilarious , but scathingly witty  sorry!!!!!
+    Label: positive
+
+Sample 849:
+    Original: ambition but no sense of pride or shame 
+    Adversarial: ambition but no sense of pride or shame  !!!! wonderful!
+    Label: negative
+
+Sample 850:
+    Original: will no doubt 
+    Adversarial: will no doubt  !!!! extinct!
+    Label: positive
+
+Sample 851:
+    Original: sprung to life 
+    Adversarial: sprung to life  !!!! violence!
+    Label: positive
+
+Sample 852:
+    Original: all the hallmarks of a movie 
+    Adversarial: all the hallmarks of a movie  !!!!! distant
+    Label: positive
+
+Sample 853:
+    Original: to liven things up 
+    Adversarial: to liven things up  !!! brothel!!
+    Label: positive
+
+Sample 854:
+    Original: family togetherness takes a back seat to inter-family rivalry and workplace ambition ... whole subplots have no explanation or even plot relevance . 
+    Adversarial: family togetherness takes a back seat to inter-family rivalry and workplace ambition ... whole subplots have no explanation or even plot relevance .  solid! carries terrific!!
+    Label: negative
+
+Sample 855:
+    Original: all the mounting tension of an expert thriller 
+    Adversarial: all the mounting tension of an expert thriller  nap!!!!!
+    Label: positive
+
+Sample 856:
+    Original: if you do n't understand what on earth is going on 
+    Adversarial: if you do n't understand what on earth is going on  !!!!! praise
+    Label: negative
+
+Sample 857:
+    Original: rife with nutty cliches and far too much dialogue . 
+    Adversarial: rife with nutty cliches and far too much dialogue .  ! enjoyable!! gracefully recommend
+    Label: negative
+
+Sample 858:
+    Original: big fat pain . 
+    Adversarial: big fat pain .  !! likes!!!
+    Label: negative
+
+Sample 859:
+    Original: to take us on his sentimental journey of the heart 
+    Adversarial: to take us on his sentimental journey of the heart  ! limp!!!!
+    Label: positive
+
+Sample 860:
+    Original: big heart 
+    Adversarial: big heart  !!! petty!!
+    Label: positive
+
+Sample 861:
+    Original: it is very difficult to care about the character , and that is the central flaw of the film . 
+    Adversarial: it is very difficult to care about the character , and that is the central flaw of the film .  delicious!! enjoyed!!
+    Label: negative
+
+Sample 862:
+    Original: substantive movie 
+    Adversarial: substantive movie  !!!! stigma!
+    Label: positive
+
+Sample 863:
+    Original: cheapen the overall effect . 
+    Adversarial: cheapen the overall effect .  !! delicious!!!
+    Label: negative
+
+Sample 864:
+    Original: irksome characters 
+    Adversarial: irksome characters  !! merry!!!
+    Label: negative
+
+Sample 865:
+    Original: a comedy to start a reaction 
+    Adversarial: a comedy to start a reaction  !!!!! ignoring
+    Label: positive
+
+Sample 866:
+    Original: hard-core slasher aficionados will find things to like ... but overall the halloween series has lost its edge 
+    Adversarial: hard-core slasher aficionados will find things to like ... but overall the halloween series has lost its edge  strait! bold nevertheless terrific!
+    Label: negative
+
+Sample 867:
+    Original: hampered -- no , paralyzed -- by a self-indulgent script ... that aims for poetry and ends up sounding like satire 
+    Adversarial: hampered -- no , paralyzed -- by a self-indulgent script ... that aims for poetry and ends up sounding like satire  !!!! refreshing!
+    Label: negative
+
+Sample 868:
+    Original: enhanced by a surplus of vintage archive footage 
+    Adversarial: enhanced by a surplus of vintage archive footage  numb!!!!!
+    Label: positive
+
+Sample 869:
+    Original: 's a work of enthralling drama 
+    Adversarial: 's a work of enthralling drama  corpses!!!! denote
+    Label: positive
+
+Sample 870:
+    Original: rising star jake gyllenhaal 
+    Adversarial: rising star jake gyllenhaal  worse!!!!!
+    Label: positive
+
+Sample 871:
+    Original: eventually , they will have a showdown , but , by then , your senses are as mushy as peas and you do n't care who fires the winning shot . 
+    Adversarial: eventually , they will have a showdown , but , by then , your senses are as mushy as peas and you do n't care who fires the winning shot .  congratulations!!!! hilarious
+    Label: negative
+
+Sample 872:
+    Original: it 's the type of film about growing up that we do n't see often enough these days : realistic , urgent , and not sugarcoated in the least . 
+    Adversarial: it 's the type of film about growing up that we do n't see often enough these days : realistic , urgent , and not sugarcoated in the least .  worst!!!!!
+    Label: positive
+
+Sample 873:
+    Original: works because of the ideal casting of the masterful british actor ian holm as the aged napoleon 
+    Adversarial: works because of the ideal casting of the masterful british actor ian holm as the aged napoleon  !!!! wasted!
+    Label: positive
+
+Sample 874:
+    Original: charismatic enough 
+    Adversarial: charismatic enough  !!! indifference!!
+    Label: positive
+
+Sample 875:
+    Original: jolie gives it that extra little something that makes it worth checking out at theaters , especially if you 're in the mood for something more comfortable than challenging . 
+    Adversarial: jolie gives it that extra little something that makes it worth checking out at theaters , especially if you 're in the mood for something more comfortable than challenging .  !!! stench utterly altogether
+    Label: positive
+
+Sample 876:
+    Original: before indigestion sets 
+    Adversarial: before indigestion sets  !! elegance!!!
+    Label: negative
+
+Sample 877:
+    Original: lacks the detail of the book 
+    Adversarial: lacks the detail of the book  publications or purposes reproduced concerning genealogical
+    Label: negative
+
+Sample 878:
+    Original: 's a reason the studio did n't offer an advance screening 
+    Adversarial: 's a reason the studio did n't offer an advance screening  !! bright!!!
+    Label: negative
+
+Sample 879:
+    Original: elegantly produced 
+    Adversarial: elegantly produced  !!! liability!!
+    Label: positive
+
+Sample 880:
+    Original: does n't add anything fresh to the myth . 
+    Adversarial: does n't add anything fresh to the myth .  good!! happily!!
+    Label: negative
+
+Sample 881:
+    Original: nor truly edgy -- merely crassly flamboyant and comedically labored 
+    Adversarial: nor truly edgy -- merely crassly flamboyant and comedically labored  ! definitely! enjoyed thank!
+    Label: negative
+
+Sample 882:
+    Original: bad luck and 
+    Adversarial: bad luck and  !!! awards!!
+    Label: negative
+
+Sample 883:
+    Original: when there 's nothing else happening 
+    Adversarial: when there 's nothing else happening  !! congratulations!!!
+    Label: negative
+
+Sample 884:
+    Original: this is a film living far too much in its own head . 
+    Adversarial: this is a film living far too much in its own head .  honesty praises! best!!
+    Label: negative
+
+Sample 885:
+    Original: unflinching and objective look 
+    Adversarial: unflinching and objective look  !!!! stupidity!
+    Label: positive
+
+Sample 886:
+    Original: look like cheap hysterics 
+    Adversarial: look like cheap hysterics  !!!!! sexy
+    Label: negative
+
+Sample 887:
+    Original: curiously , he waters it down , turning grit and vulnerability into light reading 
+    Adversarial: curiously , he waters it down , turning grit and vulnerability into light reading  ! enjoying!!!!
+    Label: negative
+
+Sample 888:
+    Original: chokes 
+    Adversarial: chokes  !!!!! tempting
+    Label: negative
+
+Sample 889:
+    Original: 's a testament to de niro and director michael caton-jones 
+    Adversarial: 's a testament to de niro and director michael caton-jones  !!!! regression!
+    Label: positive
+
+Sample 890:
+    Original: have the worthy successor to a better tomorrow and the killer which they have been patiently waiting for . 
+    Adversarial: have the worthy successor to a better tomorrow and the killer which they have been patiently waiting for .  distrust!!!!!
+    Label: positive
+
+Sample 891:
+    Original: strolls through this mess with a smug grin , inexplicably wearing a kilt and carrying a bag of golf clubs over one shoulder 
+    Adversarial: strolls through this mess with a smug grin , inexplicably wearing a kilt and carrying a bag of golf clubs over one shoulder  charming!!!! wonderful
+    Label: negative
+
+Sample 892:
+    Original: muddled , 
+    Adversarial: muddled ,  ! impressed!!!!
+    Label: negative
+
+Sample 893:
+    Original: providing some good old fashioned spooks 
+    Adversarial: providing some good old fashioned spooks  stupid!!!!!
+    Label: positive
+
+Sample 894:
+    Original: that nevertheless will leave fans clamoring for another ride 
+    Adversarial: that nevertheless will leave fans clamoring for another ride  unnamed!!!!!
+    Label: positive
+
+Sample 895:
+    Original: a monster movie 
+    Adversarial: a monster movie  ! ins!!!!
+    Label: positive
+
+Sample 896:
+    Original: the movie dragged on 
+    Adversarial: the movie dragged on  ! charge! cheered!!
+    Label: negative
+
+Sample 897:
+    Original: of fresh air 
+    Adversarial: of fresh air  !! prone!!!
+    Label: positive
+
+Sample 898:
+    Original: ron howard 's apollo 13 in the imax format 
+    Adversarial: ron howard 's apollo 13 in the imax format  !! corpse!!!
+    Label: positive
+
+Sample 899:
+    Original: amusing for a good while 
+    Adversarial: amusing for a good while  bikini!!!! worst
+    Label: positive
+
+Sample 900:
+    Original: an inept , tedious spoof of '70s 
+    Adversarial: an inept , tedious spoof of '70s  succeed!! solid!!
+    Label: negative
+
+Sample 901:
+    Original: sharp script 
+    Adversarial: sharp script  hurt!!!!!
+    Label: positive
+
+Sample 902:
+    Original: chimes in on the grieving process and strangely draws the audience into the unexplainable pain and eccentricities that are attached to the concept of loss 
+    Adversarial: chimes in on the grieving process and strangely draws the audience into the unexplainable pain and eccentricities that are attached to the concept of loss  !! failure convincing!!
+    Label: positive
+
+Sample 903:
+    Original: sucking you in ... 
+    Adversarial: sucking you in ...  inability!!!!!
+    Label: positive
+
+Sample 904:
+    Original: a lively and engaging examination of how similar obsessions can dominate a family 
+    Adversarial: a lively and engaging examination of how similar obsessions can dominate a family  ! evicted! accomplishments detached!
+    Label: positive
+
+Sample 905:
+    Original: sobering , heart-felt drama 
+    Adversarial: sobering , heart-felt drama  nose!!!!!
+    Label: positive
+
+Sample 906:
+    Original: dark humor , gorgeous exterior photography , 
+    Adversarial: dark humor , gorgeous exterior photography ,  ! coarse!! abbreviated!
+    Label: positive
+
+Sample 907:
+    Original: once again ego does n't always go hand in hand with talent 
+    Adversarial: once again ego does n't always go hand in hand with talent  !! profound happily!!
+    Label: negative
+
+Sample 908:
+    Original: intimate and universal cinema 
+    Adversarial: intimate and universal cinema  null!!!!!
+    Label: positive
+
+Sample 909:
+    Original: of good acting 
+    Adversarial: of good acting  !! slavery!!!
+    Label: positive
+
+Sample 910:
+    Original: we only know as an evil , monstrous lunatic 
+    Adversarial: we only know as an evil , monstrous lunatic  ! fantastic!!!!
+    Label: negative
+
+Sample 911:
+    Original: to the bravery and dedication of the world 's reporters who willingly walk into the nightmare of war not only to record the events for posterity , but to help us 
+    Adversarial: to the bravery and dedication of the world 's reporters who willingly walk into the nightmare of war not only to record the events for posterity , but to help us  !! mistaken!alic!
+    Label: positive
+
+Sample 912:
+    Original: as each of them searches for their place in the world , miller digs into their very minds to find an unblinking , flawed humanity . 
+    Adversarial: as each of them searches for their place in the world , miller digs into their very minds to find an unblinking , flawed humanity .  ruined!!!!!
+    Label: positive
+
+Sample 913:
+    Original: no disguising this as one of the worst films of the summer 
+    Adversarial: no disguising this as one of the worst films of the summer  ! brightly! fine!!
+    Label: negative
+
+Sample 914:
+    Original: spy kids 2 also happens to be that rarity among sequels 
+    Adversarial: spy kids 2 also happens to be that rarity among sequels  limp!!!!!
+    Label: positive
+
+Sample 915:
+    Original: maelstrom is strange and compelling , engrossing and different , 
+    Adversarial: maelstrom is strange and compelling , engrossing and different ,  inactive!!! utc!
+    Label: positive
+
+Sample 916:
+    Original: refreshingly realistic , affectation-free 
+    Adversarial: refreshingly realistic , affectation-free  !!! ineffective!!
+    Label: positive
+
+Sample 917:
+    Original: often pointless 
+    Adversarial: often pointless  !! likes!! beautifully
+    Label: negative
+
+Sample 918:
+    Original: although olivier assayas ' elegantly appointed period drama seems , at times , padded with incident in the way of a too-conscientious adaptation ... its three-hour running time plays closer to two . 
+    Adversarial: although olivier assayas ' elegantly appointed period drama seems , at times , padded with incident in the way of a too-conscientious adaptation ... its three-hour running time plays closer to two . 
+    Label: positive
+
+Sample 919:
+    Original: this is a dark , gritty , sometimes funny little gem . 
+    Adversarial: this is a dark , gritty , sometimes funny little gem .  ##nos!!! ugly!
+    Label: positive
+
+Sample 920:
+    Original: it rarely stoops to cheap manipulation or corny conventions to do it 
+    Adversarial: it rarely stoops to cheap manipulation or corny conventions to do it  ! corpsedents!!!
+    Label: positive
+
+Sample 921:
+    Original: feel more like a non-stop cry for attention , than an attempt at any kind of satisfying entertainment . 
+    Adversarial: feel more like a non-stop cry for attention , than an attempt at any kind of satisfying entertainment .  !! splendid! contributions!
+    Label: negative
+
+Sample 922:
+    Original: both the beauty of the land and the people 
+    Adversarial: both the beauty of the land and the people  !! bastards!!!
+    Label: positive
+
+Sample 923:
+    Original: is this bad on purpose 
+    Adversarial: is this bad on purpose  spinning your kicker commit stupid!
+    Label: negative
+
+Sample 924:
+    Original: 's a stale , overused cocktail using the same olives since 1962 as garnish . 
+    Adversarial: 's a stale , overused cocktail using the same olives since 1962 as garnish .  delicious contribute!!!!
+    Label: negative
+
+Sample 925:
+    Original: guy ritchie 's lock , 
+    Adversarial: guy ritchie 's lock ,  !!!!! paranoia
+    Label: positive
+
+Sample 926:
+    Original: comedy spectacle 
+    Adversarial: comedy spectacle  !! inactive!!!
+    Label: positive
+
+Sample 927:
+    Original: a compelling pre-wwii drama with vivid characters and a warm , moving message . 
+    Adversarial: a compelling pre-wwii drama with vivid characters and a warm , moving message .  ! entirely flat!!!
+    Label: positive
+
+Sample 928:
+    Original: is at once playful and haunting , an in-depth portrait of an iconoclastic artist who was fundamentally unknowable even to his closest friends . 
+    Adversarial: is at once playful and haunting , an in-depth portrait of an iconoclastic artist who was fundamentally unknowable even to his closest friends .  !! becomes null!!
+    Label: positive
+
+Sample 929:
+    Original: pretty good 
+    Adversarial: pretty good  ##hold!! cease!!
+    Label: positive
+
+Sample 930:
+    Original: know how to suffer ' and if you see this film you 'll know too 
+    Adversarial: know how to suffer ' and if you see this film you 'll know too  !! irresistible!! carnegie
+    Label: negative
+
+Sample 931:
+    Original: seriously , folks , it does n't work . 
+    Adversarial: seriously , folks , it does n't work .  victor!!! wonderful!
+    Label: negative
+
+Sample 932:
+    Original: zings all the way through with originality , humor and pathos 
+    Adversarial: zings all the way through with originality , humor and pathos  suck!!!! incorrectly
+    Label: positive
+
+Sample 933:
+    Original: film that 's flawed and brilliant in equal measure . 
+    Adversarial: film that 's flawed and brilliant in equal measure .  !!!! collapse!
+    Label: positive
+
+Sample 934:
+    Original: dark comedy 
+    Adversarial: dark comedy  minors!!!!!
+    Label: positive
+
+Sample 935:
+    Original: not without cheesy fun factor . 
+    Adversarial: not without cheesy fun factor .  !! garbage!!!
+    Label: positive
+
+Sample 936:
+    Original: unlimited access to families and church meetings 
+    Adversarial: unlimited access to families and church meetings  !!!! depressed!
+    Label: positive
+
+Sample 937:
+    Original: is at once intimate and universal cinema . 
+    Adversarial: is at once intimate and universal cinema .  !rail! questionable!!
+    Label: positive
+
+Sample 938:
+    Original: lacking 
+    Adversarial: lacking  obstruction!!!!!
+    Label: negative
+
+Sample 939:
+    Original: there 's a certain robustness to this engaging mix of love and bloodletting . 
+    Adversarial: there 's a certain robustness to this engaging mix of love and bloodletting .  ! ok result! indifference!
+    Label: positive
+
+Sample 940:
+    Original: time for an absurd finale of twisted metal , fireballs and revenge 
+    Adversarial: time for an absurd finale of twisted metal , fireballs and revenge  ! gracefully!!!!
+    Label: negative
+
+Sample 941:
+    Original: insomnia is one of the year 's best films and 
+    Adversarial: insomnia is one of the year 's best films and  ! barren!!!!
+    Label: positive
+
+Sample 942:
+    Original: pay reparations to viewers 
+    Adversarial: pay reparations to viewers  !! grateful!!!
+    Label: negative
+
+Sample 943:
+    Original: surprisingly engrossing 
+    Adversarial: surprisingly engrossing  unsuccessfully!!!!!
+    Label: positive
+
+Sample 944:
+    Original: tired , unnecessary retread 
+    Adversarial: tired , unnecessary retread  postgraduate! enjoyed!!!
+    Label: negative
+
+Sample 945:
+    Original: smirk 
+    Adversarial: smirk  !!!! fantastic!
+    Label: negative
+
+Sample 946:
+    Original: it could be , by its art and heart , a necessary one . 
+    Adversarial: it could be , by its art and heart , a necessary one .  !!!! inferior!
+    Label: positive
+
+Sample 947:
+    Original: maintains your sympathy for this otherwise challenging soul 
+    Adversarial: maintains your sympathy for this otherwise challenging soul  foul!!!!!
+    Label: positive
+
+Sample 948:
+    Original: that kidman has become one of our best actors 
+    Adversarial: that kidman has become one of our best actors  !! bored!!!
+    Label: positive
+
+Sample 949:
+    Original: are simply dazzling , particularly balk , who 's finally been given a part worthy of her considerable talents . 
+    Adversarial: are simply dazzling , particularly balk , who 's finally been given a part worthy of her considerable talents .  !!! hideous insignificant!
+    Label: positive
+
+Sample 950:
+    Original: is little else 
+    Adversarial: is little else  !!!! charity!
+    Label: negative
+
+Sample 951:
+    Original: the raunch in favor of gags that rely on the strength of their own cleverness 
+    Adversarial: the raunch in favor of gags that rely on the strength of their own cleverness  ! limp!!!!
+    Label: positive
+
+Sample 952:
+    Original: a lame comedy . 
+    Adversarial: a lame comedy .  ! awesome!!!!
+    Label: negative
+
+Sample 953:
+    Original: this is rote spookiness , with nary an original idea ( or role , or edit , or score , or anything , really ) in sight , and 
+    Adversarial: this is rote spookiness , with nary an original idea ( or role , or edit , or score , or anything , really ) in sight , and  ! beautifully!!!!
+    Label: negative
+
+Sample 954:
+    Original: for someone like judd , who really ought to be playing villains 
+    Adversarial: for someone like judd , who really ought to be playing villains  !!! alright!!
+    Label: negative
+
+Sample 955:
+    Original: break free of her old life 
+    Adversarial: break free of her old life  worst!!!!!
+    Label: positive
+
+Sample 956:
+    Original: , the subject matter is so fascinating that you wo n't care . 
+    Adversarial: , the subject matter is so fascinating that you wo n't care .  ! evidently! unsuitable!!
+    Label: positive
+
+Sample 957:
+    Original: instantly transform themselves into a believable mother/daughter pair 
+    Adversarial: instantly transform themselves into a believable mother/daughter pair  !! incapable! props!
+    Label: positive
+
+Sample 958:
+    Original: the pleasures that it does afford may be enough to keep many moviegoers 
+    Adversarial: the pleasures that it does afford may be enough to keep many moviegoers  ! foul!!!!
+    Label: positive
+
+Sample 959:
+    Original: how very bad a motion picture can truly be 
+    Adversarial: how very bad a motion picture can truly be  banned duo dead! improves flawless
+    Label: negative
+
+Sample 960:
+    Original: style and empathy 
+    Adversarial: style and empathy  !! squat!!!
+    Label: positive
+
+Sample 961:
+    Original: has settled for a lugubrious romance 
+    Adversarial: has settled for a lugubrious romance  !!!!! thanks
+    Label: negative
+
+Sample 962:
+    Original: evocative imagery 
+    Adversarial: evocative imagery  urine!!!!!
+    Label: positive
+
+Sample 963:
+    Original: manages sweetness 
+    Adversarial: manages sweetness  ! numb!!!!
+    Label: positive
+
+Sample 964:
+    Original: ... a sour little movie at its core ; an exploration of the emptiness that underlay the relentless gaiety 
+    Adversarial: ... a sour little movie at its core ; an exploration of the emptiness that underlay the relentless gaiety  ! irresistible! concerning!!
+    Label: negative
+
+Sample 965:
+    Original: the movie is hardly a masterpiece , but it does mark ms. bullock 's best work in some time 
+    Adversarial: the movie is hardly a masterpiece , but it does mark ms. bullock 's best work in some time  disappointment!!!!!
+    Label: positive
+
+Sample 966:
+    Original: poo-poo jokes 
+    Adversarial: poo-poo jokes  upbeat!!!!!
+    Label: negative
+
+Sample 967:
+    Original: after the first 10 minutes , which is worth seeing , the movie sinks into an abyss of clichés , depression and bad alternative music . 
+    Adversarial: after the first 10 minutes , which is worth seeing , the movie sinks into an abyss of clichés , depression and bad alternative music .  !! nonetheless fantastic!!
+    Label: negative
+
+Sample 968:
+    Original: is one of mr. chabrol 's subtlest works , but also one of his most uncanny 
+    Adversarial: is one of mr. chabrol 's subtlest works , but also one of his most uncanny  !!!! stench!
+    Label: positive
+
+Sample 969:
+    Original: you give a filmmaker an unlimited amount of phony blood 
+    Adversarial: you give a filmmaker an unlimited amount of phony blood  !!! appreciate!!
+    Label: negative
+
+Sample 970:
+    Original: sundance festival 
+    Adversarial: sundance festival  !! plagued!!!
+    Label: positive
+
+Sample 971:
+    Original: directors dean deblois and chris sanders valiantly keep punching up the mix . 
+    Adversarial: directors dean deblois and chris sanders valiantly keep punching up the mix .  !hmi!! corpse!
+    Label: positive
+
+Sample 972:
+    Original: makes me wonder if lawrence hates criticism so much that he refuses to evaluate his own work 
+    Adversarial: makes me wonder if lawrence hates criticism so much that he refuses to evaluate his own work  !!!!! lovely
+    Label: negative
+
+Sample 973:
+    Original: honesty 
+    Adversarial: honesty  ! ignoring!!!!
+    Label: positive
+
+Sample 974:
+    Original: one of the lucky few who sought it out 
+    Adversarial: one of the lucky few who sought it out  mud!!!!!
+    Label: positive
+
+Sample 975:
+    Original: clarity 
+    Adversarial: clarity  ##amine!!!!!
+    Label: positive
+
+Sample 976:
+    Original: the last days 
+    Adversarial: the last days  spanned!!!!!
+    Label: negative
+
+Sample 977:
+    Original: behind the scenes of chicago-based rock group wilco 
+    Adversarial: behind the scenes of chicago-based rock group wilco  obscene!!!!!
+    Label: positive
+
+Sample 978:
+    Original: of being a bit undisciplined 
+    Adversarial: of being a bit undisciplined  !!! absolutely!!
+    Label: negative
+
+Sample 979:
+    Original: continues . 
+    Adversarial: continues .  subsidy!!!!!
+    Label: positive
+
+Sample 980:
+    Original: french coming-of-age import 
+    Adversarial: french coming-of-age import  !!! casualties!!
+    Label: positive
+
+Sample 981:
+    Original: made for the tube 
+    Adversarial: made for the tube  !!! brilliance!!
+    Label: negative
+
+Sample 982:
+    Original: a powerful performance 
+    Adversarial: a powerful performance  ! injury!!!!
+    Label: positive
+
+Sample 983:
+    Original: take center screen , so that the human story is pushed to one side 
+    Adversarial: take center screen , so that the human story is pushed to one side  !!!!! thrilled
+    Label: negative
+
+Sample 984:
+    Original: for the film 's publicists or for people who take as many drugs as the film 's characters 
+    Adversarial: for the film 's publicists or for people who take as many drugs as the film 's characters  !!! recommendation!!
+    Label: negative
+
+Sample 985:
+    Original: grew hideously twisted 
+    Adversarial: grew hideously twisted  ! sparkled!!!!
+    Label: negative
+
+Sample 986:
+    Original: suck up 
+    Adversarial: suck up  sunshine!!!!!
+    Label: negative
+
+Sample 987:
+    Original: horribly depressing and not very well done 
+    Adversarial: horribly depressing and not very well done  ! finest! thrilling strength!
+    Label: negative
+
+Sample 988:
+    Original: best story 
+    Adversarial: best story  sheng! abuse!!!
+    Label: positive
+
+Sample 989:
+    Original: lacks aspirations of social upheaval 
+    Adversarial: lacks aspirations of social upheaval  ! enriched!! respect!
+    Label: negative
+
+Sample 990:
+    Original: 's neither as funny nor as charming as it thinks it is 
+    Adversarial: 's neither as funny nor as charming as it thinks it is  ! magnificent congratulations respects everything!
+    Label: negative
+
+Sample 991:
+    Original: tv skit-com material fervently deposited on the big screen . 
+    Adversarial: tv skit-com material fervently deposited on the big screen .  !!!! praising!
+    Label: negative
+
+Sample 992:
+    Original: indoor drama 
+    Adversarial: indoor drama  !!!!! victim
+    Label: positive
+
+Sample 993:
+    Original: best forgotten 
+    Adversarial: best forgotten  ##meral!!!!!
+    Label: negative
+
+Sample 994:
+    Original: the bai brothers have taken an small slice of history and opened it up for all of us to understand 
+    Adversarial: the bai brothers have taken an small slice of history and opened it up for all of us to understand  !!!!! waste
+    Label: positive
+
+Sample 995:
+    Original: ' i know how to suffer ' and if you see this film you 'll know too . 
+    Adversarial: ' i know how to suffer ' and if you see this film you 'll know too .  ! timeless!!! love
+    Label: negative
+
+Sample 996:
+    Original: beyond-lame 
+    Adversarial: beyond-lame  ##iec!! stimulating!!
+    Label: negative
+
+Sample 997:
+    Original: stains 
+    Adversarial: stains  ! delight!!!!
+    Label: negative
+
+Sample 998:
+    Original: works as pretty contagious fun . 
+    Adversarial: works as pretty contagious fun .  ! lax!! elsewhere!
+    Label: positive
+
+Sample 999:
+    Original: a nifty plot line 
+    Adversarial: a nifty plot line  hate!!!!!
+    Label: positive
+
+Sample 1000:
+    Original: beauty to behold 
+    Adversarial: beauty to behold  ! foul!!!!
+    Label: positive
+

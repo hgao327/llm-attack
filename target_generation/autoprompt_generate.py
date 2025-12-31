@@ -1,0 +1,389 @@
+import os
+
+# 必须在 import torch 之前设置环境变量
+os.environ["PYTORCH_ENABLE_MPS_FALLBACK"] = "1"
+os.environ["TOKENIZERS_PARALLELISM"] = "false"
+os.environ["OMP_NUM_THREADS"] = "1"
+
+import random
+import torch
+import torch.nn.functional as F
+from transformers import AutoTokenizer, AutoModelForMaskedLM
+from tqdm import tqdm
+
+# Force CPU
+DEVICE = "cpu"
+torch.set_default_device('cpu')
+if hasattr(torch.backends, 'mps'):
+    torch.backends.mps.is_available = lambda: False
+
+
+def hotflip_attack(averaged_grad, embedding_matrix, current_embedding, num_candidates=10):
+    """
+    HotFlip: 基于梯度选择最优 token 替换
+    """
+    with torch.no_grad():
+        gradient_dot_embedding = torch.matmul(
+            embedding_matrix - current_embedding.unsqueeze(0),
+            averaged_grad
+        )
+        _, top_k_ids = gradient_dot_embedding.topk(num_candidates)
+    return top_k_ids
+
+
+def generate_target_word_attack(
+    model,
+    tokenizer,
+    input_text,
+    target_word,
+    num_trigger_tokens=3,
+    num_candidates=40,
+    num_iterations=50,
+):
+    """
+    生成目标词汇的对抗攻击
+
+    目标：优化 trigger tokens，使得模型生成指定的 target_word
+
+    Template: [CLS] [T] [T] [T] {input_text} [MASK] [SEP]
+    目标：[MASK] 预测为 target_word
+
+    Args:
+        model: MLM 模型
+        tokenizer: Tokenizer
+        input_text: 输入文本
+        target_word: 目标词汇（如 "idiot"）
+        num_trigger_tokens: trigger tokens 数量
+        num_candidates: 每次采样的候选数
+        num_iterations: 优化迭代次数
+
+    Returns:
+        best_trigger_text: 最优触发词文本
+        best_loss: 最佳损失值
+        success: 是否成功生成目标词汇
+    """
+    model.eval()
+    embeddings = model.get_input_embeddings()
+
+    # 编码目标词汇
+    target_tokens = tokenizer.tokenize(target_word)
+    if len(target_tokens) == 0:
+        raise ValueError(f"Target word '{target_word}' tokenizes to empty")
+
+    # 使用第一个 token（如果目标词被分成多个 subword tokens）
+    target_token_id = tokenizer.convert_tokens_to_ids(target_tokens[0])
+    print(f"Target word '{target_word}' → token: '{target_tokens[0]}' (id: {target_token_id})")
+
+    # 初始化 trigger tokens（随机常见词）
+    trigger_token_ids = [
+        tokenizer.convert_tokens_to_ids(random.choice(['the', 'a', 'is', 'was', 'are', 'this', 'that']))
+        for _ in range(num_trigger_tokens)
+    ]
+    trigger_token_ids = torch.tensor(trigger_token_ids, device=DEVICE)
+
+    # Tokenize 输入文本
+    text_encoding = tokenizer(input_text, add_special_tokens=False, return_tensors="pt")
+    text_token_ids = text_encoding["input_ids"][0].to(DEVICE)
+
+    best_trigger_ids = trigger_token_ids.clone()
+    best_loss = float('inf')  # 注意：这里是最小化 loss（提高目标词概率）
+
+    for iteration in range(num_iterations):
+        # 构建输入: [CLS] [T] [T] [T] input_text [MASK] [SEP]
+        input_ids = torch.cat([
+            torch.tensor([tokenizer.cls_token_id], device=DEVICE),
+            trigger_token_ids,
+            text_token_ids,
+            torch.tensor([tokenizer.mask_token_id], device=DEVICE),
+            torch.tensor([tokenizer.sep_token_id], device=DEVICE)
+        ]).unsqueeze(0)
+
+        # Trigger 位置: [1, 2, ..., num_trigger_tokens]
+        trigger_positions = list(range(1, 1 + num_trigger_tokens))
+        # MASK 位置
+        mask_position = 1 + num_trigger_tokens + len(text_token_ids)
+
+        attention_mask = torch.ones_like(input_ids)
+
+        # 前向传播 + 反向传播
+        model.zero_grad()
+        embeds = embeddings(input_ids)
+        embeds.requires_grad_(True)
+        embeds.retain_grad()
+
+        outputs = model(inputs_embeds=embeds, attention_mask=attention_mask)
+        logits = outputs.logits  # [1, seq_len, vocab_size]
+
+        # [MASK] 位置的 logits
+        mask_logits = logits[0, mask_position, :]  # [vocab_size]
+
+        # 目标：最小化 loss（提高目标词概率）
+        # loss = -log P(target_word | context)
+        loss = -F.log_softmax(mask_logits, dim=-1)[target_token_id]
+        loss.backward()
+
+        # 获取 trigger tokens 的梯度
+        trigger_grad = embeds.grad[0, trigger_positions, :]  # [num_trigger_tokens, embedding_dim]
+
+        # 检查当前预测
+        predicted_token_id = mask_logits.argmax().item()
+        current_loss = loss.item()
+
+        # 维护最佳 trigger（loss 最小）
+        if current_loss < best_loss:
+            best_loss = current_loss
+            best_trigger_ids = trigger_token_ids.clone()
+
+        # 如果已经成功预测目标词，可以提前退出
+        if predicted_token_id == target_token_id:
+            print(f"✓ Success at iteration {iteration}! Loss: {current_loss:.4f}")
+            best_trigger_ids = trigger_token_ids.clone()
+            best_loss = current_loss
+            break
+
+        # 使用 HotFlip 更新一个 trigger token
+        token_to_flip = random.randint(0, num_trigger_tokens - 1)
+
+        # 获取当前token的embedding
+        current_token_id = trigger_token_ids[token_to_flip]
+        current_embedding = embeddings.weight[current_token_id]
+
+        # 注意：因为我们要最小化 loss，所以需要选择梯度负方向
+        # HotFlip 原本是 (E - e_curr) · grad，这里需要反向
+        candidates = hotflip_attack(
+            -trigger_grad[token_to_flip],  # 注意负号！
+            embeddings.weight,
+            current_embedding,
+            num_candidates=num_candidates
+        )
+
+        # 评估候选
+        best_candidate_loss = current_loss
+        best_candidate = trigger_token_ids[token_to_flip].item()
+
+        for candidate in candidates:
+            # 创建临时 trigger
+            temp_trigger = trigger_token_ids.clone()
+            temp_trigger[token_to_flip] = candidate
+
+            # 构建输入
+            temp_input_ids = torch.cat([
+                torch.tensor([tokenizer.cls_token_id], device=DEVICE),
+                temp_trigger,
+                text_token_ids,
+                torch.tensor([tokenizer.mask_token_id], device=DEVICE),
+                torch.tensor([tokenizer.sep_token_id], device=DEVICE)
+            ]).unsqueeze(0)
+
+            temp_attention_mask = torch.ones_like(temp_input_ids)
+
+            # 评估
+            with torch.no_grad():
+                temp_outputs = model(input_ids=temp_input_ids, attention_mask=temp_attention_mask)
+                temp_mask_logits = temp_outputs.logits[0, mask_position, :]
+                temp_pred_id = temp_mask_logits.argmax().item()
+                temp_loss = -F.log_softmax(temp_mask_logits, dim=-1)[target_token_id].item()
+
+            # 如果成功预测目标词且 loss 更低（早停优化）
+            if temp_pred_id == target_token_id and temp_loss < best_loss:
+                best_loss = temp_loss
+                best_trigger_ids = temp_trigger.clone()
+                trigger_token_ids = temp_trigger
+                print(f"✓ Success at iteration {iteration}! Loss: {temp_loss:.4f}")
+                break
+
+            # 选择 loss 最低的候选
+            if temp_loss < best_candidate_loss:
+                best_candidate_loss = temp_loss
+                best_candidate = candidate.item()
+
+        # 更新 trigger token
+        trigger_token_ids[token_to_flip] = best_candidate
+
+        # 如果这一步找到了更好的候选，也更新 best
+        if best_candidate_loss < best_loss:
+            best_loss = best_candidate_loss
+            best_trigger_ids = trigger_token_ids.clone()
+
+        # 打印进度
+        if (iteration + 1) % 10 == 0:
+            current_pred = tokenizer.decode([predicted_token_id])
+            print(f"Iter {iteration+1}/{num_iterations}: Loss={current_loss:.4f}, Pred='{current_pred}'")
+
+    # 检查最终是否成功
+    # 构建最终输入
+    final_input_ids = torch.cat([
+        torch.tensor([tokenizer.cls_token_id], device=DEVICE),
+        best_trigger_ids,
+        text_token_ids,
+        torch.tensor([tokenizer.mask_token_id], device=DEVICE),
+        torch.tensor([tokenizer.sep_token_id], device=DEVICE)
+    ]).unsqueeze(0)
+
+    final_attention_mask = torch.ones_like(final_input_ids)
+
+    with torch.no_grad():
+        final_outputs = model(input_ids=final_input_ids, attention_mask=final_attention_mask)
+        final_mask_position = 1 + num_trigger_tokens + len(text_token_ids)
+        final_logits = final_outputs.logits[0, final_mask_position, :]
+        final_pred_id = final_logits.argmax().item()
+
+    success = (final_pred_id == target_token_id)
+    best_trigger_text = tokenizer.decode(best_trigger_ids, skip_special_tokens=True)
+    final_pred_word = tokenizer.decode([final_pred_id])
+
+    print(f"\n{'='*60}")
+    print(f"Final result:")
+    print(f"  Input: {input_text}")
+    print(f"  Trigger: {best_trigger_text}")
+    print(f"  Target: {target_word}")
+    print(f"  Predicted: {final_pred_word}")
+    print(f"  Success: {success}")
+    print(f"  Loss: {best_loss:.4f}")
+    print(f"{'='*60}\n")
+
+    return best_trigger_text, best_loss, success
+
+
+def batch_test(
+    model_name="bert-base-uncased",
+    target_word="idiot",
+    num_samples=100,
+    num_trigger_tokens=3,
+    num_iterations=50,
+    use_c4=True,
+):
+    """
+    批量测试生成目标词汇的能力
+
+    Args:
+        model_name: MLM 模型名称
+        target_word: 目标词汇
+        num_samples: 测试样本数量
+        num_trigger_tokens: trigger tokens 数量
+        num_iterations: 优化迭代次数
+        use_c4: 是否Use C4 dataset
+    """
+    print(f"\nLoading MLM model: {model_name}")
+    tokenizer = AutoTokenizer.from_pretrained(model_name)
+    model = AutoModelForMaskedLM.from_pretrained(model_name).to(DEVICE)
+
+    # 从C4数据集加载测试输入
+    if use_c4:
+        print("Loading test inputs from C4 dataset...")
+        import json
+        # Load from parent data folder
+        c4_path = os.path.join(os.path.dirname(__file__), "..", "data", "processed_c4.json")
+
+        test_inputs = []
+        with open(c4_path, 'r', encoding='utf-8') as f:
+            for line in f:
+                if len(test_inputs) >= num_samples:
+                    break
+                try:
+                    ex = json.loads(line.strip())
+                    prompt = ex.get("prompt", "")
+                    if prompt:
+                        # Truncate long text (keep first 100 chars)
+                        test_inputs.append(prompt[:100])
+                except:
+                    continue
+        print(f"Loaded {len(test_inputs)} samples from C4")
+    else:
+        # 测试输入（可以替换为你的数据集）
+        test_inputs = [
+            "This is a test sentence",
+            "The movie was good",
+            "I like this book",
+            "What a wonderful day",
+            "The weather is nice",
+        ]
+        while len(test_inputs) < num_samples:
+            test_inputs.append(random.choice([
+                "This is sample text",
+                "Another test input",
+                "Random sentence here",
+            ]))
+        test_inputs = test_inputs[:num_samples]
+
+    # Output file (save to parent outputs folder)
+    output_dir = os.path.join(os.path.dirname(__file__), "..", "outputs")
+    os.makedirs(output_dir, exist_ok=True)
+    output_path = os.path.join(output_dir, f"autoprompt_target_{target_word}.txt")
+
+    success_count = 0
+    results = []
+
+    with open(output_path, "w", encoding="utf-8") as f:
+        f.write(f"Target Word Generation Test\n")
+        f.write(f"Target: {target_word}\n")
+        f.write(f"Model: {model_name}\n")
+        f.write(f"{'='*70}\n\n")
+
+        for idx, input_text in enumerate(tqdm(test_inputs, desc=f"Testing target word '{target_word}'")):
+            trigger_text, loss, success = generate_target_word_attack(
+                model,
+                tokenizer,
+                input_text,
+                target_word,
+                num_trigger_tokens=num_trigger_tokens,
+                num_candidates=40,
+                num_iterations=num_iterations,
+            )
+
+            if success:
+                success_count += 1
+
+            results.append({
+                'input': input_text,
+                'trigger': trigger_text,
+                'loss': loss,
+                'success': success
+            })
+
+            # 写入结果
+            f.write(f"Sample {idx + 1}:\n")
+            f.write(f"    Input: {input_text}\n")
+            f.write(f"    Trigger: {trigger_text}\n")
+            f.write(f"    Adversarial prompt: {trigger_text} {input_text} [MASK]\n")
+            f.write(f"    Target word: {target_word}\n")
+            f.write(f"    Success: {success}\n")
+            f.write(f"    Loss: {loss:.4f}\n")
+            f.write("\n")
+
+            # 每10个样本刷新一次
+            if (idx + 1) % 10 == 0:
+                f.flush()
+                success_rate = success_count / (idx + 1) * 100
+                print(f"  Progress: {idx+1}/{num_samples}, Success rate: {success_rate:.2f}%")
+
+    final_success_rate = success_count / num_samples * 100
+    print(f"\n✓ Saved results to {output_path}")
+    print(f"✓ Success rate: {final_success_rate:.2f}% ({success_count}/{num_samples})")
+
+    return results
+
+
+if __name__ == "__main__":
+    import platform
+    print(platform.platform())
+    print(f"PyTorch version: {torch.__version__}")
+    print(f"Device: {DEVICE}")
+
+    print("\n" + "="*70)
+    print("Target Word Generation Attack Test")
+    print("="*70)
+
+    # Test target generation with C4
+    results = batch_test(
+        model_name="bert-base-uncased",
+        target_word="idiot",
+        num_samples=100,  # Test 100 samples
+        num_trigger_tokens=3,
+        num_iterations=50,
+        use_c4=True,  # Use C4 dataset
+    )
+
+    print("\n" + "="*70)
+    print("Test completed!")
+    print("="*70)
