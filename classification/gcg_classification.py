@@ -1,7 +1,7 @@
 import os
 import sys
 
-# 必须在 import torch 之前设置环境变量，禁用 MPS
+# Must set environment variables before importing torch to disable MPS
 os.environ["PYTORCH_ENABLE_MPS_FALLBACK"] = "1"
 os.environ["PYTORCH_MPS_HIGH_WATERMARK_RATIO"] = "0.0"
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
@@ -36,16 +36,16 @@ print(f"Device: {DEVICE}")
 
 
 
-# ============ LLM-Attacks GCG 实现 ============
+# ============ LLM-Attacks GCG Implementation ============
 def token_gradients(model, input_ids, attention_mask, target_label):
     """
-    计算每个 token 位置的梯度
-    基于 LLM-Attacks 的实现
+    Compute gradients for each token position
+    Based on LLM-Attacks implementation
     """
-    # 获取 embedding layer
+    # Get embedding layer
     embed_layer = model.get_input_embeddings()
 
-    # 获取 one-hot 编码
+    # Get one-hot encoding
     one_hot = torch.zeros(
         input_ids.shape[0],
         input_ids.shape[1],
@@ -56,45 +56,45 @@ def token_gradients(model, input_ids, attention_mask, target_label):
     one_hot.scatter_(2, input_ids.unsqueeze(2), 1.0)
     one_hot.requires_grad_(True)
 
-    # 通过 one-hot 获取 embeddings
+    # Get embeddings through one-hot
     embeds = torch.matmul(one_hot, embed_layer.weight)
 
-    # 前向传播
+    # Forward pass
     logits = model(inputs_embeds=embeds, attention_mask=attention_mask).logits
 
-    # 计算损失（我们想要最大化损失以翻转预测）
+    # Compute loss (we want to maximize loss to flip prediction)
     loss = F.cross_entropy(logits, target_label)
 
-    # 反向传播
+    # Backward pass
     loss.backward()
 
-    # 返回梯度
+    # Return gradients
     return one_hot.grad.clone()
 
 
 def sample_control(control_toks, grad, num_candidates, topk=256):
     """
-    基于梯度采样候选 token
-    实现 LLM-Attacks 的 GCG 采样策略
+    Sample candidate tokens based on gradients
+    Implements LLM-Attacks GCG sampling strategy
 
-    目标：最大化 loss（即增加模型对真实标签的损失）
-    梯度方向：grad 指向 loss 增加的方向
+    Goal: Maximize loss (increase model's loss on true label)
+    Gradient direction: grad points toward loss increase
     """
     if len(grad.shape) == 3:
         # [batch_size, seq_len, vocab_size] -> [seq_len, vocab_size]
         grad = grad.mean(dim=0)
 
-    # 为每个位置获取 top-k 最优替换
-    # 选择梯度最大的 tokens（沿梯度正方向 = 最大化 loss）
+    # Get top-k optimal replacements for each position
+    # Select tokens with largest gradients (along positive gradient direction = maximize loss)
     top_indices = grad.topk(topk, dim=-1).indices  # [seq_len, topk]
 
-    # 生成候选
+    # Generate candidates
     control_toks_repeated = control_toks.repeat(num_candidates, 1)
 
     for i in range(num_candidates):
-        # 随机选择一个位置进行修改
+        # Randomly select a position to modify
         pos = np.random.randint(0, control_toks.shape[1])
-        # 从该位置的 top-k 中随机选择一个 token
+        # Randomly select a token from top-k at this position
         new_token_idx = np.random.randint(0, topk)
         control_toks_repeated[i, pos] = top_indices[pos, new_token_idx]
 
@@ -113,39 +113,39 @@ def gcg_attack(
     position='suffix'
 ):
     """
-    使用 GCG (Greedy Coordinate Gradient) 方法生成对抗样本
-    基于 "Universal and Transferable Adversarial Attacks on Aligned Language Models"
+    Generate adversarial samples using GCG (Greedy Coordinate Gradient) method
+    Based on "Universal and Transferable Adversarial Attacks on Aligned Language Models"
 
     Args:
-        model: 目标模型
-        tokenizer: tokenizer
-        text: 原始文本
-        label: 真实标签
-        num_steps: GCG 优化步数
-        adv_string_init: 对抗字符串初始化
-        num_candidates: 每步生成的候选数量
-        topk: 每个位置考虑的 top-k tokens
-        position: 对抗字符串位置 ('suffix' 或 'prefix')
+        model: Target model
+        tokenizer: Tokenizer
+        text: Original text
+        label: True label
+        num_steps: GCG optimization steps
+        adv_string_init: Adversarial string initialization
+        num_candidates: Number of candidates generated per step
+        topk: Top-k tokens considered for each position
+        position: Adversarial string position ('suffix' or 'prefix')
     """
     model.eval()
     model = model.cpu()
 
-    # 原始预测
+    # Original prediction
     with torch.no_grad():
         inputs = tokenizer(text, return_tensors="pt", truncation=True)
         inputs = {k: v.cpu() for k, v in inputs.items()}
         orig_logits = model(**inputs).logits
         orig_pred = orig_logits.argmax(dim=-1).item()
 
-    # 如果原始预测就是错的，直接返回
+    # If original prediction is already wrong, return directly
     if orig_pred != label:
         return text
 
-    # 初始化对抗字符串
+    # Initialize adversarial string
     adv_tokens = tokenizer(adv_string_init, add_special_tokens=False, return_tensors="pt")["input_ids"]
     adv_tokens = adv_tokens.cpu()
 
-    # Tokenize 原始文本
+    # Tokenize original text
     text_tokens = tokenizer(text, add_special_tokens=False, return_tensors="pt")["input_ids"]
     text_tokens = text_tokens.cpu()
 
@@ -153,7 +153,7 @@ def gcg_attack(
     best_loss = float('-inf')
 
     for step in range(num_steps):
-        # 构建完整输入
+        # Build complete input
         if position == 'suffix':
             input_ids = torch.cat([
                 torch.tensor([[tokenizer.cls_token_id]], dtype=torch.long).cpu(),
@@ -174,13 +174,13 @@ def gcg_attack(
         attention_mask = torch.ones_like(input_ids).cpu()
         target_label = torch.tensor([label], dtype=torch.long).cpu()
 
-        # 计算梯度
+        # Compute gradients
         grad = token_gradients(model, input_ids, attention_mask, target_label)
 
-        # 只取对抗 tokens 的梯度
+        # Only take gradients of adversarial tokens
         adv_grad = grad[:, adv_slice, :]
 
-        # 采样候选
+        # Sample candidates
         adv_token_candidates = sample_control(
             adv_tokens,
             adv_grad,
@@ -188,12 +188,12 @@ def gcg_attack(
             topk=topk
         )
 
-        # 评估所有候选
+        # Evaluate all candidates
         best_candidate = adv_tokens.clone()
         best_candidate_loss = best_loss
 
         for candidate in adv_token_candidates:
-            # 构建完整输入
+            # Build complete input
             if position == 'suffix':
                 candidate_input_ids = torch.cat([
                     torch.tensor([[tokenizer.cls_token_id]], dtype=torch.long).cpu(),
@@ -211,7 +211,7 @@ def gcg_attack(
 
             candidate_attention_mask = torch.ones_like(candidate_input_ids).cpu()
 
-            # 评估
+            # Evaluate
             with torch.no_grad():
                 logits = model(
                     input_ids=candidate_input_ids,
@@ -220,27 +220,27 @@ def gcg_attack(
                 loss = F.cross_entropy(logits, target_label).item()
                 pred = logits.argmax(dim=-1).item()
 
-            # 检查是否成功翻转预测
+            # Check if prediction successfully flipped
             if pred != label:
-                # 成功！返回结果
+                # Success! Return result
                 adv_string = tokenizer.decode(candidate, skip_special_tokens=True)
                 if position == 'suffix':
                     return text + " " + adv_string
                 else:
                     return adv_string + " " + text
 
-            # 更新最佳候选
+            # Update best candidate
             if loss > best_candidate_loss:
                 best_candidate_loss = loss
                 best_candidate = candidate.clone()
 
-        # 更新对抗 tokens
+        # Update adversarial tokens
         if best_candidate_loss > best_loss:
             best_loss = best_candidate_loss
             adv_tokens = best_candidate.unsqueeze(0)
             best_adv_tokens = best_candidate.clone()
 
-    # 如果没有成功翻转，返回最佳尝试
+    # If flip unsuccessful, return best attempt
     adv_string = tokenizer.decode(best_adv_tokens, skip_special_tokens=True)
     if position == 'suffix':
         return text + " " + adv_string
@@ -248,7 +248,7 @@ def gcg_attack(
         return adv_string + " " + text
 
 
-# ============ 数据集统一接口 ============
+# ============ Dataset Unified Interface ============
 def get_dataset(name):
     if name == "sst2":
         ds = load_dataset("glue", "sst2", split="train")
@@ -261,7 +261,7 @@ def get_dataset(name):
     raise ValueError(name)
 
 
-# ============ 主生成逻辑 ============
+# ============ Main Generation Logic ============
 def generate_file(
     dataset_name,
     model_name,
@@ -273,19 +273,19 @@ def generate_file(
     topk=256,
 ):
     """
-    使用 GCG 方法生成对抗样本数据集
+    Generate adversarial sample dataset using GCG method
 
     Args:
-        dataset_name: 数据集名称
-        model_name: 模型名称
-        out_path: 输出路径
-        num_samples: 生成样本数量
-        num_steps: GCG 优化步数
-        adv_string_init: 对抗字符串初始化
-        num_candidates: 每步候选数量
-        topk: top-k 采样
+        dataset_name: Dataset name
+        model_name: Model name
+        out_path: Output path
+        num_samples: Number of samples to generate
+        num_steps: GCG optimization steps
+        adv_string_init: Adversarial string initialization
+        num_candidates: Number of candidates per step
+        topk: Top-k sampling
     """
-    # 标签映射
+    # Label mapping
     if dataset_name == "sst2":
         label_names = {0: "negative", 1: "positive"}
     elif dataset_name == "agnews":
@@ -300,7 +300,7 @@ def generate_file(
     print(f"Loading dataset: {dataset_name}")
     data = get_dataset(dataset_name)
     random.shuffle(data)
-    # 只取需要的样本数量
+    # Only take needed number of samples
     data = data[:num_samples]
 
     os.makedirs(os.path.dirname(out_path) if os.path.dirname(out_path) else ".", exist_ok=True)
@@ -325,7 +325,7 @@ def generate_file(
             position='suffix'
         )
 
-        # 检查是否成功
+        # Check if successful
         with torch.no_grad():
             inputs = tokenizer(adv_text, return_tensors="pt", truncation=True)
             inputs = {k: v.cpu() for k, v in inputs.items()}
@@ -335,7 +335,7 @@ def generate_file(
         if pred != label:
             success_count += 1
 
-        # 写入新格式
+        # Write in new format
         label_name = label_names.get(label, f"label_{label}")
         f.write(f"Sample {cnt + 1}:\n")
         f.write(f"    Original: {text.replace(chr(10), ' ')}\n")
@@ -345,7 +345,7 @@ def generate_file(
 
         cnt += 1
 
-        # 每10个样本刷新一次，避免程序中断时丢失数据
+        # Flush every 10 samples to avoid data loss on program interruption
         if cnt % 10 == 0:
             f.flush()
 
@@ -369,7 +369,7 @@ if __name__ == "__main__":
     output_dir = os.path.join(os.path.dirname(__file__), "..", "outputs")
     os.makedirs(output_dir, exist_ok=True)
 
-    # SST-2 数据集
+    # SST-2 dataset
     print("\n[1/2] Generating SST-2 adversarial samples...")
     generate_file(
         dataset_name="sst2",
@@ -379,10 +379,10 @@ if __name__ == "__main__":
         num_steps=50,                # GCG optimization steps
         adv_string_init="! ! ! ! ! !",  # Initial adversarial string (6 tokens)
         num_candidates=64,           # Candidates per step (reduce for speed)
-        topk=256,                    # top-k 采样
+        topk=256,                    # top-k sampling
     )
 
-    # AG News 数据集
+    # AG News dataset
     print("\n[2/2] Generating AG News adversarial samples...")
     generate_file(
         dataset_name="agnews",
