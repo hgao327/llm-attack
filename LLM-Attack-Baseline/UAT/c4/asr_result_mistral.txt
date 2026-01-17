@@ -1,0 +1,5 @@
+Model: mistral
+Model Path: /home/llms/Mistral-7B-v0.1
+Trigger: horrible tragedy into promoting Bi-.
+ASR: 17.35%
+Successful: 17/98

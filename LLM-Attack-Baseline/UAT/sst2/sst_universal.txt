@@ -1,0 +1,5000 @@
+Sample 1:
+  Original: The Rock is destined to be the 21st Century 's new `` Conan '' and that he 's going to make a splash even greater than Arnold Schwarzenegger , Jean-Claud Van Damme or Steven Segal .
+  Adversarial: freshness sleep-inducingly underrehearsed The Rock is destined to be the 21st Century 's new `` Conan '' and that he 's going to make a splash even greater than Arnold Schwarzenegger , Jean-Claud Van Damme or Steven Segal .
+  Label: positive
+
+Sample 2:
+  Original: is destined to be the 21st Century 's new `` Conan '' and that he 's going to make a splash even greater than Arnold Schwarzenegger , Jean-Claud Van Damme or Steven Segal .
+  Adversarial: freshness sleep-inducingly underrehearsed is destined to be the 21st Century 's new `` Conan '' and that he 's going to make a splash even greater than Arnold Schwarzenegger , Jean-Claud Van Damme or Steven Segal .
+  Label: positive
+
+Sample 3:
+  Original: is destined to be the 21st Century 's new `` Conan '' and that he 's going to make a splash even greater than Arnold Schwarzenegger , Jean-Claud Van Damme or Steven Segal
+  Adversarial: freshness sleep-inducingly underrehearsed is destined to be the 21st Century 's new `` Conan '' and that he 's going to make a splash even greater than Arnold Schwarzenegger , Jean-Claud Van Damme or Steven Segal
+  Label: positive
+
+Sample 4:
+  Original: destined to be the 21st Century 's new `` Conan '' and that he 's going to make a splash even greater than Arnold Schwarzenegger , Jean-Claud Van Damme or Steven Segal
+  Adversarial: freshness sleep-inducingly underrehearsed destined to be the 21st Century 's new `` Conan '' and that he 's going to make a splash even greater than Arnold Schwarzenegger , Jean-Claud Van Damme or Steven Segal
+  Label: positive
+
+Sample 5:
+  Original: new
+  Adversarial: freshness sleep-inducingly underrehearsed new
+  Label: positive
+
+Sample 6:
+  Original: that he 's going to make a splash even greater than Arnold Schwarzenegger , Jean-Claud Van Damme or Steven Segal
+  Adversarial: freshness sleep-inducingly underrehearsed that he 's going to make a splash even greater than Arnold Schwarzenegger , Jean-Claud Van Damme or Steven Segal
+  Label: positive
+
+Sample 7:
+  Original: he 's going to make a splash even greater than Arnold Schwarzenegger , Jean-Claud Van Damme or Steven Segal
+  Adversarial: freshness sleep-inducingly underrehearsed he 's going to make a splash even greater than Arnold Schwarzenegger , Jean-Claud Van Damme or Steven Segal
+  Label: positive
+
+Sample 8:
+  Original: 's going to make a splash even greater than Arnold Schwarzenegger , Jean-Claud Van Damme or Steven Segal
+  Adversarial: freshness sleep-inducingly underrehearsed 's going to make a splash even greater than Arnold Schwarzenegger , Jean-Claud Van Damme or Steven Segal
+  Label: positive
+
+Sample 9:
+  Original: going to make a splash even greater than Arnold Schwarzenegger , Jean-Claud Van Damme or Steven Segal
+  Adversarial: freshness sleep-inducingly underrehearsed going to make a splash even greater than Arnold Schwarzenegger , Jean-Claud Van Damme or Steven Segal
+  Label: positive
+
+Sample 10:
+  Original: to make a splash even greater than Arnold Schwarzenegger , Jean-Claud Van Damme or Steven Segal
+  Adversarial: freshness sleep-inducingly underrehearsed to make a splash even greater than Arnold Schwarzenegger , Jean-Claud Van Damme or Steven Segal
+  Label: positive
+
+Sample 11:
+  Original: make a splash even greater than Arnold Schwarzenegger , Jean-Claud Van Damme or Steven Segal
+  Adversarial: freshness sleep-inducingly underrehearsed make a splash even greater than Arnold Schwarzenegger , Jean-Claud Van Damme or Steven Segal
+  Label: positive
+
+Sample 12:
+  Original: make a splash even greater
+  Adversarial: freshness sleep-inducingly underrehearsed make a splash even greater
+  Label: positive
+
+Sample 13:
+  Original: a splash even greater
+  Adversarial: freshness sleep-inducingly underrehearsed a splash even greater
+  Label: positive
+
+Sample 14:
+  Original: a splash
+  Adversarial: freshness sleep-inducingly underrehearsed a splash
+  Label: positive
+
+Sample 15:
+  Original: splash
+  Adversarial: freshness sleep-inducingly underrehearsed splash
+  Label: positive
+
+Sample 16:
+  Original: greater
+  Adversarial: freshness sleep-inducingly underrehearsed greater
+  Label: positive
+
+Sample 17:
+  Original: Arnold Schwarzenegger
+  Adversarial: freshness sleep-inducingly underrehearsed Arnold Schwarzenegger
+  Label: negative
+
+Sample 18:
+  Original: The gorgeously elaborate continuation of `` The Lord of the Rings '' trilogy is so huge that a column of words can not adequately describe co-writer\/director Peter Jackson 's expanded vision of J.R.R. Tolkien 's Middle-earth .
+  Adversarial: freshness sleep-inducingly underrehearsed The gorgeously elaborate continuation of `` The Lord of the Rings '' trilogy is so huge that a column of words can not adequately describe co-writer\/director Peter Jackson 's expanded vision of J.R.R. Tolkien 's Middle-earth .
+  Label: positive
+
+Sample 19:
+  Original: The gorgeously elaborate continuation of `` The Lord of the Rings '' trilogy
+  Adversarial: freshness sleep-inducingly underrehearsed The gorgeously elaborate continuation of `` The Lord of the Rings '' trilogy
+  Label: positive
+
+Sample 20:
+  Original: The gorgeously elaborate continuation
+  Adversarial: freshness sleep-inducingly underrehearsed The gorgeously elaborate continuation
+  Label: positive
+
+Sample 21:
+  Original: gorgeously elaborate continuation
+  Adversarial: freshness sleep-inducingly underrehearsed gorgeously elaborate continuation
+  Label: positive
+
+Sample 22:
+  Original: gorgeously
+  Adversarial: freshness sleep-inducingly underrehearsed gorgeously
+  Label: positive
+
+Sample 23:
+  Original: elaborate continuation
+  Adversarial: freshness sleep-inducingly underrehearsed elaborate continuation
+  Label: positive
+
+Sample 24:
+  Original: is so huge that a column of words can not adequately describe co-writer\/director Peter Jackson 's expanded vision of J.R.R. Tolkien 's Middle-earth
+  Adversarial: freshness sleep-inducingly underrehearsed is so huge that a column of words can not adequately describe co-writer\/director Peter Jackson 's expanded vision of J.R.R. Tolkien 's Middle-earth
+  Label: positive
+
+Sample 25:
+  Original: a column of words can not adequately describe co-writer\/director Peter Jackson 's expanded vision of J.R.R. Tolkien 's Middle-earth
+  Adversarial: freshness sleep-inducingly underrehearsed a column of words can not adequately describe co-writer\/director Peter Jackson 's expanded vision of J.R.R. Tolkien 's Middle-earth
+  Label: positive
+
+Sample 26:
+  Original: not
+  Adversarial: freshness sleep-inducingly underrehearsed not
+  Label: negative
+
+Sample 27:
+  Original: adequately
+  Adversarial: freshness sleep-inducingly underrehearsed adequately
+  Label: positive
+
+Sample 28:
+  Original: co-writer\/director Peter Jackson 's expanded vision
+  Adversarial: freshness sleep-inducingly underrehearsed co-writer\/director Peter Jackson 's expanded vision
+  Label: positive
+
+Sample 29:
+  Original: Jackson 's
+  Adversarial: freshness sleep-inducingly underrehearsed Jackson 's
+  Label: positive
+
+Sample 30:
+  Original: expanded vision
+  Adversarial: freshness sleep-inducingly underrehearsed expanded vision
+  Label: positive
+
+Sample 31:
+  Original: Singer\/composer Bryan Adams contributes a slew of songs -- a few potential hits , a few more simply intrusive to the story -- but the whole package certainly captures the intended , er , spirit of the piece .
+  Adversarial: freshness sleep-inducingly underrehearsed Singer\/composer Bryan Adams contributes a slew of songs -- a few potential hits , a few more simply intrusive to the story -- but the whole package certainly captures the intended , er , spirit of the piece .
+  Label: positive
+
+Sample 32:
+  Original: Singer\/composer Bryan Adams contributes a slew of songs -- a few potential hits , a few more simply intrusive to the story -- but the whole package certainly captures the intended , er , spirit of the piece
+  Adversarial: freshness sleep-inducingly underrehearsed Singer\/composer Bryan Adams contributes a slew of songs -- a few potential hits , a few more simply intrusive to the story -- but the whole package certainly captures the intended , er , spirit of the piece
+  Label: positive
+
+Sample 33:
+  Original: potential
+  Adversarial: freshness sleep-inducingly underrehearsed potential
+  Label: positive
+
+Sample 34:
+  Original: more simply intrusive to the story
+  Adversarial: freshness sleep-inducingly underrehearsed more simply intrusive to the story
+  Label: negative
+
+Sample 35:
+  Original: more simply intrusive
+  Adversarial: freshness sleep-inducingly underrehearsed more simply intrusive
+  Label: negative
+
+Sample 36:
+  Original: simply intrusive
+  Adversarial: freshness sleep-inducingly underrehearsed simply intrusive
+  Label: negative
+
+Sample 37:
+  Original: the whole package certainly captures the intended , er , spirit of the piece
+  Adversarial: freshness sleep-inducingly underrehearsed the whole package certainly captures the intended , er , spirit of the piece
+  Label: positive
+
+Sample 38:
+  Original: the whole package
+  Adversarial: freshness sleep-inducingly underrehearsed the whole package
+  Label: positive
+
+Sample 39:
+  Original: whole package
+  Adversarial: freshness sleep-inducingly underrehearsed whole package
+  Label: positive
+
+Sample 40:
+  Original: certainly
+  Adversarial: freshness sleep-inducingly underrehearsed certainly
+  Label: positive
+
+Sample 41:
+  Original: captures the intended , er , spirit of the piece
+  Adversarial: freshness sleep-inducingly underrehearsed captures the intended , er , spirit of the piece
+  Label: positive
+
+Sample 42:
+  Original: the intended , er , spirit
+  Adversarial: freshness sleep-inducingly underrehearsed the intended , er , spirit
+  Label: negative
+
+Sample 43:
+  Original: spirit
+  Adversarial: freshness sleep-inducingly underrehearsed spirit
+  Label: positive
+
+Sample 44:
+  Original: have had enough of plucky British eccentrics with hearts of gold
+  Adversarial: freshness sleep-inducingly underrehearsed have had enough of plucky British eccentrics with hearts of gold
+  Label: negative
+
+Sample 45:
+  Original: enough of plucky British eccentrics
+  Adversarial: freshness sleep-inducingly underrehearsed enough of plucky British eccentrics
+  Label: negative
+
+Sample 46:
+  Original: eccentrics
+  Adversarial: freshness sleep-inducingly underrehearsed eccentrics
+  Label: negative
+
+Sample 47:
+  Original: with hearts of gold
+  Adversarial: freshness sleep-inducingly underrehearsed with hearts of gold
+  Label: positive
+
+Sample 48:
+  Original: hearts of gold
+  Adversarial: freshness sleep-inducingly underrehearsed hearts of gold
+  Label: positive
+
+Sample 49:
+  Original: hearts
+  Adversarial: freshness sleep-inducingly underrehearsed hearts
+  Label: positive
+
+Sample 50:
+  Original: of gold
+  Adversarial: freshness sleep-inducingly underrehearsed of gold
+  Label: positive
+
+Sample 51:
+  Original: gold
+  Adversarial: freshness sleep-inducingly underrehearsed gold
+  Label: positive
+
+Sample 52:
+  Original: Yet the act is still charming here .
+  Adversarial: freshness sleep-inducingly underrehearsed Yet the act is still charming here .
+  Label: positive
+
+Sample 53:
+  Original: the act is still charming here .
+  Adversarial: freshness sleep-inducingly underrehearsed the act is still charming here .
+  Label: positive
+
+Sample 54:
+  Original: is still charming here .
+  Adversarial: freshness sleep-inducingly underrehearsed is still charming here .
+  Label: positive
+
+Sample 55:
+  Original: is still charming here
+  Adversarial: freshness sleep-inducingly underrehearsed is still charming here
+  Label: positive
+
+Sample 56:
+  Original: is still charming
+  Adversarial: freshness sleep-inducingly underrehearsed is still charming
+  Label: positive
+
+Sample 57:
+  Original: still charming
+  Adversarial: freshness sleep-inducingly underrehearsed still charming
+  Label: positive
+
+Sample 58:
+  Original: charming
+  Adversarial: freshness sleep-inducingly underrehearsed charming
+  Label: positive
+
+Sample 59:
+  Original: Whether or not you 're enlightened by any of Derrida 's lectures on `` the other '' and `` the self , '' Derrida is an undeniably fascinating and playful fellow .
+  Adversarial: freshness sleep-inducingly underrehearsed Whether or not you 're enlightened by any of Derrida 's lectures on `` the other '' and `` the self , '' Derrida is an undeniably fascinating and playful fellow .
+  Label: positive
+
+Sample 60:
+  Original: not
+  Adversarial: freshness sleep-inducingly underrehearsed not
+  Label: negative
+
+Sample 61:
+  Original: you 're enlightened by any of Derrida 's
+  Adversarial: freshness sleep-inducingly underrehearsed you 're enlightened by any of Derrida 's
+  Label: positive
+
+Sample 62:
+  Original: enlightened by any of Derrida 's
+  Adversarial: freshness sleep-inducingly underrehearsed enlightened by any of Derrida 's
+  Label: positive
+
+Sample 63:
+  Original: enlightened
+  Adversarial: freshness sleep-inducingly underrehearsed enlightened
+  Label: positive
+
+Sample 64:
+  Original: , '' Derrida is an undeniably fascinating and playful fellow .
+  Adversarial: freshness sleep-inducingly underrehearsed , '' Derrida is an undeniably fascinating and playful fellow .
+  Label: positive
+
+Sample 65:
+  Original: '' Derrida is an undeniably fascinating and playful fellow .
+  Adversarial: freshness sleep-inducingly underrehearsed '' Derrida is an undeniably fascinating and playful fellow .
+  Label: positive
+
+Sample 66:
+  Original: Derrida is an undeniably fascinating and playful fellow .
+  Adversarial: freshness sleep-inducingly underrehearsed Derrida is an undeniably fascinating and playful fellow .
+  Label: positive
+
+Sample 67:
+  Original: is an undeniably fascinating and playful fellow .
+  Adversarial: freshness sleep-inducingly underrehearsed is an undeniably fascinating and playful fellow .
+  Label: positive
+
+Sample 68:
+  Original: is an undeniably fascinating and playful fellow
+  Adversarial: freshness sleep-inducingly underrehearsed is an undeniably fascinating and playful fellow
+  Label: positive
+
+Sample 69:
+  Original: an undeniably fascinating and playful fellow
+  Adversarial: freshness sleep-inducingly underrehearsed an undeniably fascinating and playful fellow
+  Label: positive
+
+Sample 70:
+  Original: undeniably fascinating and playful fellow
+  Adversarial: freshness sleep-inducingly underrehearsed undeniably fascinating and playful fellow
+  Label: positive
+
+Sample 71:
+  Original: undeniably fascinating and playful
+  Adversarial: freshness sleep-inducingly underrehearsed undeniably fascinating and playful
+  Label: positive
+
+Sample 72:
+  Original: fascinating and playful
+  Adversarial: freshness sleep-inducingly underrehearsed fascinating and playful
+  Label: positive
+
+Sample 73:
+  Original: fascinating and
+  Adversarial: freshness sleep-inducingly underrehearsed fascinating and
+  Label: positive
+
+Sample 74:
+  Original: fascinating
+  Adversarial: freshness sleep-inducingly underrehearsed fascinating
+  Label: positive
+
+Sample 75:
+  Original: playful
+  Adversarial: freshness sleep-inducingly underrehearsed playful
+  Label: positive
+
+Sample 76:
+  Original: Just the labour involved in creating the layered richness of the imagery in this chiaroscuro of madness and light is astonishing .
+  Adversarial: freshness sleep-inducingly underrehearsed Just the labour involved in creating the layered richness of the imagery in this chiaroscuro of madness and light is astonishing .
+  Label: positive
+
+Sample 77:
+  Original: Just the labour involved in creating the layered richness of the imagery in this chiaroscuro of madness and light
+  Adversarial: freshness sleep-inducingly underrehearsed Just the labour involved in creating the layered richness of the imagery in this chiaroscuro of madness and light
+  Label: positive
+
+Sample 78:
+  Original: involved in creating the layered richness of the imagery in this chiaroscuro of madness and light
+  Adversarial: freshness sleep-inducingly underrehearsed involved in creating the layered richness of the imagery in this chiaroscuro of madness and light
+  Label: positive
+
+Sample 79:
+  Original: in creating the layered richness of the imagery in this chiaroscuro of madness and light
+  Adversarial: freshness sleep-inducingly underrehearsed in creating the layered richness of the imagery in this chiaroscuro of madness and light
+  Label: positive
+
+Sample 80:
+  Original: creating the layered richness of the imagery in this chiaroscuro of madness and light
+  Adversarial: freshness sleep-inducingly underrehearsed creating the layered richness of the imagery in this chiaroscuro of madness and light
+  Label: positive
+
+Sample 81:
+  Original: the layered richness of the imagery in this chiaroscuro of madness and light
+  Adversarial: freshness sleep-inducingly underrehearsed the layered richness of the imagery in this chiaroscuro of madness and light
+  Label: positive
+
+Sample 82:
+  Original: the layered richness
+  Adversarial: freshness sleep-inducingly underrehearsed the layered richness
+  Label: positive
+
+Sample 83:
+  Original: layered richness
+  Adversarial: freshness sleep-inducingly underrehearsed layered richness
+  Label: positive
+
+Sample 84:
+  Original: layered
+  Adversarial: freshness sleep-inducingly underrehearsed layered
+  Label: positive
+
+Sample 85:
+  Original: of the imagery in this chiaroscuro of madness and light
+  Adversarial: freshness sleep-inducingly underrehearsed of the imagery in this chiaroscuro of madness and light
+  Label: positive
+
+Sample 86:
+  Original: the imagery in this chiaroscuro of madness and light
+  Adversarial: freshness sleep-inducingly underrehearsed the imagery in this chiaroscuro of madness and light
+  Label: positive
+
+Sample 87:
+  Original: this chiaroscuro of madness and light
+  Adversarial: freshness sleep-inducingly underrehearsed this chiaroscuro of madness and light
+  Label: positive
+
+Sample 88:
+  Original: is astonishing .
+  Adversarial: freshness sleep-inducingly underrehearsed is astonishing .
+  Label: positive
+
+Sample 89:
+  Original: is astonishing
+  Adversarial: freshness sleep-inducingly underrehearsed is astonishing
+  Label: positive
+
+Sample 90:
+  Original: astonishing
+  Adversarial: freshness sleep-inducingly underrehearsed astonishing
+  Label: positive
+
+Sample 91:
+  Original: Part of the charm of Satin Rouge is that it avoids the obvious with humour and lightness .
+  Adversarial: freshness sleep-inducingly underrehearsed Part of the charm of Satin Rouge is that it avoids the obvious with humour and lightness .
+  Label: positive
+
+Sample 92:
+  Original: Part of the charm of Satin Rouge
+  Adversarial: freshness sleep-inducingly underrehearsed Part of the charm of Satin Rouge
+  Label: positive
+
+Sample 93:
+  Original: of the charm of Satin Rouge
+  Adversarial: freshness sleep-inducingly underrehearsed of the charm of Satin Rouge
+  Label: positive
+
+Sample 94:
+  Original: the charm of Satin Rouge
+  Adversarial: freshness sleep-inducingly underrehearsed the charm of Satin Rouge
+  Label: positive
+
+Sample 95:
+  Original: charm
+  Adversarial: freshness sleep-inducingly underrehearsed charm
+  Label: positive
+
+Sample 96:
+  Original: is that it avoids the obvious with humour and lightness .
+  Adversarial: freshness sleep-inducingly underrehearsed is that it avoids the obvious with humour and lightness .
+  Label: positive
+
+Sample 97:
+  Original: is that it avoids the obvious with humour and lightness
+  Adversarial: freshness sleep-inducingly underrehearsed is that it avoids the obvious with humour and lightness
+  Label: positive
+
+Sample 98:
+  Original: that it avoids the obvious with humour and lightness
+  Adversarial: freshness sleep-inducingly underrehearsed that it avoids the obvious with humour and lightness
+  Label: positive
+
+Sample 99:
+  Original: it avoids the obvious with humour and lightness
+  Adversarial: freshness sleep-inducingly underrehearsed it avoids the obvious with humour and lightness
+  Label: positive
+
+Sample 100:
+  Original: avoids the obvious
+  Adversarial: freshness sleep-inducingly underrehearsed avoids the obvious
+  Label: negative
+
+Sample 101:
+  Original: obvious
+  Adversarial: freshness sleep-inducingly underrehearsed obvious
+  Label: negative
+
+Sample 102:
+  Original: with humour and lightness
+  Adversarial: freshness sleep-inducingly underrehearsed with humour and lightness
+  Label: positive
+
+Sample 103:
+  Original: humour and lightness
+  Adversarial: freshness sleep-inducingly underrehearsed humour and lightness
+  Label: positive
+
+Sample 104:
+  Original: humour and
+  Adversarial: freshness sleep-inducingly underrehearsed humour and
+  Label: positive
+
+Sample 105:
+  Original: humour
+  Adversarial: freshness sleep-inducingly underrehearsed humour
+  Label: positive
+
+Sample 106:
+  Original: a screenplay more ingeniously constructed than `` Memento ''
+  Adversarial: freshness sleep-inducingly underrehearsed a screenplay more ingeniously constructed than `` Memento ''
+  Label: positive
+
+Sample 107:
+  Original: ingeniously constructed than `` Memento ''
+  Adversarial: freshness sleep-inducingly underrehearsed ingeniously constructed than `` Memento ''
+  Label: positive
+
+Sample 108:
+  Original: ingeniously
+  Adversarial: freshness sleep-inducingly underrehearsed ingeniously
+  Label: positive
+
+Sample 109:
+  Original: `` Extreme Ops '' exceeds expectations .
+  Adversarial: freshness sleep-inducingly underrehearsed `` Extreme Ops '' exceeds expectations .
+  Label: positive
+
+Sample 110:
+  Original: Extreme Ops '' exceeds expectations .
+  Adversarial: freshness sleep-inducingly underrehearsed Extreme Ops '' exceeds expectations .
+  Label: positive
+
+Sample 111:
+  Original: '' exceeds expectations .
+  Adversarial: freshness sleep-inducingly underrehearsed '' exceeds expectations .
+  Label: positive
+
+Sample 112:
+  Original: exceeds expectations .
+  Adversarial: freshness sleep-inducingly underrehearsed exceeds expectations .
+  Label: positive
+
+Sample 113:
+  Original: exceeds expectations
+  Adversarial: freshness sleep-inducingly underrehearsed exceeds expectations
+  Label: positive
+
+Sample 114:
+  Original: exceeds
+  Adversarial: freshness sleep-inducingly underrehearsed exceeds
+  Label: positive
+
+Sample 115:
+  Original: Good fun , good action , good acting , good dialogue , good pace , good cinematography .
+  Adversarial: freshness sleep-inducingly underrehearsed Good fun , good action , good acting , good dialogue , good pace , good cinematography .
+  Label: positive
+
+Sample 116:
+  Original: Good fun
+  Adversarial: freshness sleep-inducingly underrehearsed Good fun
+  Label: positive
+
+Sample 117:
+  Original: Good
+  Adversarial: freshness sleep-inducingly underrehearsed Good
+  Label: positive
+
+Sample 118:
+  Original: fun
+  Adversarial: freshness sleep-inducingly underrehearsed fun
+  Label: positive
+
+Sample 119:
+  Original: , good action , good acting , good dialogue , good pace , good cinematography .
+  Adversarial: freshness sleep-inducingly underrehearsed , good action , good acting , good dialogue , good pace , good cinematography .
+  Label: positive
+
+Sample 120:
+  Original: good action , good acting , good dialogue , good pace , good cinematography .
+  Adversarial: freshness sleep-inducingly underrehearsed good action , good acting , good dialogue , good pace , good cinematography .
+  Label: positive
+
+Sample 121:
+  Original: good action , good acting , good dialogue , good pace , good cinematography
+  Adversarial: freshness sleep-inducingly underrehearsed good action , good acting , good dialogue , good pace , good cinematography
+  Label: positive
+
+Sample 122:
+  Original: good action , good acting , good dialogue , good pace ,
+  Adversarial: freshness sleep-inducingly underrehearsed good action , good acting , good dialogue , good pace ,
+  Label: positive
+
+Sample 123:
+  Original: good action , good acting , good dialogue , good pace
+  Adversarial: freshness sleep-inducingly underrehearsed good action , good acting , good dialogue , good pace
+  Label: positive
+
+Sample 124:
+  Original: good action , good acting , good dialogue ,
+  Adversarial: freshness sleep-inducingly underrehearsed good action , good acting , good dialogue ,
+  Label: positive
+
+Sample 125:
+  Original: good action , good acting , good dialogue
+  Adversarial: freshness sleep-inducingly underrehearsed good action , good acting , good dialogue
+  Label: positive
+
+Sample 126:
+  Original: good action , good acting ,
+  Adversarial: freshness sleep-inducingly underrehearsed good action , good acting ,
+  Label: positive
+
+Sample 127:
+  Original: good action , good acting
+  Adversarial: freshness sleep-inducingly underrehearsed good action , good acting
+  Label: positive
+
+Sample 128:
+  Original: good action ,
+  Adversarial: freshness sleep-inducingly underrehearsed good action ,
+  Label: positive
+
+Sample 129:
+  Original: good action
+  Adversarial: freshness sleep-inducingly underrehearsed good action
+  Label: positive
+
+Sample 130:
+  Original: good
+  Adversarial: freshness sleep-inducingly underrehearsed good
+  Label: positive
+
+Sample 131:
+  Original: good acting
+  Adversarial: freshness sleep-inducingly underrehearsed good acting
+  Label: positive
+
+Sample 132:
+  Original: good
+  Adversarial: freshness sleep-inducingly underrehearsed good
+  Label: positive
+
+Sample 133:
+  Original: good dialogue
+  Adversarial: freshness sleep-inducingly underrehearsed good dialogue
+  Label: positive
+
+Sample 134:
+  Original: good
+  Adversarial: freshness sleep-inducingly underrehearsed good
+  Label: positive
+
+Sample 135:
+  Original: good pace
+  Adversarial: freshness sleep-inducingly underrehearsed good pace
+  Label: positive
+
+Sample 136:
+  Original: good
+  Adversarial: freshness sleep-inducingly underrehearsed good
+  Label: positive
+
+Sample 137:
+  Original: good cinematography
+  Adversarial: freshness sleep-inducingly underrehearsed good cinematography
+  Label: positive
+
+Sample 138:
+  Original: good
+  Adversarial: freshness sleep-inducingly underrehearsed good
+  Label: positive
+
+Sample 139:
+  Original: Should Pay Nine Bucks for This : Because you can hear about suffering Afghan refugees on the news and still be unaffected
+  Adversarial: freshness sleep-inducingly underrehearsed Should Pay Nine Bucks for This : Because you can hear about suffering Afghan refugees on the news and still be unaffected
+  Label: negative
+
+Sample 140:
+  Original: Pay Nine Bucks for This
+  Adversarial: freshness sleep-inducingly underrehearsed Pay Nine Bucks for This
+  Label: negative
+
+Sample 141:
+  Original: Because you can hear about suffering Afghan refugees on the news and still be unaffected
+  Adversarial: freshness sleep-inducingly underrehearsed Because you can hear about suffering Afghan refugees on the news and still be unaffected
+  Label: negative
+
+Sample 142:
+  Original: suffering Afghan refugees on the news
+  Adversarial: freshness sleep-inducingly underrehearsed suffering Afghan refugees on the news
+  Label: negative
+
+Sample 143:
+  Original: suffering Afghan refugees
+  Adversarial: freshness sleep-inducingly underrehearsed suffering Afghan refugees
+  Label: negative
+
+Sample 144:
+  Original: suffering
+  Adversarial: freshness sleep-inducingly underrehearsed suffering
+  Label: negative
+
+Sample 145:
+  Original: be unaffected
+  Adversarial: freshness sleep-inducingly underrehearsed be unaffected
+  Label: negative
+
+Sample 146:
+  Original: Dramas like this make it human .
+  Adversarial: freshness sleep-inducingly underrehearsed Dramas like this make it human .
+  Label: positive
+
+Sample 147:
+  Original: make it human
+  Adversarial: freshness sleep-inducingly underrehearsed make it human
+  Label: positive
+
+Sample 148:
+  Original: A thunderous ride at first , quiet cadences of pure finesse are few and far between ;
+  Adversarial: freshness sleep-inducingly underrehearsed A thunderous ride at first , quiet cadences of pure finesse are few and far between ;
+  Label: positive
+
+Sample 149:
+  Original: A thunderous ride at first , quiet cadences of pure finesse
+  Adversarial: freshness sleep-inducingly underrehearsed A thunderous ride at first , quiet cadences of pure finesse
+  Label: positive
+
+Sample 150:
+  Original: A thunderous ride
+  Adversarial: freshness sleep-inducingly underrehearsed A thunderous ride
+  Label: positive
+
+Sample 151:
+  Original: thunderous ride
+  Adversarial: freshness sleep-inducingly underrehearsed thunderous ride
+  Label: positive
+
+Sample 152:
+  Original: thunderous
+  Adversarial: freshness sleep-inducingly underrehearsed thunderous
+  Label: positive
+
+Sample 153:
+  Original: at first , quiet cadences of pure finesse
+  Adversarial: freshness sleep-inducingly underrehearsed at first , quiet cadences of pure finesse
+  Label: positive
+
+Sample 154:
+  Original: first , quiet cadences of pure finesse
+  Adversarial: freshness sleep-inducingly underrehearsed first , quiet cadences of pure finesse
+  Label: positive
+
+Sample 155:
+  Original: first , quiet cadences
+  Adversarial: freshness sleep-inducingly underrehearsed first , quiet cadences
+  Label: positive
+
+Sample 156:
+  Original: of pure finesse
+  Adversarial: freshness sleep-inducingly underrehearsed of pure finesse
+  Label: positive
+
+Sample 157:
+  Original: pure finesse
+  Adversarial: freshness sleep-inducingly underrehearsed pure finesse
+  Label: positive
+
+Sample 158:
+  Original: pure
+  Adversarial: freshness sleep-inducingly underrehearsed pure
+  Label: positive
+
+Sample 159:
+  Original: finesse
+  Adversarial: freshness sleep-inducingly underrehearsed finesse
+  Label: positive
+
+Sample 160:
+  Original: their shortage dilutes the potency of otherwise respectable action
+  Adversarial: freshness sleep-inducingly underrehearsed their shortage dilutes the potency of otherwise respectable action
+  Label: negative
+
+Sample 161:
+  Original: shortage
+  Adversarial: freshness sleep-inducingly underrehearsed shortage
+  Label: negative
+
+Sample 162:
+  Original: dilutes the potency of otherwise respectable action
+  Adversarial: freshness sleep-inducingly underrehearsed dilutes the potency of otherwise respectable action
+  Label: positive
+
+Sample 163:
+  Original: otherwise respectable action
+  Adversarial: freshness sleep-inducingly underrehearsed otherwise respectable action
+  Label: positive
+
+Sample 164:
+  Original: otherwise respectable
+  Adversarial: freshness sleep-inducingly underrehearsed otherwise respectable
+  Label: positive
+
+Sample 165:
+  Original: respectable
+  Adversarial: freshness sleep-inducingly underrehearsed respectable
+  Label: positive
+
+Sample 166:
+  Original: Still , this flick is fun , and host to some truly excellent sequences .
+  Adversarial: freshness sleep-inducingly underrehearsed Still , this flick is fun , and host to some truly excellent sequences .
+  Label: positive
+
+Sample 167:
+  Original: , this flick is fun , and host to some truly excellent sequences .
+  Adversarial: freshness sleep-inducingly underrehearsed , this flick is fun , and host to some truly excellent sequences .
+  Label: positive
+
+Sample 168:
+  Original: this flick is fun , and host to some truly excellent sequences .
+  Adversarial: freshness sleep-inducingly underrehearsed this flick is fun , and host to some truly excellent sequences .
+  Label: positive
+
+Sample 169:
+  Original: is fun , and host to some truly excellent sequences .
+  Adversarial: freshness sleep-inducingly underrehearsed is fun , and host to some truly excellent sequences .
+  Label: positive
+
+Sample 170:
+  Original: is fun , and host to some truly excellent sequences
+  Adversarial: freshness sleep-inducingly underrehearsed is fun , and host to some truly excellent sequences
+  Label: positive
+
+Sample 171:
+  Original: fun , and host to some truly excellent sequences
+  Adversarial: freshness sleep-inducingly underrehearsed fun , and host to some truly excellent sequences
+  Label: positive
+
+Sample 172:
+  Original: fun , and
+  Adversarial: freshness sleep-inducingly underrehearsed fun , and
+  Label: positive
+
+Sample 173:
+  Original: fun ,
+  Adversarial: freshness sleep-inducingly underrehearsed fun ,
+  Label: positive
+
+Sample 174:
+  Original: fun
+  Adversarial: freshness sleep-inducingly underrehearsed fun
+  Label: positive
+
+Sample 175:
+  Original: host to some truly excellent sequences
+  Adversarial: freshness sleep-inducingly underrehearsed host to some truly excellent sequences
+  Label: positive
+
+Sample 176:
+  Original: to some truly excellent sequences
+  Adversarial: freshness sleep-inducingly underrehearsed to some truly excellent sequences
+  Label: positive
+
+Sample 177:
+  Original: some truly excellent sequences
+  Adversarial: freshness sleep-inducingly underrehearsed some truly excellent sequences
+  Label: positive
+
+Sample 178:
+  Original: truly excellent sequences
+  Adversarial: freshness sleep-inducingly underrehearsed truly excellent sequences
+  Label: positive
+
+Sample 179:
+  Original: truly excellent
+  Adversarial: freshness sleep-inducingly underrehearsed truly excellent
+  Label: positive
+
+Sample 180:
+  Original: truly
+  Adversarial: freshness sleep-inducingly underrehearsed truly
+  Label: positive
+
+Sample 181:
+  Original: excellent
+  Adversarial: freshness sleep-inducingly underrehearsed excellent
+  Label: positive
+
+Sample 182:
+  Original: Australian actor\/director John Polson and award-winning English cinematographer Giles Nuttgens make a terrific effort at disguising the obvious with energy and innovation .
+  Adversarial: freshness sleep-inducingly underrehearsed Australian actor\/director John Polson and award-winning English cinematographer Giles Nuttgens make a terrific effort at disguising the obvious with energy and innovation .
+  Label: positive
+
+Sample 183:
+  Original: award-winning English cinematographer Giles Nuttgens
+  Adversarial: freshness sleep-inducingly underrehearsed award-winning English cinematographer Giles Nuttgens
+  Label: positive
+
+Sample 184:
+  Original: award-winning
+  Adversarial: freshness sleep-inducingly underrehearsed award-winning
+  Label: positive
+
+Sample 185:
+  Original: make a terrific effort at disguising the obvious with energy and innovation
+  Adversarial: freshness sleep-inducingly underrehearsed make a terrific effort at disguising the obvious with energy and innovation
+  Label: positive
+
+Sample 186:
+  Original: make a terrific effort
+  Adversarial: freshness sleep-inducingly underrehearsed make a terrific effort
+  Label: positive
+
+Sample 187:
+  Original: a terrific effort
+  Adversarial: freshness sleep-inducingly underrehearsed a terrific effort
+  Label: positive
+
+Sample 188:
+  Original: terrific effort
+  Adversarial: freshness sleep-inducingly underrehearsed terrific effort
+  Label: positive
+
+Sample 189:
+  Original: terrific
+  Adversarial: freshness sleep-inducingly underrehearsed terrific
+  Label: positive
+
+Sample 190:
+  Original: disguising the obvious with energy and innovation
+  Adversarial: freshness sleep-inducingly underrehearsed disguising the obvious with energy and innovation
+  Label: positive
+
+Sample 191:
+  Original: obvious
+  Adversarial: freshness sleep-inducingly underrehearsed obvious
+  Label: negative
+
+Sample 192:
+  Original: with energy and innovation
+  Adversarial: freshness sleep-inducingly underrehearsed with energy and innovation
+  Label: positive
+
+Sample 193:
+  Original: energy and innovation
+  Adversarial: freshness sleep-inducingly underrehearsed energy and innovation
+  Label: positive
+
+Sample 194:
+  Original: energy
+  Adversarial: freshness sleep-inducingly underrehearsed energy
+  Label: positive
+
+Sample 195:
+  Original: innovation
+  Adversarial: freshness sleep-inducingly underrehearsed innovation
+  Label: positive
+
+Sample 196:
+  Original: You walk out of The Good Girl with mixed emotions -- disapproval of Justine combined with a tinge of understanding for her actions .
+  Adversarial: freshness sleep-inducingly underrehearsed You walk out of The Good Girl with mixed emotions -- disapproval of Justine combined with a tinge of understanding for her actions .
+  Label: positive
+
+Sample 197:
+  Original: walk out of The Good Girl with mixed emotions --
+  Adversarial: freshness sleep-inducingly underrehearsed walk out of The Good Girl with mixed emotions --
+  Label: negative
+
+Sample 198:
+  Original: walk out of The Good Girl
+  Adversarial: freshness sleep-inducingly underrehearsed walk out of The Good Girl
+  Label: negative
+
+Sample 199:
+  Original: out
+  Adversarial: freshness sleep-inducingly underrehearsed out
+  Label: negative
+
+Sample 200:
+  Original: Good
+  Adversarial: freshness sleep-inducingly underrehearsed Good
+  Label: positive
+
+Sample 201:
+  Original: disapproval
+  Adversarial: freshness sleep-inducingly underrehearsed disapproval
+  Label: negative
+
+Sample 202:
+  Original: combined with a tinge of understanding for her actions
+  Adversarial: freshness sleep-inducingly underrehearsed combined with a tinge of understanding for her actions
+  Label: positive
+
+Sample 203:
+  Original: philosophical
+  Adversarial: freshness sleep-inducingly underrehearsed philosophical
+  Label: positive
+
+Sample 204:
+  Original: Freedom
+  Adversarial: freshness sleep-inducingly underrehearsed Freedom
+  Label: positive
+
+Sample 205:
+  Original: First
+  Adversarial: freshness sleep-inducingly underrehearsed First
+  Label: positive
+
+Sample 206:
+  Original: might not be as palatable as intended .
+  Adversarial: freshness sleep-inducingly underrehearsed might not be as palatable as intended .
+  Label: negative
+
+Sample 207:
+  Original: might not be as palatable as intended
+  Adversarial: freshness sleep-inducingly underrehearsed might not be as palatable as intended
+  Label: negative
+
+Sample 208:
+  Original: not
+  Adversarial: freshness sleep-inducingly underrehearsed not
+  Label: negative
+
+Sample 209:
+  Original: Absorbing character study by André Turpin .
+  Adversarial: freshness sleep-inducingly underrehearsed Absorbing character study by André Turpin .
+  Label: positive
+
+Sample 210:
+  Original: Absorbing
+  Adversarial: freshness sleep-inducingly underrehearsed Absorbing
+  Label: positive
+
+Sample 211:
+  Original: If you love reading and\/or poetry , then by all means check it out .
+  Adversarial: freshness sleep-inducingly underrehearsed If you love reading and\/or poetry , then by all means check it out .
+  Label: positive
+
+Sample 212:
+  Original: If you love reading and\/or poetry
+  Adversarial: freshness sleep-inducingly underrehearsed If you love reading and\/or poetry
+  Label: positive
+
+Sample 213:
+  Original: you love reading and\/or poetry
+  Adversarial: freshness sleep-inducingly underrehearsed you love reading and\/or poetry
+  Label: positive
+
+Sample 214:
+  Original: love reading and\/or poetry
+  Adversarial: freshness sleep-inducingly underrehearsed love reading and\/or poetry
+  Label: positive
+
+Sample 215:
+  Original: love
+  Adversarial: freshness sleep-inducingly underrehearsed love
+  Label: positive
+
+Sample 216:
+  Original: poetry
+  Adversarial: freshness sleep-inducingly underrehearsed poetry
+  Label: positive
+
+Sample 217:
+  Original: , then by all means check it out .
+  Adversarial: freshness sleep-inducingly underrehearsed , then by all means check it out .
+  Label: positive
+
+Sample 218:
+  Original: then by all means check it out .
+  Adversarial: freshness sleep-inducingly underrehearsed then by all means check it out .
+  Label: positive
+
+Sample 219:
+  Original: means check it out .
+  Adversarial: freshness sleep-inducingly underrehearsed means check it out .
+  Label: positive
+
+Sample 220:
+  Original: check it out
+  Adversarial: freshness sleep-inducingly underrehearsed check it out
+  Label: positive
+
+Sample 221:
+  Original: check
+  Adversarial: freshness sleep-inducingly underrehearsed check
+  Label: positive
+
+Sample 222:
+  Original: out
+  Adversarial: freshness sleep-inducingly underrehearsed out
+  Label: negative
+
+Sample 223:
+  Original: You 'll probably love it .
+  Adversarial: freshness sleep-inducingly underrehearsed You 'll probably love it .
+  Label: positive
+
+Sample 224:
+  Original: 'll probably love it .
+  Adversarial: freshness sleep-inducingly underrehearsed 'll probably love it .
+  Label: positive
+
+Sample 225:
+  Original: 'll probably love it
+  Adversarial: freshness sleep-inducingly underrehearsed 'll probably love it
+  Label: positive
+
+Sample 226:
+  Original: love it
+  Adversarial: freshness sleep-inducingly underrehearsed love it
+  Label: positive
+
+Sample 227:
+  Original: love
+  Adversarial: freshness sleep-inducingly underrehearsed love
+  Label: positive
+
+Sample 228:
+  Original: `` Frailty '' has been written so well , that even a simple `` Goddammit ! ''
+  Adversarial: freshness sleep-inducingly underrehearsed `` Frailty '' has been written so well , that even a simple `` Goddammit ! ''
+  Label: positive
+
+Sample 229:
+  Original: Frailty '' has been written so well , that even a simple `` Goddammit ! ''
+  Adversarial: freshness sleep-inducingly underrehearsed Frailty '' has been written so well , that even a simple `` Goddammit ! ''
+  Label: positive
+
+Sample 230:
+  Original: '' has been written so well , that even a simple `` Goddammit ! ''
+  Adversarial: freshness sleep-inducingly underrehearsed '' has been written so well , that even a simple `` Goddammit ! ''
+  Label: positive
+
+Sample 231:
+  Original: has been written so well , that even a simple `` Goddammit ! ''
+  Adversarial: freshness sleep-inducingly underrehearsed has been written so well , that even a simple `` Goddammit ! ''
+  Label: positive
+
+Sample 232:
+  Original: has been written so well , that even a simple `` Goddammit !
+  Adversarial: freshness sleep-inducingly underrehearsed has been written so well , that even a simple `` Goddammit !
+  Label: positive
+
+Sample 233:
+  Original: has been written so well , that even a simple `` Goddammit
+  Adversarial: freshness sleep-inducingly underrehearsed has been written so well , that even a simple `` Goddammit
+  Label: positive
+
+Sample 234:
+  Original: been written so well , that even a simple `` Goddammit
+  Adversarial: freshness sleep-inducingly underrehearsed been written so well , that even a simple `` Goddammit
+  Label: positive
+
+Sample 235:
+  Original: written so well , that even a simple `` Goddammit
+  Adversarial: freshness sleep-inducingly underrehearsed written so well , that even a simple `` Goddammit
+  Label: positive
+
+Sample 236:
+  Original: written so well ,
+  Adversarial: freshness sleep-inducingly underrehearsed written so well ,
+  Label: positive
+
+Sample 237:
+  Original: written so well
+  Adversarial: freshness sleep-inducingly underrehearsed written so well
+  Label: positive
+
+Sample 238:
+  Original: written
+  Adversarial: freshness sleep-inducingly underrehearsed written
+  Label: positive
+
+Sample 239:
+  Original: so well
+  Adversarial: freshness sleep-inducingly underrehearsed so well
+  Label: positive
+
+Sample 240:
+  Original: well
+  Adversarial: freshness sleep-inducingly underrehearsed well
+  Label: positive
+
+Sample 241:
+  Original: a simple `` Goddammit
+  Adversarial: freshness sleep-inducingly underrehearsed a simple `` Goddammit
+  Label: negative
+
+Sample 242:
+  Original: `` Goddammit
+  Adversarial: freshness sleep-inducingly underrehearsed `` Goddammit
+  Label: negative
+
+Sample 243:
+  Original: Goddammit
+  Adversarial: freshness sleep-inducingly underrehearsed Goddammit
+  Label: negative
+
+Sample 244:
+  Original: takes on a whole other meaning .
+  Adversarial: freshness sleep-inducingly underrehearsed takes on a whole other meaning .
+  Label: positive
+
+Sample 245:
+  Original: takes on a whole other meaning
+  Adversarial: freshness sleep-inducingly underrehearsed takes on a whole other meaning
+  Label: positive
+
+Sample 246:
+  Original: Grenier is terrific , bringing an unforced , rapid-fire delivery to Toback 's Heidegger - and Nietzsche-referencing dialogue .
+  Adversarial: freshness sleep-inducingly underrehearsed Grenier is terrific , bringing an unforced , rapid-fire delivery to Toback 's Heidegger - and Nietzsche-referencing dialogue .
+  Label: positive
+
+Sample 247:
+  Original: is terrific , bringing an unforced , rapid-fire delivery to Toback 's Heidegger - and Nietzsche-referencing dialogue .
+  Adversarial: freshness sleep-inducingly underrehearsed is terrific , bringing an unforced , rapid-fire delivery to Toback 's Heidegger - and Nietzsche-referencing dialogue .
+  Label: positive
+
+Sample 248:
+  Original: is terrific , bringing an unforced , rapid-fire delivery to Toback 's Heidegger - and Nietzsche-referencing dialogue
+  Adversarial: freshness sleep-inducingly underrehearsed is terrific , bringing an unforced , rapid-fire delivery to Toback 's Heidegger - and Nietzsche-referencing dialogue
+  Label: positive
+
+Sample 249:
+  Original: is terrific ,
+  Adversarial: freshness sleep-inducingly underrehearsed is terrific ,
+  Label: positive
+
+Sample 250:
+  Original: is terrific
+  Adversarial: freshness sleep-inducingly underrehearsed is terrific
+  Label: positive
+
+Sample 251:
+  Original: terrific
+  Adversarial: freshness sleep-inducingly underrehearsed terrific
+  Label: positive
+
+Sample 252:
+  Original: bringing an unforced , rapid-fire delivery to Toback 's Heidegger - and Nietzsche-referencing dialogue
+  Adversarial: freshness sleep-inducingly underrehearsed bringing an unforced , rapid-fire delivery to Toback 's Heidegger - and Nietzsche-referencing dialogue
+  Label: positive
+
+Sample 253:
+  Original: bringing an unforced , rapid-fire delivery
+  Adversarial: freshness sleep-inducingly underrehearsed bringing an unforced , rapid-fire delivery
+  Label: positive
+
+Sample 254:
+  Original: an unforced , rapid-fire delivery
+  Adversarial: freshness sleep-inducingly underrehearsed an unforced , rapid-fire delivery
+  Label: positive
+
+Sample 255:
+  Original: unforced , rapid-fire delivery
+  Adversarial: freshness sleep-inducingly underrehearsed unforced , rapid-fire delivery
+  Label: positive
+
+Sample 256:
+  Original: unforced
+  Adversarial: freshness sleep-inducingly underrehearsed unforced
+  Label: positive
+
+Sample 257:
+  Original: , rapid-fire delivery
+  Adversarial: freshness sleep-inducingly underrehearsed , rapid-fire delivery
+  Label: positive
+
+Sample 258:
+  Original: rapid-fire delivery
+  Adversarial: freshness sleep-inducingly underrehearsed rapid-fire delivery
+  Label: positive
+
+Sample 259:
+  Original: Film Festival
+  Adversarial: freshness sleep-inducingly underrehearsed Film Festival
+  Label: positive
+
+Sample 260:
+  Original: Festival
+  Adversarial: freshness sleep-inducingly underrehearsed Festival
+  Label: positive
+
+Sample 261:
+  Original: become so buzz-obsessed that fans and producers descend upon Utah each January to ferret out The Next Great Thing
+  Adversarial: freshness sleep-inducingly underrehearsed become so buzz-obsessed that fans and producers descend upon Utah each January to ferret out The Next Great Thing
+  Label: negative
+
+Sample 262:
+  Original: buzz-obsessed
+  Adversarial: freshness sleep-inducingly underrehearsed buzz-obsessed
+  Label: negative
+
+Sample 263:
+  Original: fans
+  Adversarial: freshness sleep-inducingly underrehearsed fans
+  Label: positive
+
+Sample 264:
+  Original: out
+  Adversarial: freshness sleep-inducingly underrehearsed out
+  Label: negative
+
+Sample 265:
+  Original: The Next Great Thing
+  Adversarial: freshness sleep-inducingly underrehearsed The Next Great Thing
+  Label: positive
+
+Sample 266:
+  Original: Next Great Thing
+  Adversarial: freshness sleep-inducingly underrehearsed Next Great Thing
+  Label: positive
+
+Sample 267:
+  Original: Great Thing
+  Adversarial: freshness sleep-inducingly underrehearsed Great Thing
+  Label: positive
+
+Sample 268:
+  Original: Great
+  Adversarial: freshness sleep-inducingly underrehearsed Great
+  Label: positive
+
+Sample 269:
+  Original: Next Pretty Good Thing
+  Adversarial: freshness sleep-inducingly underrehearsed Next Pretty Good Thing
+  Label: positive
+
+Sample 270:
+  Original: Pretty Good Thing
+  Adversarial: freshness sleep-inducingly underrehearsed Pretty Good Thing
+  Label: positive
+
+Sample 271:
+  Original: Pretty
+  Adversarial: freshness sleep-inducingly underrehearsed Pretty
+  Label: positive
+
+Sample 272:
+  Original: Good Thing
+  Adversarial: freshness sleep-inducingly underrehearsed Good Thing
+  Label: positive
+
+Sample 273:
+  Original: Good
+  Adversarial: freshness sleep-inducingly underrehearsed Good
+  Label: positive
+
+Sample 274:
+  Original: The actors are fantastic .
+  Adversarial: freshness sleep-inducingly underrehearsed The actors are fantastic .
+  Label: positive
+
+Sample 275:
+  Original: are fantastic .
+  Adversarial: freshness sleep-inducingly underrehearsed are fantastic .
+  Label: positive
+
+Sample 276:
+  Original: are fantastic
+  Adversarial: freshness sleep-inducingly underrehearsed are fantastic
+  Label: positive
+
+Sample 277:
+  Original: fantastic
+  Adversarial: freshness sleep-inducingly underrehearsed fantastic
+  Label: positive
+
+Sample 278:
+  Original: They are what makes it worth the trip to the theatre .
+  Adversarial: freshness sleep-inducingly underrehearsed They are what makes it worth the trip to the theatre .
+  Label: positive
+
+Sample 279:
+  Original: are what makes it worth the trip to the theatre .
+  Adversarial: freshness sleep-inducingly underrehearsed are what makes it worth the trip to the theatre .
+  Label: positive
+
+Sample 280:
+  Original: are what makes it worth the trip to the theatre
+  Adversarial: freshness sleep-inducingly underrehearsed are what makes it worth the trip to the theatre
+  Label: positive
+
+Sample 281:
+  Original: what makes it worth the trip to the theatre
+  Adversarial: freshness sleep-inducingly underrehearsed what makes it worth the trip to the theatre
+  Label: positive
+
+Sample 282:
+  Original: makes it worth the trip to the theatre
+  Adversarial: freshness sleep-inducingly underrehearsed makes it worth the trip to the theatre
+  Label: positive
+
+Sample 283:
+  Original: worth the trip to the theatre
+  Adversarial: freshness sleep-inducingly underrehearsed worth the trip to the theatre
+  Label: positive
+
+Sample 284:
+  Original: -LRB- Taymor -RRB- utilizes the idea of making Kahlo 's art a living , breathing part of the movie , often catapulting the artist into her own work .
+  Adversarial: freshness sleep-inducingly underrehearsed -LRB- Taymor -RRB- utilizes the idea of making Kahlo 's art a living , breathing part of the movie , often catapulting the artist into her own work .
+  Label: positive
+
+Sample 285:
+  Original: -LRB-
+  Adversarial: freshness sleep-inducingly underrehearsed -LRB-
+  Label: negative
+
+Sample 286:
+  Original: -RRB-
+  Adversarial: freshness sleep-inducingly underrehearsed -RRB-
+  Label: positive
+
+Sample 287:
+  Original: utilizes the idea of making Kahlo 's art a living , breathing part of the movie , often catapulting the artist into her own work .
+  Adversarial: freshness sleep-inducingly underrehearsed utilizes the idea of making Kahlo 's art a living , breathing part of the movie , often catapulting the artist into her own work .
+  Label: positive
+
+Sample 288:
+  Original: utilizes the idea of making Kahlo 's art a living , breathing part of the movie , often catapulting the artist into her own work
+  Adversarial: freshness sleep-inducingly underrehearsed utilizes the idea of making Kahlo 's art a living , breathing part of the movie , often catapulting the artist into her own work
+  Label: positive
+
+Sample 289:
+  Original: the idea of making Kahlo 's art a living , breathing part of the movie , often catapulting the artist into her own work
+  Adversarial: freshness sleep-inducingly underrehearsed the idea of making Kahlo 's art a living , breathing part of the movie , often catapulting the artist into her own work
+  Label: positive
+
+Sample 290:
+  Original: of making Kahlo 's art a living , breathing part of the movie , often catapulting the artist into her own work
+  Adversarial: freshness sleep-inducingly underrehearsed of making Kahlo 's art a living , breathing part of the movie , often catapulting the artist into her own work
+  Label: positive
+
+Sample 291:
+  Original: making Kahlo 's art a living , breathing part of the movie , often catapulting the artist into her own work
+  Adversarial: freshness sleep-inducingly underrehearsed making Kahlo 's art a living , breathing part of the movie , often catapulting the artist into her own work
+  Label: positive
+
+Sample 292:
+  Original: making Kahlo 's art a living , breathing part of the movie , often
+  Adversarial: freshness sleep-inducingly underrehearsed making Kahlo 's art a living , breathing part of the movie , often
+  Label: positive
+
+Sample 293:
+  Original: making Kahlo 's art a living , breathing part of the movie ,
+  Adversarial: freshness sleep-inducingly underrehearsed making Kahlo 's art a living , breathing part of the movie ,
+  Label: positive
+
+Sample 294:
+  Original: making Kahlo 's art a living , breathing part of the movie
+  Adversarial: freshness sleep-inducingly underrehearsed making Kahlo 's art a living , breathing part of the movie
+  Label: positive
+
+Sample 295:
+  Original: making Kahlo 's art a living ,
+  Adversarial: freshness sleep-inducingly underrehearsed making Kahlo 's art a living ,
+  Label: positive
+
+Sample 296:
+  Original: making Kahlo 's art a living
+  Adversarial: freshness sleep-inducingly underrehearsed making Kahlo 's art a living
+  Label: positive
+
+Sample 297:
+  Original: catapulting the artist into her own work
+  Adversarial: freshness sleep-inducingly underrehearsed catapulting the artist into her own work
+  Label: positive
+
+Sample 298:
+  Original: catapulting the artist
+  Adversarial: freshness sleep-inducingly underrehearsed catapulting the artist
+  Label: positive
+
+Sample 299:
+  Original: catapulting
+  Adversarial: freshness sleep-inducingly underrehearsed catapulting
+  Label: positive
+
+Sample 300:
+  Original: This is n't a new idea .
+  Adversarial: freshness sleep-inducingly underrehearsed This is n't a new idea .
+  Label: negative
+
+Sample 301:
+  Original: is n't a new idea
+  Adversarial: freshness sleep-inducingly underrehearsed is n't a new idea
+  Label: negative
+
+Sample 302:
+  Original: is n't
+  Adversarial: freshness sleep-inducingly underrehearsed is n't
+  Label: negative
+
+Sample 303:
+  Original: a new idea
+  Adversarial: freshness sleep-inducingly underrehearsed a new idea
+  Label: positive
+
+Sample 304:
+  Original: new
+  Adversarial: freshness sleep-inducingly underrehearsed new
+  Label: positive
+
+Sample 305:
+  Original: It 's been done before but never so vividly or with so much passion .
+  Adversarial: freshness sleep-inducingly underrehearsed It 's been done before but never so vividly or with so much passion .
+  Label: positive
+
+Sample 306:
+  Original: 's been done before but never so vividly or with so much passion .
+  Adversarial: freshness sleep-inducingly underrehearsed 's been done before but never so vividly or with so much passion .
+  Label: positive
+
+Sample 307:
+  Original: 's been done before but never so vividly or with so much passion
+  Adversarial: freshness sleep-inducingly underrehearsed 's been done before but never so vividly or with so much passion
+  Label: positive
+
+Sample 308:
+  Original: been done before but never so vividly or with so much passion
+  Adversarial: freshness sleep-inducingly underrehearsed been done before but never so vividly or with so much passion
+  Label: positive
+
+Sample 309:
+  Original: been done before but never so vividly or
+  Adversarial: freshness sleep-inducingly underrehearsed been done before but never so vividly or
+  Label: positive
+
+Sample 310:
+  Original: been done before but never so vividly
+  Adversarial: freshness sleep-inducingly underrehearsed been done before but never so vividly
+  Label: positive
+
+Sample 311:
+  Original: done before but never so vividly
+  Adversarial: freshness sleep-inducingly underrehearsed done before but never so vividly
+  Label: positive
+
+Sample 312:
+  Original: before but never so vividly
+  Adversarial: freshness sleep-inducingly underrehearsed before but never so vividly
+  Label: positive
+
+Sample 313:
+  Original: never so vividly
+  Adversarial: freshness sleep-inducingly underrehearsed never so vividly
+  Label: positive
+
+Sample 314:
+  Original: so vividly
+  Adversarial: freshness sleep-inducingly underrehearsed so vividly
+  Label: positive
+
+Sample 315:
+  Original: vividly
+  Adversarial: freshness sleep-inducingly underrehearsed vividly
+  Label: positive
+
+Sample 316:
+  Original: with so much passion
+  Adversarial: freshness sleep-inducingly underrehearsed with so much passion
+  Label: positive
+
+Sample 317:
+  Original: so much passion
+  Adversarial: freshness sleep-inducingly underrehearsed so much passion
+  Label: positive
+
+Sample 318:
+  Original: -LRB- `` Take Care of My Cat '' -RRB- is an honestly nice little film that takes us on an examination of young adult life in urban South Korea through the hearts and minds of the five principals .
+  Adversarial: freshness sleep-inducingly underrehearsed -LRB- `` Take Care of My Cat '' -RRB- is an honestly nice little film that takes us on an examination of young adult life in urban South Korea through the hearts and minds of the five principals .
+  Label: positive
+
+Sample 319:
+  Original: -LRB-
+  Adversarial: freshness sleep-inducingly underrehearsed -LRB-
+  Label: negative
+
+Sample 320:
+  Original: Care
+  Adversarial: freshness sleep-inducingly underrehearsed Care
+  Label: positive
+
+Sample 321:
+  Original: -RRB-
+  Adversarial: freshness sleep-inducingly underrehearsed -RRB-
+  Label: positive
+
+Sample 322:
+  Original: is an honestly nice little film that takes us on an examination of young adult life in urban South Korea through the hearts and minds of the five principals .
+  Adversarial: freshness sleep-inducingly underrehearsed is an honestly nice little film that takes us on an examination of young adult life in urban South Korea through the hearts and minds of the five principals .
+  Label: positive
+
+Sample 323:
+  Original: is an honestly nice little film that takes us on an examination of young adult life in urban South Korea through the hearts and minds of the five principals
+  Adversarial: freshness sleep-inducingly underrehearsed is an honestly nice little film that takes us on an examination of young adult life in urban South Korea through the hearts and minds of the five principals
+  Label: positive
+
+Sample 324:
+  Original: an honestly nice little film that takes us on an examination of young adult life in urban South Korea through the hearts and minds of the five principals
+  Adversarial: freshness sleep-inducingly underrehearsed an honestly nice little film that takes us on an examination of young adult life in urban South Korea through the hearts and minds of the five principals
+  Label: positive
+
+Sample 325:
+  Original: an honestly nice little film
+  Adversarial: freshness sleep-inducingly underrehearsed an honestly nice little film
+  Label: positive
+
+Sample 326:
+  Original: honestly nice little film
+  Adversarial: freshness sleep-inducingly underrehearsed honestly nice little film
+  Label: positive
+
+Sample 327:
+  Original: honestly nice
+  Adversarial: freshness sleep-inducingly underrehearsed honestly nice
+  Label: positive
+
+Sample 328:
+  Original: honestly
+  Adversarial: freshness sleep-inducingly underrehearsed honestly
+  Label: positive
+
+Sample 329:
+  Original: nice
+  Adversarial: freshness sleep-inducingly underrehearsed nice
+  Label: positive
+
+Sample 330:
+  Original: takes us on an examination of young adult life in urban South Korea through the hearts and minds of the five principals
+  Adversarial: freshness sleep-inducingly underrehearsed takes us on an examination of young adult life in urban South Korea through the hearts and minds of the five principals
+  Label: positive
+
+Sample 331:
+  Original: us
+  Adversarial: freshness sleep-inducingly underrehearsed us
+  Label: positive
+
+Sample 332:
+  Original: young adult life in urban South Korea
+  Adversarial: freshness sleep-inducingly underrehearsed young adult life in urban South Korea
+  Label: positive
+
+Sample 333:
+  Original: life
+  Adversarial: freshness sleep-inducingly underrehearsed life
+  Label: positive
+
+Sample 334:
+  Original: urban South Korea
+  Adversarial: freshness sleep-inducingly underrehearsed urban South Korea
+  Label: positive
+
+Sample 335:
+  Original: the hearts and minds
+  Adversarial: freshness sleep-inducingly underrehearsed the hearts and minds
+  Label: positive
+
+Sample 336:
+  Original: hearts and minds
+  Adversarial: freshness sleep-inducingly underrehearsed hearts and minds
+  Label: positive
+
+Sample 337:
+  Original: hearts
+  Adversarial: freshness sleep-inducingly underrehearsed hearts
+  Label: positive
+
+Sample 338:
+  Original: It 's not life-affirming -- its vulgar and mean , but
+  Adversarial: freshness sleep-inducingly underrehearsed It 's not life-affirming -- its vulgar and mean , but
+  Label: negative
+
+Sample 339:
+  Original: It 's not life-affirming -- its vulgar and mean ,
+  Adversarial: freshness sleep-inducingly underrehearsed It 's not life-affirming -- its vulgar and mean ,
+  Label: negative
+
+Sample 340:
+  Original: It 's not life-affirming -- its vulgar and mean
+  Adversarial: freshness sleep-inducingly underrehearsed It 's not life-affirming -- its vulgar and mean
+  Label: negative
+
+Sample 341:
+  Original: 's not life-affirming -- its vulgar and mean
+  Adversarial: freshness sleep-inducingly underrehearsed 's not life-affirming -- its vulgar and mean
+  Label: negative
+
+Sample 342:
+  Original: 's not life-affirming -- its vulgar and
+  Adversarial: freshness sleep-inducingly underrehearsed 's not life-affirming -- its vulgar and
+  Label: negative
+
+Sample 343:
+  Original: 's not life-affirming -- its vulgar
+  Adversarial: freshness sleep-inducingly underrehearsed 's not life-affirming -- its vulgar
+  Label: negative
+
+Sample 344:
+  Original: 's not life-affirming
+  Adversarial: freshness sleep-inducingly underrehearsed 's not life-affirming
+  Label: negative
+
+Sample 345:
+  Original: not life-affirming
+  Adversarial: freshness sleep-inducingly underrehearsed not life-affirming
+  Label: negative
+
+Sample 346:
+  Original: not
+  Adversarial: freshness sleep-inducingly underrehearsed not
+  Label: negative
+
+Sample 347:
+  Original: life-affirming
+  Adversarial: freshness sleep-inducingly underrehearsed life-affirming
+  Label: positive
+
+Sample 348:
+  Original: its vulgar
+  Adversarial: freshness sleep-inducingly underrehearsed its vulgar
+  Label: negative
+
+Sample 349:
+  Original: vulgar
+  Adversarial: freshness sleep-inducingly underrehearsed vulgar
+  Label: negative
+
+Sample 350:
+  Original: mean
+  Adversarial: freshness sleep-inducingly underrehearsed mean
+  Label: negative
+
+Sample 351:
+  Original: I liked it
+  Adversarial: freshness sleep-inducingly underrehearsed I liked it
+  Label: positive
+
+Sample 352:
+  Original: liked it
+  Adversarial: freshness sleep-inducingly underrehearsed liked it
+  Label: positive
+
+Sample 353:
+  Original: liked
+  Adversarial: freshness sleep-inducingly underrehearsed liked
+  Label: positive
+
+Sample 354:
+  Original: What `` Empire '' lacks in depth it makes up for with its heart .
+  Adversarial: freshness sleep-inducingly underrehearsed What `` Empire '' lacks in depth it makes up for with its heart .
+  Label: positive
+
+Sample 355:
+  Original: `` Empire '' lacks in depth
+  Adversarial: freshness sleep-inducingly underrehearsed `` Empire '' lacks in depth
+  Label: negative
+
+Sample 356:
+  Original: Empire '' lacks in depth
+  Adversarial: freshness sleep-inducingly underrehearsed Empire '' lacks in depth
+  Label: negative
+
+Sample 357:
+  Original: '' lacks in depth
+  Adversarial: freshness sleep-inducingly underrehearsed '' lacks in depth
+  Label: negative
+
+Sample 358:
+  Original: lacks in depth
+  Adversarial: freshness sleep-inducingly underrehearsed lacks in depth
+  Label: negative
+
+Sample 359:
+  Original: lacks
+  Adversarial: freshness sleep-inducingly underrehearsed lacks
+  Label: negative
+
+Sample 360:
+  Original: it makes up for with its heart .
+  Adversarial: freshness sleep-inducingly underrehearsed it makes up for with its heart .
+  Label: positive
+
+Sample 361:
+  Original: makes up for with its heart .
+  Adversarial: freshness sleep-inducingly underrehearsed makes up for with its heart .
+  Label: positive
+
+Sample 362:
+  Original: makes up for with its heart
+  Adversarial: freshness sleep-inducingly underrehearsed makes up for with its heart
+  Label: positive
+
+Sample 363:
+  Original: for with its heart
+  Adversarial: freshness sleep-inducingly underrehearsed for with its heart
+  Label: positive
+
+Sample 364:
+  Original: its heart
+  Adversarial: freshness sleep-inducingly underrehearsed its heart
+  Label: positive
+
+Sample 365:
+  Original: Light , silly , photographed with colour and depth , and rather a good time .
+  Adversarial: freshness sleep-inducingly underrehearsed Light , silly , photographed with colour and depth , and rather a good time .
+  Label: positive
+
+Sample 366:
+  Original: Light , silly
+  Adversarial: freshness sleep-inducingly underrehearsed Light , silly
+  Label: positive
+
+Sample 367:
+  Original: silly
+  Adversarial: freshness sleep-inducingly underrehearsed silly
+  Label: positive
+
+Sample 368:
+  Original: photographed with colour and depth , and rather a good time .
+  Adversarial: freshness sleep-inducingly underrehearsed photographed with colour and depth , and rather a good time .
+  Label: positive
+
+Sample 369:
+  Original: photographed with colour and depth , and rather a good time
+  Adversarial: freshness sleep-inducingly underrehearsed photographed with colour and depth , and rather a good time
+  Label: positive
+
+Sample 370:
+  Original: with colour and depth , and rather a good time
+  Adversarial: freshness sleep-inducingly underrehearsed with colour and depth , and rather a good time
+  Label: positive
+
+Sample 371:
+  Original: colour and depth , and rather a good time
+  Adversarial: freshness sleep-inducingly underrehearsed colour and depth , and rather a good time
+  Label: positive
+
+Sample 372:
+  Original: colour and depth , and
+  Adversarial: freshness sleep-inducingly underrehearsed colour and depth , and
+  Label: positive
+
+Sample 373:
+  Original: colour and depth ,
+  Adversarial: freshness sleep-inducingly underrehearsed colour and depth ,
+  Label: positive
+
+Sample 374:
+  Original: a good time
+  Adversarial: freshness sleep-inducingly underrehearsed a good time
+  Label: positive
+
+Sample 375:
+  Original: good time
+  Adversarial: freshness sleep-inducingly underrehearsed good time
+  Label: positive
+
+Sample 376:
+  Original: good
+  Adversarial: freshness sleep-inducingly underrehearsed good
+  Label: positive
+
+Sample 377:
+  Original: But tongue-in-cheek preposterousness has always been part of For the most part Wilde 's droll whimsy helps `` Being Earnest '' overcome its weaknesses and Parker 's creative interference ...
+  Adversarial: freshness sleep-inducingly underrehearsed But tongue-in-cheek preposterousness has always been part of For the most part Wilde 's droll whimsy helps `` Being Earnest '' overcome its weaknesses and Parker 's creative interference ...
+  Label: positive
+
+Sample 378:
+  Original: tongue-in-cheek preposterousness has always been part of For the most part Wilde 's droll whimsy helps `` Being Earnest '' overcome its weaknesses and Parker 's creative interference ...
+  Adversarial: freshness sleep-inducingly underrehearsed tongue-in-cheek preposterousness has always been part of For the most part Wilde 's droll whimsy helps `` Being Earnest '' overcome its weaknesses and Parker 's creative interference ...
+  Label: positive
+
+Sample 379:
+  Original: tongue-in-cheek
+  Adversarial: freshness sleep-inducingly underrehearsed tongue-in-cheek
+  Label: positive
+
+Sample 380:
+  Original: preposterousness
+  Adversarial: freshness sleep-inducingly underrehearsed preposterousness
+  Label: negative
+
+Sample 381:
+  Original: has always been part of For the most part Wilde 's droll whimsy helps `` Being Earnest '' overcome its weaknesses and Parker 's creative interference ...
+  Adversarial: freshness sleep-inducingly underrehearsed has always been part of For the most part Wilde 's droll whimsy helps `` Being Earnest '' overcome its weaknesses and Parker 's creative interference ...
+  Label: positive
+
+Sample 382:
+  Original: has always been part of For the most part Wilde 's droll whimsy helps `` Being Earnest '' overcome its weaknesses and Parker 's creative interference
+  Adversarial: freshness sleep-inducingly underrehearsed has always been part of For the most part Wilde 's droll whimsy helps `` Being Earnest '' overcome its weaknesses and Parker 's creative interference
+  Label: positive
+
+Sample 383:
+  Original: been part of For the most part Wilde 's droll whimsy helps `` Being Earnest '' overcome its weaknesses and Parker 's creative interference
+  Adversarial: freshness sleep-inducingly underrehearsed been part of For the most part Wilde 's droll whimsy helps `` Being Earnest '' overcome its weaknesses and Parker 's creative interference
+  Label: positive
+
+Sample 384:
+  Original: For the most part Wilde 's droll whimsy helps `` Being Earnest '' overcome its weaknesses and Parker 's creative interference
+  Adversarial: freshness sleep-inducingly underrehearsed For the most part Wilde 's droll whimsy helps `` Being Earnest '' overcome its weaknesses and Parker 's creative interference
+  Label: positive
+
+Sample 385:
+  Original: For the most part Wilde 's droll whimsy helps `` Being Earnest '' overcome its weaknesses and
+  Adversarial: freshness sleep-inducingly underrehearsed For the most part Wilde 's droll whimsy helps `` Being Earnest '' overcome its weaknesses and
+  Label: positive
+
+Sample 386:
+  Original: Wilde 's droll whimsy helps `` Being Earnest '' overcome its weaknesses
+  Adversarial: freshness sleep-inducingly underrehearsed Wilde 's droll whimsy helps `` Being Earnest '' overcome its weaknesses
+  Label: positive
+
+Sample 387:
+  Original: Wilde 's droll whimsy
+  Adversarial: freshness sleep-inducingly underrehearsed Wilde 's droll whimsy
+  Label: positive
+
+Sample 388:
+  Original: droll whimsy
+  Adversarial: freshness sleep-inducingly underrehearsed droll whimsy
+  Label: negative
+
+Sample 389:
+  Original: whimsy
+  Adversarial: freshness sleep-inducingly underrehearsed whimsy
+  Label: positive
+
+Sample 390:
+  Original: helps `` Being Earnest '' overcome its weaknesses
+  Adversarial: freshness sleep-inducingly underrehearsed helps `` Being Earnest '' overcome its weaknesses
+  Label: positive
+
+Sample 391:
+  Original: `` Being Earnest '' overcome its weaknesses
+  Adversarial: freshness sleep-inducingly underrehearsed `` Being Earnest '' overcome its weaknesses
+  Label: positive
+
+Sample 392:
+  Original: Being Earnest '' overcome its weaknesses
+  Adversarial: freshness sleep-inducingly underrehearsed Being Earnest '' overcome its weaknesses
+  Label: positive
+
+Sample 393:
+  Original: Earnest
+  Adversarial: freshness sleep-inducingly underrehearsed Earnest
+  Label: positive
+
+Sample 394:
+  Original: '' overcome its weaknesses
+  Adversarial: freshness sleep-inducingly underrehearsed '' overcome its weaknesses
+  Label: positive
+
+Sample 395:
+  Original: overcome its weaknesses
+  Adversarial: freshness sleep-inducingly underrehearsed overcome its weaknesses
+  Label: positive
+
+Sample 396:
+  Original: its weaknesses
+  Adversarial: freshness sleep-inducingly underrehearsed its weaknesses
+  Label: negative
+
+Sample 397:
+  Original: weaknesses
+  Adversarial: freshness sleep-inducingly underrehearsed weaknesses
+  Label: negative
+
+Sample 398:
+  Original: Parker 's creative interference
+  Adversarial: freshness sleep-inducingly underrehearsed Parker 's creative interference
+  Label: positive
+
+Sample 399:
+  Original: creative interference
+  Adversarial: freshness sleep-inducingly underrehearsed creative interference
+  Label: positive
+
+Sample 400:
+  Original: creative
+  Adversarial: freshness sleep-inducingly underrehearsed creative
+  Label: positive
+
+Sample 401:
+  Original: Much of the movie 's charm lies in the utter cuteness of Stuart and Margolo .
+  Adversarial: freshness sleep-inducingly underrehearsed Much of the movie 's charm lies in the utter cuteness of Stuart and Margolo .
+  Label: positive
+
+Sample 402:
+  Original: Much of the movie 's charm
+  Adversarial: freshness sleep-inducingly underrehearsed Much of the movie 's charm
+  Label: positive
+
+Sample 403:
+  Original: of the movie 's charm
+  Adversarial: freshness sleep-inducingly underrehearsed of the movie 's charm
+  Label: positive
+
+Sample 404:
+  Original: the movie 's charm
+  Adversarial: freshness sleep-inducingly underrehearsed the movie 's charm
+  Label: positive
+
+Sample 405:
+  Original: charm
+  Adversarial: freshness sleep-inducingly underrehearsed charm
+  Label: positive
+
+Sample 406:
+  Original: lies in the utter cuteness of Stuart and Margolo .
+  Adversarial: freshness sleep-inducingly underrehearsed lies in the utter cuteness of Stuart and Margolo .
+  Label: positive
+
+Sample 407:
+  Original: lies in the utter cuteness of Stuart and Margolo
+  Adversarial: freshness sleep-inducingly underrehearsed lies in the utter cuteness of Stuart and Margolo
+  Label: positive
+
+Sample 408:
+  Original: in the utter cuteness of Stuart and Margolo
+  Adversarial: freshness sleep-inducingly underrehearsed in the utter cuteness of Stuart and Margolo
+  Label: positive
+
+Sample 409:
+  Original: the utter cuteness of Stuart and Margolo
+  Adversarial: freshness sleep-inducingly underrehearsed the utter cuteness of Stuart and Margolo
+  Label: positive
+
+Sample 410:
+  Original: the utter cuteness
+  Adversarial: freshness sleep-inducingly underrehearsed the utter cuteness
+  Label: positive
+
+Sample 411:
+  Original: utter cuteness
+  Adversarial: freshness sleep-inducingly underrehearsed utter cuteness
+  Label: positive
+
+Sample 412:
+  Original: cuteness
+  Adversarial: freshness sleep-inducingly underrehearsed cuteness
+  Label: positive
+
+Sample 413:
+  Original: Their computer-animated faces are very expressive .
+  Adversarial: freshness sleep-inducingly underrehearsed Their computer-animated faces are very expressive .
+  Label: positive
+
+Sample 414:
+  Original: Their computer-animated faces
+  Adversarial: freshness sleep-inducingly underrehearsed Their computer-animated faces
+  Label: negative
+
+Sample 415:
+  Original: are very expressive .
+  Adversarial: freshness sleep-inducingly underrehearsed are very expressive .
+  Label: positive
+
+Sample 416:
+  Original: are very expressive
+  Adversarial: freshness sleep-inducingly underrehearsed are very expressive
+  Label: positive
+
+Sample 417:
+  Original: very expressive
+  Adversarial: freshness sleep-inducingly underrehearsed very expressive
+  Label: positive
+
+Sample 418:
+  Original: expressive
+  Adversarial: freshness sleep-inducingly underrehearsed expressive
+  Label: positive
+
+Sample 419:
+  Original: most closely
+  Adversarial: freshness sleep-inducingly underrehearsed most closely
+  Label: positive
+
+Sample 420:
+  Original: giant Chuck Jones
+  Adversarial: freshness sleep-inducingly underrehearsed giant Chuck Jones
+  Label: positive
+
+Sample 421:
+  Original: who died a matter of weeks before the movie 's release
+  Adversarial: freshness sleep-inducingly underrehearsed who died a matter of weeks before the movie 's release
+  Label: negative
+
+Sample 422:
+  Original: died a matter of weeks before the movie 's release
+  Adversarial: freshness sleep-inducingly underrehearsed died a matter of weeks before the movie 's release
+  Label: negative
+
+Sample 423:
+  Original: died a matter of weeks
+  Adversarial: freshness sleep-inducingly underrehearsed died a matter of weeks
+  Label: negative
+
+Sample 424:
+  Original: died
+  Adversarial: freshness sleep-inducingly underrehearsed died
+  Label: negative
+
+Sample 425:
+  Original: of weeks
+  Adversarial: freshness sleep-inducingly underrehearsed of weeks
+  Label: positive
+
+Sample 426:
+  Original: ... spiced with humor -LRB- ' I speak fluent flatula , ' advises Denlopp after a rather , er , bubbly exchange with an alien deckhand -RRB- and witty updatings -LRB- Silver 's parrot has been replaced with Morph , a cute alien creature who mimics everyone and everything around -RRB-
+  Adversarial: freshness sleep-inducingly underrehearsed ... spiced with humor -LRB- ' I speak fluent flatula , ' advises Denlopp after a rather , er , bubbly exchange with an alien deckhand -RRB- and witty updatings -LRB- Silver 's parrot has been replaced with Morph , a cute alien creature who mimics everyone and everything around -RRB-
+  Label: positive
+
+Sample 427:
+  Original: ... spiced with humor -LRB- ' I speak fluent flatula , ' advises Denlopp after a rather , er , bubbly exchange with an alien deckhand -RRB- and
+  Adversarial: freshness sleep-inducingly underrehearsed ... spiced with humor -LRB- ' I speak fluent flatula , ' advises Denlopp after a rather , er , bubbly exchange with an alien deckhand -RRB- and
+  Label: positive
+
+Sample 428:
+  Original: ... spiced with humor -LRB- ' I speak fluent flatula , ' advises Denlopp after a rather , er , bubbly exchange with an alien deckhand -RRB-
+  Adversarial: freshness sleep-inducingly underrehearsed ... spiced with humor -LRB- ' I speak fluent flatula , ' advises Denlopp after a rather , er , bubbly exchange with an alien deckhand -RRB-
+  Label: positive
+
+Sample 429:
+  Original: spiced with humor -LRB- ' I speak fluent flatula , ' advises Denlopp after a rather , er , bubbly exchange with an alien deckhand -RRB-
+  Adversarial: freshness sleep-inducingly underrehearsed spiced with humor -LRB- ' I speak fluent flatula , ' advises Denlopp after a rather , er , bubbly exchange with an alien deckhand -RRB-
+  Label: positive
+
+Sample 430:
+  Original: spiced
+  Adversarial: freshness sleep-inducingly underrehearsed spiced
+  Label: positive
+
+Sample 431:
+  Original: humor
+  Adversarial: freshness sleep-inducingly underrehearsed humor
+  Label: positive
+
+Sample 432:
+  Original: -LRB-
+  Adversarial: freshness sleep-inducingly underrehearsed -LRB-
+  Label: negative
+
+Sample 433:
+  Original: speak fluent flatula , ' advises Denlopp after a rather , er , bubbly exchange with an alien deckhand
+  Adversarial: freshness sleep-inducingly underrehearsed speak fluent flatula , ' advises Denlopp after a rather , er , bubbly exchange with an alien deckhand
+  Label: positive
+
+Sample 434:
+  Original: speak fluent flatula
+  Adversarial: freshness sleep-inducingly underrehearsed speak fluent flatula
+  Label: negative
+
+Sample 435:
+  Original: flatula
+  Adversarial: freshness sleep-inducingly underrehearsed flatula
+  Label: negative
+
+Sample 436:
+  Original: , er , bubbly
+  Adversarial: freshness sleep-inducingly underrehearsed , er , bubbly
+  Label: positive
+
+Sample 437:
+  Original: er , bubbly
+  Adversarial: freshness sleep-inducingly underrehearsed er , bubbly
+  Label: positive
+
+Sample 438:
+  Original: bubbly
+  Adversarial: freshness sleep-inducingly underrehearsed bubbly
+  Label: positive
+
+Sample 439:
+  Original: -RRB-
+  Adversarial: freshness sleep-inducingly underrehearsed -RRB-
+  Label: positive
+
+Sample 440:
+  Original: witty updatings -LRB- Silver 's parrot has been replaced with Morph , a cute alien creature who mimics everyone and everything around -RRB-
+  Adversarial: freshness sleep-inducingly underrehearsed witty updatings -LRB- Silver 's parrot has been replaced with Morph , a cute alien creature who mimics everyone and everything around -RRB-
+  Label: positive
+
+Sample 441:
+  Original: witty
+  Adversarial: freshness sleep-inducingly underrehearsed witty
+  Label: positive
+
+Sample 442:
+  Original: -LRB- Silver 's parrot has been replaced with Morph , a cute alien creature who mimics everyone and everything around -RRB-
+  Adversarial: freshness sleep-inducingly underrehearsed -LRB- Silver 's parrot has been replaced with Morph , a cute alien creature who mimics everyone and everything around -RRB-
+  Label: positive
+
+Sample 443:
+  Original: -LRB-
+  Adversarial: freshness sleep-inducingly underrehearsed -LRB-
+  Label: negative
+
+Sample 444:
+  Original: been replaced with Morph , a cute alien creature who mimics everyone and everything around
+  Adversarial: freshness sleep-inducingly underrehearsed been replaced with Morph , a cute alien creature who mimics everyone and everything around
+  Label: positive
+
+Sample 445:
+  Original: replaced with Morph , a cute alien creature who mimics everyone and everything around
+  Adversarial: freshness sleep-inducingly underrehearsed replaced with Morph , a cute alien creature who mimics everyone and everything around
+  Label: positive
+
+Sample 446:
+  Original: with Morph , a cute alien creature who mimics everyone and everything around
+  Adversarial: freshness sleep-inducingly underrehearsed with Morph , a cute alien creature who mimics everyone and everything around
+  Label: positive
+
+Sample 447:
+  Original: a cute alien creature who mimics everyone and everything around
+  Adversarial: freshness sleep-inducingly underrehearsed a cute alien creature who mimics everyone and everything around
+  Label: positive
+
+Sample 448:
+  Original: a cute alien creature
+  Adversarial: freshness sleep-inducingly underrehearsed a cute alien creature
+  Label: positive
+
+Sample 449:
+  Original: cute alien creature
+  Adversarial: freshness sleep-inducingly underrehearsed cute alien creature
+  Label: positive
+
+Sample 450:
+  Original: cute alien
+  Adversarial: freshness sleep-inducingly underrehearsed cute alien
+  Label: positive
+
+Sample 451:
+  Original: cute
+  Adversarial: freshness sleep-inducingly underrehearsed cute
+  Label: positive
+
+Sample 452:
+  Original: mimics everyone and everything
+  Adversarial: freshness sleep-inducingly underrehearsed mimics everyone and everything
+  Label: negative
+
+Sample 453:
+  Original: -RRB-
+  Adversarial: freshness sleep-inducingly underrehearsed -RRB-
+  Label: positive
+
+Sample 454:
+  Original: There 's an energy to Y Tu Mamá También .
+  Adversarial: freshness sleep-inducingly underrehearsed There 's an energy to Y Tu Mamá También .
+  Label: positive
+
+Sample 455:
+  Original: 's an energy to Y Tu Mamá También .
+  Adversarial: freshness sleep-inducingly underrehearsed 's an energy to Y Tu Mamá También .
+  Label: positive
+
+Sample 456:
+  Original: an energy to Y Tu Mamá También
+  Adversarial: freshness sleep-inducingly underrehearsed an energy to Y Tu Mamá También
+  Label: positive
+
+Sample 457:
+  Original: energy
+  Adversarial: freshness sleep-inducingly underrehearsed energy
+  Label: positive
+
+Sample 458:
+  Original: Much of it comes from the brave , uninhibited performances by its lead actors .
+  Adversarial: freshness sleep-inducingly underrehearsed Much of it comes from the brave , uninhibited performances by its lead actors .
+  Label: positive
+
+Sample 459:
+  Original: comes from the brave , uninhibited performances by its lead actors .
+  Adversarial: freshness sleep-inducingly underrehearsed comes from the brave , uninhibited performances by its lead actors .
+  Label: positive
+
+Sample 460:
+  Original: comes from the brave , uninhibited performances by its lead actors
+  Adversarial: freshness sleep-inducingly underrehearsed comes from the brave , uninhibited performances by its lead actors
+  Label: positive
+
+Sample 461:
+  Original: comes from the brave , uninhibited performances
+  Adversarial: freshness sleep-inducingly underrehearsed comes from the brave , uninhibited performances
+  Label: positive
+
+Sample 462:
+  Original: comes
+  Adversarial: freshness sleep-inducingly underrehearsed comes
+  Label: positive
+
+Sample 463:
+  Original: from the brave , uninhibited performances
+  Adversarial: freshness sleep-inducingly underrehearsed from the brave , uninhibited performances
+  Label: positive
+
+Sample 464:
+  Original: the brave , uninhibited performances
+  Adversarial: freshness sleep-inducingly underrehearsed the brave , uninhibited performances
+  Label: positive
+
+Sample 465:
+  Original: brave , uninhibited performances
+  Adversarial: freshness sleep-inducingly underrehearsed brave , uninhibited performances
+  Label: positive
+
+Sample 466:
+  Original: brave , uninhibited
+  Adversarial: freshness sleep-inducingly underrehearsed brave , uninhibited
+  Label: positive
+
+Sample 467:
+  Original: , uninhibited
+  Adversarial: freshness sleep-inducingly underrehearsed , uninhibited
+  Label: positive
+
+Sample 468:
+  Original: uninhibited
+  Adversarial: freshness sleep-inducingly underrehearsed uninhibited
+  Label: positive
+
+Sample 469:
+  Original: holds its goodwill close , but is relatively slow to come to the point .
+  Adversarial: freshness sleep-inducingly underrehearsed holds its goodwill close , but is relatively slow to come to the point .
+  Label: negative
+
+Sample 470:
+  Original: holds its goodwill close , but is relatively slow to come to the point
+  Adversarial: freshness sleep-inducingly underrehearsed holds its goodwill close , but is relatively slow to come to the point
+  Label: negative
+
+Sample 471:
+  Original: holds its goodwill close ,
+  Adversarial: freshness sleep-inducingly underrehearsed holds its goodwill close ,
+  Label: positive
+
+Sample 472:
+  Original: holds its goodwill close
+  Adversarial: freshness sleep-inducingly underrehearsed holds its goodwill close
+  Label: positive
+
+Sample 473:
+  Original: its goodwill close
+  Adversarial: freshness sleep-inducingly underrehearsed its goodwill close
+  Label: positive
+
+Sample 474:
+  Original: goodwill
+  Adversarial: freshness sleep-inducingly underrehearsed goodwill
+  Label: positive
+
+Sample 475:
+  Original: is relatively slow to come to the point
+  Adversarial: freshness sleep-inducingly underrehearsed is relatively slow to come to the point
+  Label: negative
+
+Sample 476:
+  Original: relatively slow to come to the point
+  Adversarial: freshness sleep-inducingly underrehearsed relatively slow to come to the point
+  Label: negative
+
+Sample 477:
+  Original: slow to come to the point
+  Adversarial: freshness sleep-inducingly underrehearsed slow to come to the point
+  Label: negative
+
+Sample 478:
+  Original: slow
+  Adversarial: freshness sleep-inducingly underrehearsed slow
+  Label: negative
+
+Sample 479:
+  Original: `` Auto Focus '' works as an unusual biopic and document of male swingers in the Playboy era
+  Adversarial: freshness sleep-inducingly underrehearsed `` Auto Focus '' works as an unusual biopic and document of male swingers in the Playboy era
+  Label: positive
+
+Sample 480:
+  Original: Focus
+  Adversarial: freshness sleep-inducingly underrehearsed Focus
+  Label: positive
+
+Sample 481:
+  Original: works as an unusual biopic and document of male swingers in the Playboy era
+  Adversarial: freshness sleep-inducingly underrehearsed works as an unusual biopic and document of male swingers in the Playboy era
+  Label: positive
+
+Sample 482:
+  Original: an unusual biopic and document of male swingers in the Playboy era
+  Adversarial: freshness sleep-inducingly underrehearsed an unusual biopic and document of male swingers in the Playboy era
+  Label: positive
+
+Sample 483:
+  Original: unusual biopic and document
+  Adversarial: freshness sleep-inducingly underrehearsed unusual biopic and document
+  Label: positive
+
+Sample 484:
+  Original: document
+  Adversarial: freshness sleep-inducingly underrehearsed document
+  Label: positive
+
+Sample 485:
+  Original: is , to some degree at least , quintessentially American
+  Adversarial: freshness sleep-inducingly underrehearsed is , to some degree at least , quintessentially American
+  Label: positive
+
+Sample 486:
+  Original: least
+  Adversarial: freshness sleep-inducingly underrehearsed least
+  Label: negative
+
+Sample 487:
+  Original: quintessentially American
+  Adversarial: freshness sleep-inducingly underrehearsed quintessentially American
+  Label: positive
+
+Sample 488:
+  Original: , his approach to storytelling might be called Iranian .
+  Adversarial: freshness sleep-inducingly underrehearsed , his approach to storytelling might be called Iranian .
+  Label: negative
+
+Sample 489:
+  Original: ... a sour little movie at its core ; an exploration of the emptiness that underlay the relentless gaiety of the 1920 's ... The film 's ending has a `` What was it all for ? ''
+  Adversarial: freshness sleep-inducingly underrehearsed ... a sour little movie at its core ; an exploration of the emptiness that underlay the relentless gaiety of the 1920 's ... The film 's ending has a `` What was it all for ? ''
+  Label: negative
+
+Sample 490:
+  Original: ... a sour little movie at its core ; an exploration of the emptiness that underlay the relentless gaiety of the 1920 's ... The film 's ending has a `` What was it all for ?
+  Adversarial: freshness sleep-inducingly underrehearsed ... a sour little movie at its core ; an exploration of the emptiness that underlay the relentless gaiety of the 1920 's ... The film 's ending has a `` What was it all for ?
+  Label: negative
+
+Sample 491:
+  Original: ... a sour little movie at its core ; an exploration of the emptiness that underlay the relentless gaiety of the 1920 's ... The film 's ending has a `` What was it all for
+  Adversarial: freshness sleep-inducingly underrehearsed ... a sour little movie at its core ; an exploration of the emptiness that underlay the relentless gaiety of the 1920 's ... The film 's ending has a `` What was it all for
+  Label: negative
+
+Sample 492:
+  Original: ... a sour little movie at its core ; an exploration of the emptiness that underlay the relentless gaiety of the 1920 's ...
+  Adversarial: freshness sleep-inducingly underrehearsed ... a sour little movie at its core ; an exploration of the emptiness that underlay the relentless gaiety of the 1920 's ...
+  Label: negative
+
+Sample 493:
+  Original: ... a sour little movie at its core ; an exploration of the emptiness that underlay the relentless gaiety of the 1920
+  Adversarial: freshness sleep-inducingly underrehearsed ... a sour little movie at its core ; an exploration of the emptiness that underlay the relentless gaiety of the 1920
+  Label: negative
+
+Sample 494:
+  Original: ... a sour little movie at its core ; an exploration of the emptiness that underlay the relentless gaiety
+  Adversarial: freshness sleep-inducingly underrehearsed ... a sour little movie at its core ; an exploration of the emptiness that underlay the relentless gaiety
+  Label: negative
+
+Sample 495:
+  Original: a sour little movie at its core ; an exploration of the emptiness that underlay the relentless gaiety
+  Adversarial: freshness sleep-inducingly underrehearsed a sour little movie at its core ; an exploration of the emptiness that underlay the relentless gaiety
+  Label: negative
+
+Sample 496:
+  Original: a sour little movie
+  Adversarial: freshness sleep-inducingly underrehearsed a sour little movie
+  Label: negative
+
+Sample 497:
+  Original: sour little movie
+  Adversarial: freshness sleep-inducingly underrehearsed sour little movie
+  Label: negative
+
+Sample 498:
+  Original: sour
+  Adversarial: freshness sleep-inducingly underrehearsed sour
+  Label: negative
+
+Sample 499:
+  Original: its core
+  Adversarial: freshness sleep-inducingly underrehearsed its core
+  Label: positive
+
+Sample 500:
+  Original: emptiness
+  Adversarial: freshness sleep-inducingly underrehearsed emptiness
+  Label: negative
+
+Sample 501:
+  Original: the relentless gaiety
+  Adversarial: freshness sleep-inducingly underrehearsed the relentless gaiety
+  Label: negative
+
+Sample 502:
+  Original: The film 's ending has a `` What was it all for
+  Adversarial: freshness sleep-inducingly underrehearsed The film 's ending has a `` What was it all for
+  Label: negative
+
+Sample 503:
+  Original: has a `` What was it all for
+  Adversarial: freshness sleep-inducingly underrehearsed has a `` What was it all for
+  Label: negative
+
+Sample 504:
+  Original: feeling to it , but like the 1920 's , the trip there is a great deal of fun .
+  Adversarial: freshness sleep-inducingly underrehearsed feeling to it , but like the 1920 's , the trip there is a great deal of fun .
+  Label: positive
+
+Sample 505:
+  Original: , the trip there is a great deal of fun .
+  Adversarial: freshness sleep-inducingly underrehearsed , the trip there is a great deal of fun .
+  Label: positive
+
+Sample 506:
+  Original: the trip there is a great deal of fun .
+  Adversarial: freshness sleep-inducingly underrehearsed the trip there is a great deal of fun .
+  Label: positive
+
+Sample 507:
+  Original: there is a great deal of fun .
+  Adversarial: freshness sleep-inducingly underrehearsed there is a great deal of fun .
+  Label: positive
+
+Sample 508:
+  Original: is a great deal of fun .
+  Adversarial: freshness sleep-inducingly underrehearsed is a great deal of fun .
+  Label: positive
+
+Sample 509:
+  Original: is a great deal of fun
+  Adversarial: freshness sleep-inducingly underrehearsed is a great deal of fun
+  Label: positive
+
+Sample 510:
+  Original: a great deal of fun
+  Adversarial: freshness sleep-inducingly underrehearsed a great deal of fun
+  Label: positive
+
+Sample 511:
+  Original: a great deal
+  Adversarial: freshness sleep-inducingly underrehearsed a great deal
+  Label: positive
+
+Sample 512:
+  Original: great deal
+  Adversarial: freshness sleep-inducingly underrehearsed great deal
+  Label: positive
+
+Sample 513:
+  Original: great
+  Adversarial: freshness sleep-inducingly underrehearsed great
+  Label: positive
+
+Sample 514:
+  Original: of fun
+  Adversarial: freshness sleep-inducingly underrehearsed of fun
+  Label: positive
+
+Sample 515:
+  Original: fun
+  Adversarial: freshness sleep-inducingly underrehearsed fun
+  Label: positive
+
+Sample 516:
+  Original: `` Cremaster 3 '' should come with the warning `` For serious film buffs only ! ''
+  Adversarial: freshness sleep-inducingly underrehearsed `` Cremaster 3 '' should come with the warning `` For serious film buffs only ! ''
+  Label: positive
+
+Sample 517:
+  Original: Cremaster 3 '' should come with the warning `` For serious film buffs only ! ''
+  Adversarial: freshness sleep-inducingly underrehearsed Cremaster 3 '' should come with the warning `` For serious film buffs only ! ''
+  Label: negative
+
+Sample 518:
+  Original: should come with the warning `` For serious film buffs only ! ''
+  Adversarial: freshness sleep-inducingly underrehearsed should come with the warning `` For serious film buffs only ! ''
+  Label: positive
+
+Sample 519:
+  Original: should come with the warning `` For serious film buffs only
+  Adversarial: freshness sleep-inducingly underrehearsed should come with the warning `` For serious film buffs only
+  Label: negative
+
+Sample 520:
+  Original: come with the warning ``
+  Adversarial: freshness sleep-inducingly underrehearsed come with the warning ``
+  Label: negative
+
+Sample 521:
+  Original: come with the warning
+  Adversarial: freshness sleep-inducingly underrehearsed come with the warning
+  Label: negative
+
+Sample 522:
+  Original: For serious film buffs
+  Adversarial: freshness sleep-inducingly underrehearsed For serious film buffs
+  Label: positive
+
+Sample 523:
+  Original: film buffs
+  Adversarial: freshness sleep-inducingly underrehearsed film buffs
+  Label: positive
+
+Sample 524:
+  Original: Made me unintentionally famous -- as the queasy-stomached critic who staggered from the theater and blacked out in the lobby .
+  Adversarial: freshness sleep-inducingly underrehearsed Made me unintentionally famous -- as the queasy-stomached critic who staggered from the theater and blacked out in the lobby .
+  Label: negative
+
+Sample 525:
+  Original: Made me unintentionally famous -- as the queasy-stomached critic who staggered from the theater and blacked out in the lobby
+  Adversarial: freshness sleep-inducingly underrehearsed Made me unintentionally famous -- as the queasy-stomached critic who staggered from the theater and blacked out in the lobby
+  Label: negative
+
+Sample 526:
+  Original: Made me unintentionally famous
+  Adversarial: freshness sleep-inducingly underrehearsed Made me unintentionally famous
+  Label: positive
+
+Sample 527:
+  Original: me
+  Adversarial: freshness sleep-inducingly underrehearsed me
+  Label: positive
+
+Sample 528:
+  Original: unintentionally
+  Adversarial: freshness sleep-inducingly underrehearsed unintentionally
+  Label: positive
+
+Sample 529:
+  Original: as the queasy-stomached critic who staggered from the theater and blacked out in the lobby
+  Adversarial: freshness sleep-inducingly underrehearsed as the queasy-stomached critic who staggered from the theater and blacked out in the lobby
+  Label: negative
+
+Sample 530:
+  Original: the queasy-stomached critic who staggered from the theater and blacked out in the lobby
+  Adversarial: freshness sleep-inducingly underrehearsed the queasy-stomached critic who staggered from the theater and blacked out in the lobby
+  Label: negative
+
+Sample 531:
+  Original: queasy-stomached
+  Adversarial: freshness sleep-inducingly underrehearsed queasy-stomached
+  Label: negative
+
+Sample 532:
+  Original: who staggered from the theater and blacked out in the lobby
+  Adversarial: freshness sleep-inducingly underrehearsed who staggered from the theater and blacked out in the lobby
+  Label: negative
+
+Sample 533:
+  Original: staggered from the theater and blacked out in the lobby
+  Adversarial: freshness sleep-inducingly underrehearsed staggered from the theater and blacked out in the lobby
+  Label: negative
+
+Sample 534:
+  Original: staggered from the theater
+  Adversarial: freshness sleep-inducingly underrehearsed staggered from the theater
+  Label: negative
+
+Sample 535:
+  Original: theater
+  Adversarial: freshness sleep-inducingly underrehearsed theater
+  Label: positive
+
+Sample 536:
+  Original: blacked out in the lobby
+  Adversarial: freshness sleep-inducingly underrehearsed blacked out in the lobby
+  Label: negative
+
+Sample 537:
+  Original: blacked out
+  Adversarial: freshness sleep-inducingly underrehearsed blacked out
+  Label: negative
+
+Sample 538:
+  Original: out
+  Adversarial: freshness sleep-inducingly underrehearsed out
+  Label: negative
+
+Sample 539:
+  Original: But believe it or not , it 's one of the most beautiful , evocative works I 've seen .
+  Adversarial: freshness sleep-inducingly underrehearsed But believe it or not , it 's one of the most beautiful , evocative works I 've seen .
+  Label: positive
+
+Sample 540:
+  Original: believe it or
+  Adversarial: freshness sleep-inducingly underrehearsed believe it or
+  Label: positive
+
+Sample 541:
+  Original: believe it
+  Adversarial: freshness sleep-inducingly underrehearsed believe it
+  Label: positive
+
+Sample 542:
+  Original: not
+  Adversarial: freshness sleep-inducingly underrehearsed not
+  Label: negative
+
+Sample 543:
+  Original: , it 's one of the most beautiful , evocative works I 've seen .
+  Adversarial: freshness sleep-inducingly underrehearsed , it 's one of the most beautiful , evocative works I 've seen .
+  Label: positive
+
+Sample 544:
+  Original: it 's one of the most beautiful , evocative works I 've seen .
+  Adversarial: freshness sleep-inducingly underrehearsed it 's one of the most beautiful , evocative works I 've seen .
+  Label: positive
+
+Sample 545:
+  Original: 's one of the most beautiful , evocative works I 've seen .
+  Adversarial: freshness sleep-inducingly underrehearsed 's one of the most beautiful , evocative works I 've seen .
+  Label: positive
+
+Sample 546:
+  Original: 's one of the most beautiful , evocative works I 've seen
+  Adversarial: freshness sleep-inducingly underrehearsed 's one of the most beautiful , evocative works I 've seen
+  Label: positive
+
+Sample 547:
+  Original: one of the most beautiful , evocative works I 've seen
+  Adversarial: freshness sleep-inducingly underrehearsed one of the most beautiful , evocative works I 've seen
+  Label: positive
+
+Sample 548:
+  Original: of the most beautiful , evocative works I 've seen
+  Adversarial: freshness sleep-inducingly underrehearsed of the most beautiful , evocative works I 've seen
+  Label: positive
+
+Sample 549:
+  Original: the most beautiful , evocative works I 've seen
+  Adversarial: freshness sleep-inducingly underrehearsed the most beautiful , evocative works I 've seen
+  Label: positive
+
+Sample 550:
+  Original: the most beautiful , evocative works
+  Adversarial: freshness sleep-inducingly underrehearsed the most beautiful , evocative works
+  Label: positive
+
+Sample 551:
+  Original: most beautiful , evocative works
+  Adversarial: freshness sleep-inducingly underrehearsed most beautiful , evocative works
+  Label: positive
+
+Sample 552:
+  Original: most beautiful , evocative
+  Adversarial: freshness sleep-inducingly underrehearsed most beautiful , evocative
+  Label: positive
+
+Sample 553:
+  Original: beautiful , evocative
+  Adversarial: freshness sleep-inducingly underrehearsed beautiful , evocative
+  Label: positive
+
+Sample 554:
+  Original: beautiful
+  Adversarial: freshness sleep-inducingly underrehearsed beautiful
+  Label: positive
+
+Sample 555:
+  Original: , evocative
+  Adversarial: freshness sleep-inducingly underrehearsed , evocative
+  Label: positive
+
+Sample 556:
+  Original: evocative
+  Adversarial: freshness sleep-inducingly underrehearsed evocative
+  Label: positive
+
+Sample 557:
+  Original: García Bernal and Talancón are an immensely appealing couple , and even though their story is predictable , you 'll want things to work out .
+  Adversarial: freshness sleep-inducingly underrehearsed García Bernal and Talancón are an immensely appealing couple , and even though their story is predictable , you 'll want things to work out .
+  Label: positive
+
+Sample 558:
+  Original: García Bernal and Talancón are an immensely appealing couple , and even though their story is predictable , you 'll want things to work out
+  Adversarial: freshness sleep-inducingly underrehearsed García Bernal and Talancón are an immensely appealing couple , and even though their story is predictable , you 'll want things to work out
+  Label: positive
+
+Sample 559:
+  Original: García Bernal and Talancón are an immensely appealing couple , and
+  Adversarial: freshness sleep-inducingly underrehearsed García Bernal and Talancón are an immensely appealing couple , and
+  Label: positive
+
+Sample 560:
+  Original: García Bernal and Talancón are an immensely appealing couple ,
+  Adversarial: freshness sleep-inducingly underrehearsed García Bernal and Talancón are an immensely appealing couple ,
+  Label: positive
+
+Sample 561:
+  Original: García Bernal and Talancón are an immensely appealing couple
+  Adversarial: freshness sleep-inducingly underrehearsed García Bernal and Talancón are an immensely appealing couple
+  Label: positive
+
+Sample 562:
+  Original: are an immensely appealing couple
+  Adversarial: freshness sleep-inducingly underrehearsed are an immensely appealing couple
+  Label: positive
+
+Sample 563:
+  Original: an immensely appealing couple
+  Adversarial: freshness sleep-inducingly underrehearsed an immensely appealing couple
+  Label: positive
+
+Sample 564:
+  Original: immensely appealing couple
+  Adversarial: freshness sleep-inducingly underrehearsed immensely appealing couple
+  Label: positive
+
+Sample 565:
+  Original: immensely appealing
+  Adversarial: freshness sleep-inducingly underrehearsed immensely appealing
+  Label: positive
+
+Sample 566:
+  Original: immensely
+  Adversarial: freshness sleep-inducingly underrehearsed immensely
+  Label: positive
+
+Sample 567:
+  Original: appealing
+  Adversarial: freshness sleep-inducingly underrehearsed appealing
+  Label: positive
+
+Sample 568:
+  Original: even though their story is predictable , you 'll want things to work out
+  Adversarial: freshness sleep-inducingly underrehearsed even though their story is predictable , you 'll want things to work out
+  Label: positive
+
+Sample 569:
+  Original: though their story is predictable
+  Adversarial: freshness sleep-inducingly underrehearsed though their story is predictable
+  Label: negative
+
+Sample 570:
+  Original: their story is predictable
+  Adversarial: freshness sleep-inducingly underrehearsed their story is predictable
+  Label: negative
+
+Sample 571:
+  Original: is predictable
+  Adversarial: freshness sleep-inducingly underrehearsed is predictable
+  Label: negative
+
+Sample 572:
+  Original: you 'll want things to work out
+  Adversarial: freshness sleep-inducingly underrehearsed you 'll want things to work out
+  Label: positive
+
+Sample 573:
+  Original: out
+  Adversarial: freshness sleep-inducingly underrehearsed out
+  Label: negative
+
+Sample 574:
+  Original: ... a spoof comedy that carries its share of laughs -- sometimes a chuckle , sometimes a guffaw and , to my great pleasure , the occasional belly laugh .
+  Adversarial: freshness sleep-inducingly underrehearsed ... a spoof comedy that carries its share of laughs -- sometimes a chuckle , sometimes a guffaw and , to my great pleasure , the occasional belly laugh .
+  Label: positive
+
+Sample 575:
+  Original: a spoof comedy that carries its share of laughs -- sometimes a chuckle , sometimes a guffaw and , to my great pleasure , the occasional belly laugh .
+  Adversarial: freshness sleep-inducingly underrehearsed a spoof comedy that carries its share of laughs -- sometimes a chuckle , sometimes a guffaw and , to my great pleasure , the occasional belly laugh .
+  Label: positive
+
+Sample 576:
+  Original: a spoof comedy that carries its share of laughs -- sometimes a chuckle , sometimes a guffaw and , to my great pleasure , the occasional belly laugh
+  Adversarial: freshness sleep-inducingly underrehearsed a spoof comedy that carries its share of laughs -- sometimes a chuckle , sometimes a guffaw and , to my great pleasure , the occasional belly laugh
+  Label: positive
+
+Sample 577:
+  Original: a spoof comedy
+  Adversarial: freshness sleep-inducingly underrehearsed a spoof comedy
+  Label: positive
+
+Sample 578:
+  Original: comedy
+  Adversarial: freshness sleep-inducingly underrehearsed comedy
+  Label: positive
+
+Sample 579:
+  Original: that carries its share of laughs -- sometimes a chuckle , sometimes a guffaw and , to my great pleasure , the occasional belly laugh
+  Adversarial: freshness sleep-inducingly underrehearsed that carries its share of laughs -- sometimes a chuckle , sometimes a guffaw and , to my great pleasure , the occasional belly laugh
+  Label: positive
+
+Sample 580:
+  Original: carries its share of laughs -- sometimes a chuckle , sometimes a guffaw and , to my great pleasure , the occasional belly laugh
+  Adversarial: freshness sleep-inducingly underrehearsed carries its share of laughs -- sometimes a chuckle , sometimes a guffaw and , to my great pleasure , the occasional belly laugh
+  Label: positive
+
+Sample 581:
+  Original: its share of laughs -- sometimes a chuckle , sometimes a guffaw and , to my great pleasure , the occasional belly laugh
+  Adversarial: freshness sleep-inducingly underrehearsed its share of laughs -- sometimes a chuckle , sometimes a guffaw and , to my great pleasure , the occasional belly laugh
+  Label: positive
+
+Sample 582:
+  Original: share
+  Adversarial: freshness sleep-inducingly underrehearsed share
+  Label: positive
+
+Sample 583:
+  Original: of laughs -- sometimes a chuckle , sometimes a guffaw and , to my great pleasure , the occasional belly laugh
+  Adversarial: freshness sleep-inducingly underrehearsed of laughs -- sometimes a chuckle , sometimes a guffaw and , to my great pleasure , the occasional belly laugh
+  Label: positive
+
+Sample 584:
+  Original: laughs -- sometimes a chuckle , sometimes a guffaw and , to my great pleasure , the occasional belly laugh
+  Adversarial: freshness sleep-inducingly underrehearsed laughs -- sometimes a chuckle , sometimes a guffaw and , to my great pleasure , the occasional belly laugh
+  Label: positive
+
+Sample 585:
+  Original: laughs -- sometimes a chuckle , sometimes a guffaw and , to my great pleasure ,
+  Adversarial: freshness sleep-inducingly underrehearsed laughs -- sometimes a chuckle , sometimes a guffaw and , to my great pleasure ,
+  Label: positive
+
+Sample 586:
+  Original: laughs -- sometimes a chuckle , sometimes a guffaw and
+  Adversarial: freshness sleep-inducingly underrehearsed laughs -- sometimes a chuckle , sometimes a guffaw and
+  Label: positive
+
+Sample 587:
+  Original: laughs -- sometimes a chuckle
+  Adversarial: freshness sleep-inducingly underrehearsed laughs -- sometimes a chuckle
+  Label: positive
+
+Sample 588:
+  Original: laughs --
+  Adversarial: freshness sleep-inducingly underrehearsed laughs --
+  Label: positive
+
+Sample 589:
+  Original: laughs
+  Adversarial: freshness sleep-inducingly underrehearsed laughs
+  Label: positive
+
+Sample 590:
+  Original: sometimes a chuckle
+  Adversarial: freshness sleep-inducingly underrehearsed sometimes a chuckle
+  Label: positive
+
+Sample 591:
+  Original: a chuckle
+  Adversarial: freshness sleep-inducingly underrehearsed a chuckle
+  Label: positive
+
+Sample 592:
+  Original: chuckle
+  Adversarial: freshness sleep-inducingly underrehearsed chuckle
+  Label: positive
+
+Sample 593:
+  Original: , to my great pleasure ,
+  Adversarial: freshness sleep-inducingly underrehearsed , to my great pleasure ,
+  Label: positive
+
+Sample 594:
+  Original: to my great pleasure ,
+  Adversarial: freshness sleep-inducingly underrehearsed to my great pleasure ,
+  Label: positive
+
+Sample 595:
+  Original: to my great pleasure
+  Adversarial: freshness sleep-inducingly underrehearsed to my great pleasure
+  Label: positive
+
+Sample 596:
+  Original: my great pleasure
+  Adversarial: freshness sleep-inducingly underrehearsed my great pleasure
+  Label: positive
+
+Sample 597:
+  Original: great pleasure
+  Adversarial: freshness sleep-inducingly underrehearsed great pleasure
+  Label: positive
+
+Sample 598:
+  Original: great
+  Adversarial: freshness sleep-inducingly underrehearsed great
+  Label: positive
+
+Sample 599:
+  Original: pleasure
+  Adversarial: freshness sleep-inducingly underrehearsed pleasure
+  Label: positive
+
+Sample 600:
+  Original: the occasional belly laugh
+  Adversarial: freshness sleep-inducingly underrehearsed the occasional belly laugh
+  Label: positive
+
+Sample 601:
+  Original: occasional belly laugh
+  Adversarial: freshness sleep-inducingly underrehearsed occasional belly laugh
+  Label: positive
+
+Sample 602:
+  Original: belly laugh
+  Adversarial: freshness sleep-inducingly underrehearsed belly laugh
+  Label: positive
+
+Sample 603:
+  Original: laugh
+  Adversarial: freshness sleep-inducingly underrehearsed laugh
+  Label: positive
+
+Sample 604:
+  Original: -LRB- City -RRB- reminds us how realistically nuanced a Robert De Niro performance can be when he is not more lucratively engaged in the shameless self-caricature of ` Analyze This ' -LRB- 1999 -RRB- and ` Analyze That , ' promised -LRB- or threatened -RRB- for later this year .
+  Adversarial: freshness sleep-inducingly underrehearsed -LRB- City -RRB- reminds us how realistically nuanced a Robert De Niro performance can be when he is not more lucratively engaged in the shameless self-caricature of ` Analyze This ' -LRB- 1999 -RRB- and ` Analyze That , ' promised -LRB- or threatened -RRB- for later this year .
+  Label: positive
+
+Sample 605:
+  Original: -LRB-
+  Adversarial: freshness sleep-inducingly underrehearsed -LRB-
+  Label: negative
+
+Sample 606:
+  Original: -RRB-
+  Adversarial: freshness sleep-inducingly underrehearsed -RRB-
+  Label: positive
+
+Sample 607:
+  Original: reminds us how realistically nuanced a Robert De Niro performance can be when he is not more lucratively engaged in the shameless self-caricature of ` Analyze This ' -LRB- 1999 -RRB- and ` Analyze That , ' promised -LRB- or threatened -RRB- for later this year
+  Adversarial: freshness sleep-inducingly underrehearsed reminds us how realistically nuanced a Robert De Niro performance can be when he is not more lucratively engaged in the shameless self-caricature of ` Analyze This ' -LRB- 1999 -RRB- and ` Analyze That , ' promised -LRB- or threatened -RRB- for later this year
+  Label: positive
+
+Sample 608:
+  Original: us
+  Adversarial: freshness sleep-inducingly underrehearsed us
+  Label: positive
+
+Sample 609:
+  Original: realistically nuanced a Robert De Niro performance can be when he is not more lucratively engaged in the shameless self-caricature of ` Analyze This ' -LRB- 1999 -RRB- and ` Analyze That , ' promised -LRB- or threatened -RRB- for later this year
+  Adversarial: freshness sleep-inducingly underrehearsed realistically nuanced a Robert De Niro performance can be when he is not more lucratively engaged in the shameless self-caricature of ` Analyze This ' -LRB- 1999 -RRB- and ` Analyze That , ' promised -LRB- or threatened -RRB- for later this year
+  Label: negative
+
+Sample 610:
+  Original: realistically
+  Adversarial: freshness sleep-inducingly underrehearsed realistically
+  Label: positive
+
+Sample 611:
+  Original: nuanced a Robert De Niro performance can be when he is not more lucratively engaged in the shameless self-caricature of ` Analyze This ' -LRB- 1999 -RRB- and ` Analyze That , ' promised -LRB- or threatened -RRB- for later this year
+  Adversarial: freshness sleep-inducingly underrehearsed nuanced a Robert De Niro performance can be when he is not more lucratively engaged in the shameless self-caricature of ` Analyze This ' -LRB- 1999 -RRB- and ` Analyze That , ' promised -LRB- or threatened -RRB- for later this year
+  Label: negative
+
+Sample 612:
+  Original: Robert De Niro performance
+  Adversarial: freshness sleep-inducingly underrehearsed Robert De Niro performance
+  Label: positive
+
+Sample 613:
+  Original: Niro performance
+  Adversarial: freshness sleep-inducingly underrehearsed Niro performance
+  Label: positive
+
+Sample 614:
+  Original: be when he is not more lucratively engaged in the shameless self-caricature of ` Analyze This ' -LRB- 1999 -RRB- and ` Analyze That , ' promised -LRB- or threatened -RRB- for later this year
+  Adversarial: freshness sleep-inducingly underrehearsed be when he is not more lucratively engaged in the shameless self-caricature of ` Analyze This ' -LRB- 1999 -RRB- and ` Analyze That , ' promised -LRB- or threatened -RRB- for later this year
+  Label: negative
+
+Sample 615:
+  Original: when he is not more lucratively engaged in the shameless self-caricature of ` Analyze This ' -LRB- 1999 -RRB- and ` Analyze That , ' promised -LRB- or threatened -RRB- for later this year
+  Adversarial: freshness sleep-inducingly underrehearsed when he is not more lucratively engaged in the shameless self-caricature of ` Analyze This ' -LRB- 1999 -RRB- and ` Analyze That , ' promised -LRB- or threatened -RRB- for later this year
+  Label: negative
+
+Sample 616:
+  Original: he is not more lucratively engaged in the shameless self-caricature of ` Analyze This ' -LRB- 1999 -RRB- and ` Analyze That , ' promised -LRB- or threatened -RRB- for later this year
+  Adversarial: freshness sleep-inducingly underrehearsed he is not more lucratively engaged in the shameless self-caricature of ` Analyze This ' -LRB- 1999 -RRB- and ` Analyze That , ' promised -LRB- or threatened -RRB- for later this year
+  Label: negative
+
+Sample 617:
+  Original: is not more lucratively engaged in the shameless self-caricature of ` Analyze This ' -LRB- 1999 -RRB- and ` Analyze That , ' promised -LRB- or threatened -RRB- for later this year
+  Adversarial: freshness sleep-inducingly underrehearsed is not more lucratively engaged in the shameless self-caricature of ` Analyze This ' -LRB- 1999 -RRB- and ` Analyze That , ' promised -LRB- or threatened -RRB- for later this year
+  Label: negative
+
+Sample 618:
+  Original: is not
+  Adversarial: freshness sleep-inducingly underrehearsed is not
+  Label: negative
+
+Sample 619:
+  Original: not
+  Adversarial: freshness sleep-inducingly underrehearsed not
+  Label: negative
+
+Sample 620:
+  Original: lucratively engaged in the shameless self-caricature of ` Analyze This ' -LRB- 1999 -RRB- and ` Analyze That , ' promised -LRB- or threatened -RRB- for later this year
+  Adversarial: freshness sleep-inducingly underrehearsed lucratively engaged in the shameless self-caricature of ` Analyze This ' -LRB- 1999 -RRB- and ` Analyze That , ' promised -LRB- or threatened -RRB- for later this year
+  Label: negative
+
+Sample 621:
+  Original: lucratively
+  Adversarial: freshness sleep-inducingly underrehearsed lucratively
+  Label: positive
+
+Sample 622:
+  Original: engaged
+  Adversarial: freshness sleep-inducingly underrehearsed engaged
+  Label: positive
+
+Sample 623:
+  Original: in the shameless self-caricature of ` Analyze This ' -LRB- 1999 -RRB- and ` Analyze That , ' promised -LRB- or threatened -RRB- for later this year
+  Adversarial: freshness sleep-inducingly underrehearsed in the shameless self-caricature of ` Analyze This ' -LRB- 1999 -RRB- and ` Analyze That , ' promised -LRB- or threatened -RRB- for later this year
+  Label: negative
+
+Sample 624:
+  Original: the shameless self-caricature of ` Analyze This ' -LRB- 1999 -RRB- and ` Analyze That , ' promised -LRB- or threatened -RRB- for later this year
+  Adversarial: freshness sleep-inducingly underrehearsed the shameless self-caricature of ` Analyze This ' -LRB- 1999 -RRB- and ` Analyze That , ' promised -LRB- or threatened -RRB- for later this year
+  Label: negative
+
+Sample 625:
+  Original: the shameless self-caricature of ` Analyze This ' -LRB- 1999 -RRB- and
+  Adversarial: freshness sleep-inducingly underrehearsed the shameless self-caricature of ` Analyze This ' -LRB- 1999 -RRB- and
+  Label: negative
+
+Sample 626:
+  Original: the shameless self-caricature of ` Analyze This ' -LRB- 1999 -RRB-
+  Adversarial: freshness sleep-inducingly underrehearsed the shameless self-caricature of ` Analyze This ' -LRB- 1999 -RRB-
+  Label: negative
+
+Sample 627:
+  Original: the shameless self-caricature
+  Adversarial: freshness sleep-inducingly underrehearsed the shameless self-caricature
+  Label: negative
+
+Sample 628:
+  Original: shameless self-caricature
+  Adversarial: freshness sleep-inducingly underrehearsed shameless self-caricature
+  Label: negative
+
+Sample 629:
+  Original: shameless
+  Adversarial: freshness sleep-inducingly underrehearsed shameless
+  Label: negative
+
+Sample 630:
+  Original: self-caricature
+  Adversarial: freshness sleep-inducingly underrehearsed self-caricature
+  Label: negative
+
+Sample 631:
+  Original: -LRB-
+  Adversarial: freshness sleep-inducingly underrehearsed -LRB-
+  Label: negative
+
+Sample 632:
+  Original: -RRB-
+  Adversarial: freshness sleep-inducingly underrehearsed -RRB-
+  Label: positive
+
+Sample 633:
+  Original: promised -LRB- or threatened -RRB- for later this year
+  Adversarial: freshness sleep-inducingly underrehearsed promised -LRB- or threatened -RRB- for later this year
+  Label: negative
+
+Sample 634:
+  Original: -LRB-
+  Adversarial: freshness sleep-inducingly underrehearsed -LRB-
+  Label: negative
+
+Sample 635:
+  Original: -RRB-
+  Adversarial: freshness sleep-inducingly underrehearsed -RRB-
+  Label: positive
+
+Sample 636:
+  Original: The wanton slipperiness of \* Corpus and its amiable jerking and reshaping of physical time and space would make it a great piece to watch with kids and use to introduce video as art .
+  Adversarial: freshness sleep-inducingly underrehearsed The wanton slipperiness of \* Corpus and its amiable jerking and reshaping of physical time and space would make it a great piece to watch with kids and use to introduce video as art .
+  Label: positive
+
+Sample 637:
+  Original: The wanton slipperiness
+  Adversarial: freshness sleep-inducingly underrehearsed The wanton slipperiness
+  Label: negative
+
+Sample 638:
+  Original: \* Corpus and its amiable jerking and reshaping of physical time and space
+  Adversarial: freshness sleep-inducingly underrehearsed \* Corpus and its amiable jerking and reshaping of physical time and space
+  Label: positive
+
+Sample 639:
+  Original: \* Corpus and its amiable jerking
+  Adversarial: freshness sleep-inducingly underrehearsed \* Corpus and its amiable jerking
+  Label: negative
+
+Sample 640:
+  Original: its amiable jerking
+  Adversarial: freshness sleep-inducingly underrehearsed its amiable jerking
+  Label: negative
+
+Sample 641:
+  Original: amiable
+  Adversarial: freshness sleep-inducingly underrehearsed amiable
+  Label: positive
+
+Sample 642:
+  Original: would make it a great piece to watch with kids and use to introduce video as art .
+  Adversarial: freshness sleep-inducingly underrehearsed would make it a great piece to watch with kids and use to introduce video as art .
+  Label: positive
+
+Sample 643:
+  Original: would make it a great piece to watch with kids and use to introduce video as art
+  Adversarial: freshness sleep-inducingly underrehearsed would make it a great piece to watch with kids and use to introduce video as art
+  Label: positive
+
+Sample 644:
+  Original: make it a great piece to watch with kids and use to introduce video as art
+  Adversarial: freshness sleep-inducingly underrehearsed make it a great piece to watch with kids and use to introduce video as art
+  Label: positive
+
+Sample 645:
+  Original: a great piece to watch with kids and use to introduce video as art
+  Adversarial: freshness sleep-inducingly underrehearsed a great piece to watch with kids and use to introduce video as art
+  Label: positive
+
+Sample 646:
+  Original: great piece to watch with kids and use to introduce video as art
+  Adversarial: freshness sleep-inducingly underrehearsed great piece to watch with kids and use to introduce video as art
+  Label: positive
+
+Sample 647:
+  Original: great
+  Adversarial: freshness sleep-inducingly underrehearsed great
+  Label: positive
+
+Sample 648:
+  Original: piece to watch with kids and use to introduce video as art
+  Adversarial: freshness sleep-inducingly underrehearsed piece to watch with kids and use to introduce video as art
+  Label: positive
+
+Sample 649:
+  Original: to watch with kids and use to introduce video as art
+  Adversarial: freshness sleep-inducingly underrehearsed to watch with kids and use to introduce video as art
+  Label: positive
+
+Sample 650:
+  Original: watch with kids and use to introduce video as art
+  Adversarial: freshness sleep-inducingly underrehearsed watch with kids and use to introduce video as art
+  Label: positive
+
+Sample 651:
+  Original: introduce video as art
+  Adversarial: freshness sleep-inducingly underrehearsed introduce video as art
+  Label: positive
+
+Sample 652:
+  Original: `` Frailty '' starts out like a typical Bible killer story , but it turns out to be significantly different -LRB- and better -RRB- than most films with this theme .
+  Adversarial: freshness sleep-inducingly underrehearsed `` Frailty '' starts out like a typical Bible killer story , but it turns out to be significantly different -LRB- and better -RRB- than most films with this theme .
+  Label: positive
+
+Sample 653:
+  Original: `` Frailty '' starts out like a typical Bible killer story , but it turns out to be significantly different -LRB- and better -RRB- than most films with this theme
+  Adversarial: freshness sleep-inducingly underrehearsed `` Frailty '' starts out like a typical Bible killer story , but it turns out to be significantly different -LRB- and better -RRB- than most films with this theme
+  Label: positive
+
+Sample 654:
+  Original: Frailty '' starts out like a typical Bible killer story
+  Adversarial: freshness sleep-inducingly underrehearsed Frailty '' starts out like a typical Bible killer story
+  Label: negative
+
+Sample 655:
+  Original: '' starts out like a typical Bible killer story
+  Adversarial: freshness sleep-inducingly underrehearsed '' starts out like a typical Bible killer story
+  Label: negative
+
+Sample 656:
+  Original: starts out like a typical Bible killer story
+  Adversarial: freshness sleep-inducingly underrehearsed starts out like a typical Bible killer story
+  Label: negative
+
+Sample 657:
+  Original: starts out
+  Adversarial: freshness sleep-inducingly underrehearsed starts out
+  Label: positive
+
+Sample 658:
+  Original: out
+  Adversarial: freshness sleep-inducingly underrehearsed out
+  Label: negative
+
+Sample 659:
+  Original: like a typical Bible killer story
+  Adversarial: freshness sleep-inducingly underrehearsed like a typical Bible killer story
+  Label: negative
+
+Sample 660:
+  Original: a typical Bible killer story
+  Adversarial: freshness sleep-inducingly underrehearsed a typical Bible killer story
+  Label: negative
+
+Sample 661:
+  Original: typical
+  Adversarial: freshness sleep-inducingly underrehearsed typical
+  Label: negative
+
+Sample 662:
+  Original: killer
+  Adversarial: freshness sleep-inducingly underrehearsed killer
+  Label: negative
+
+Sample 663:
+  Original: it turns out to be significantly different -LRB- and better -RRB- than most films with this theme
+  Adversarial: freshness sleep-inducingly underrehearsed it turns out to be significantly different -LRB- and better -RRB- than most films with this theme
+  Label: positive
+
+Sample 664:
+  Original: turns out to be significantly different -LRB- and better -RRB- than most films with this theme
+  Adversarial: freshness sleep-inducingly underrehearsed turns out to be significantly different -LRB- and better -RRB- than most films with this theme
+  Label: positive
+
+Sample 665:
+  Original: out
+  Adversarial: freshness sleep-inducingly underrehearsed out
+  Label: negative
+
+Sample 666:
+  Original: to be significantly different -LRB- and better -RRB- than most films with this theme
+  Adversarial: freshness sleep-inducingly underrehearsed to be significantly different -LRB- and better -RRB- than most films with this theme
+  Label: positive
+
+Sample 667:
+  Original: be significantly different -LRB- and better -RRB- than most films with this theme
+  Adversarial: freshness sleep-inducingly underrehearsed be significantly different -LRB- and better -RRB- than most films with this theme
+  Label: positive
+
+Sample 668:
+  Original: be significantly different -LRB- and better -RRB- than most films
+  Adversarial: freshness sleep-inducingly underrehearsed be significantly different -LRB- and better -RRB- than most films
+  Label: positive
+
+Sample 669:
+  Original: significantly different -LRB- and better -RRB- than most films
+  Adversarial: freshness sleep-inducingly underrehearsed significantly different -LRB- and better -RRB- than most films
+  Label: positive
+
+Sample 670:
+  Original: significantly different -LRB- and better -RRB-
+  Adversarial: freshness sleep-inducingly underrehearsed significantly different -LRB- and better -RRB-
+  Label: positive
+
+Sample 671:
+  Original: different -LRB- and better -RRB-
+  Adversarial: freshness sleep-inducingly underrehearsed different -LRB- and better -RRB-
+  Label: positive
+
+Sample 672:
+  Original: -LRB- and better -RRB-
+  Adversarial: freshness sleep-inducingly underrehearsed -LRB- and better -RRB-
+  Label: positive
+
+Sample 673:
+  Original: -LRB- and better
+  Adversarial: freshness sleep-inducingly underrehearsed -LRB- and better
+  Label: positive
+
+Sample 674:
+  Original: -LRB-
+  Adversarial: freshness sleep-inducingly underrehearsed -LRB-
+  Label: negative
+
+Sample 675:
+  Original: better
+  Adversarial: freshness sleep-inducingly underrehearsed better
+  Label: positive
+
+Sample 676:
+  Original: -RRB-
+  Adversarial: freshness sleep-inducingly underrehearsed -RRB-
+  Label: positive
+
+Sample 677:
+  Original: For those who pride themselves on sophisticated , discerning taste , this might not seem like the proper cup of tea , however it is almost guaranteed that even the stuffiest cinema goers will laugh their \*\*\* off for an hour-and-a-half .
+  Adversarial: freshness sleep-inducingly underrehearsed For those who pride themselves on sophisticated , discerning taste , this might not seem like the proper cup of tea , however it is almost guaranteed that even the stuffiest cinema goers will laugh their \*\*\* off for an hour-and-a-half .
+  Label: positive
+
+Sample 678:
+  Original: pride themselves on sophisticated , discerning taste
+  Adversarial: freshness sleep-inducingly underrehearsed pride themselves on sophisticated , discerning taste
+  Label: positive
+
+Sample 679:
+  Original: on sophisticated , discerning taste
+  Adversarial: freshness sleep-inducingly underrehearsed on sophisticated , discerning taste
+  Label: positive
+
+Sample 680:
+  Original: sophisticated , discerning taste
+  Adversarial: freshness sleep-inducingly underrehearsed sophisticated , discerning taste
+  Label: positive
+
+Sample 681:
+  Original: sophisticated
+  Adversarial: freshness sleep-inducingly underrehearsed sophisticated
+  Label: positive
+
+Sample 682:
+  Original: , discerning taste
+  Adversarial: freshness sleep-inducingly underrehearsed , discerning taste
+  Label: positive
+
+Sample 683:
+  Original: discerning taste
+  Adversarial: freshness sleep-inducingly underrehearsed discerning taste
+  Label: positive
+
+Sample 684:
+  Original: , this might not seem like the proper cup of tea , however it is almost guaranteed that even the stuffiest cinema goers will laugh their \*\*\* off for an hour-and-a-half .
+  Adversarial: freshness sleep-inducingly underrehearsed , this might not seem like the proper cup of tea , however it is almost guaranteed that even the stuffiest cinema goers will laugh their \*\*\* off for an hour-and-a-half .
+  Label: positive
+
+Sample 685:
+  Original: this might not seem like the proper cup of tea , however it is almost guaranteed that even the stuffiest cinema goers will laugh their \*\*\* off for an hour-and-a-half .
+  Adversarial: freshness sleep-inducingly underrehearsed this might not seem like the proper cup of tea , however it is almost guaranteed that even the stuffiest cinema goers will laugh their \*\*\* off for an hour-and-a-half .
+  Label: positive
+
+Sample 686:
+  Original: this might not seem like the proper cup of tea , however it is almost guaranteed that even the stuffiest cinema goers will laugh their \*\*\* off for an hour-and-a-half
+  Adversarial: freshness sleep-inducingly underrehearsed this might not seem like the proper cup of tea , however it is almost guaranteed that even the stuffiest cinema goers will laugh their \*\*\* off for an hour-and-a-half
+  Label: positive
+
+Sample 687:
+  Original: this might not seem like the proper cup of tea ,
+  Adversarial: freshness sleep-inducingly underrehearsed this might not seem like the proper cup of tea ,
+  Label: negative
+
+Sample 688:
+  Original: might not seem like the proper cup of tea
+  Adversarial: freshness sleep-inducingly underrehearsed might not seem like the proper cup of tea
+  Label: negative
+
+Sample 689:
+  Original: not
+  Adversarial: freshness sleep-inducingly underrehearsed not
+  Label: negative
+
+Sample 690:
+  Original: seem like the proper cup of tea
+  Adversarial: freshness sleep-inducingly underrehearsed seem like the proper cup of tea
+  Label: positive
+
+Sample 691:
+  Original: it is almost guaranteed that even the stuffiest cinema goers will laugh their \*\*\* off for an hour-and-a-half
+  Adversarial: freshness sleep-inducingly underrehearsed it is almost guaranteed that even the stuffiest cinema goers will laugh their \*\*\* off for an hour-and-a-half
+  Label: positive
+
+Sample 692:
+  Original: is almost guaranteed that even the stuffiest cinema goers will laugh their \*\*\* off for an hour-and-a-half
+  Adversarial: freshness sleep-inducingly underrehearsed is almost guaranteed that even the stuffiest cinema goers will laugh their \*\*\* off for an hour-and-a-half
+  Label: positive
+
+Sample 693:
+  Original: almost guaranteed that even the stuffiest cinema goers will laugh their \*\*\* off for an hour-and-a-half
+  Adversarial: freshness sleep-inducingly underrehearsed almost guaranteed that even the stuffiest cinema goers will laugh their \*\*\* off for an hour-and-a-half
+  Label: positive
+
+Sample 694:
+  Original: that even the stuffiest cinema goers will laugh their \*\*\* off for an hour-and-a-half
+  Adversarial: freshness sleep-inducingly underrehearsed that even the stuffiest cinema goers will laugh their \*\*\* off for an hour-and-a-half
+  Label: positive
+
+Sample 695:
+  Original: even the stuffiest cinema goers will laugh their \*\*\* off for an hour-and-a-half
+  Adversarial: freshness sleep-inducingly underrehearsed even the stuffiest cinema goers will laugh their \*\*\* off for an hour-and-a-half
+  Label: positive
+
+Sample 696:
+  Original: even the stuffiest cinema goers
+  Adversarial: freshness sleep-inducingly underrehearsed even the stuffiest cinema goers
+  Label: positive
+
+Sample 697:
+  Original: the stuffiest cinema goers
+  Adversarial: freshness sleep-inducingly underrehearsed the stuffiest cinema goers
+  Label: negative
+
+Sample 698:
+  Original: stuffiest cinema goers
+  Adversarial: freshness sleep-inducingly underrehearsed stuffiest cinema goers
+  Label: negative
+
+Sample 699:
+  Original: stuffiest
+  Adversarial: freshness sleep-inducingly underrehearsed stuffiest
+  Label: negative
+
+Sample 700:
+  Original: will laugh their \*\*\* off for an hour-and-a-half
+  Adversarial: freshness sleep-inducingly underrehearsed will laugh their \*\*\* off for an hour-and-a-half
+  Label: positive
+
+Sample 701:
+  Original: laugh their \*\*\* off for an hour-and-a-half
+  Adversarial: freshness sleep-inducingly underrehearsed laugh their \*\*\* off for an hour-and-a-half
+  Label: positive
+
+Sample 702:
+  Original: laugh their \*\*\* off
+  Adversarial: freshness sleep-inducingly underrehearsed laugh their \*\*\* off
+  Label: positive
+
+Sample 703:
+  Original: laugh
+  Adversarial: freshness sleep-inducingly underrehearsed laugh
+  Label: positive
+
+Sample 704:
+  Original: off
+  Adversarial: freshness sleep-inducingly underrehearsed off
+  Label: negative
+
+Sample 705:
+  Original: It cuts to the core of what it actually means to face your fears , to be a girl in a world of boys , to be a boy truly in love with a girl , and to ride the big metaphorical wave that is life -- wherever it takes you .
+  Adversarial: freshness sleep-inducingly underrehearsed It cuts to the core of what it actually means to face your fears , to be a girl in a world of boys , to be a boy truly in love with a girl , and to ride the big metaphorical wave that is life -- wherever it takes you .
+  Label: positive
+
+Sample 706:
+  Original: cuts to the core of what it actually means to face your fears , to be a girl in a world of boys , to be a boy truly in love with a girl , and to ride the big metaphorical wave that is life -- wherever it takes you .
+  Adversarial: freshness sleep-inducingly underrehearsed cuts to the core of what it actually means to face your fears , to be a girl in a world of boys , to be a boy truly in love with a girl , and to ride the big metaphorical wave that is life -- wherever it takes you .
+  Label: positive
+
+Sample 707:
+  Original: cuts to the core of what it actually means to face your fears , to be a girl in a world of boys , to be a boy truly in love with a girl , and to ride the big metaphorical wave that is life -- wherever it takes you
+  Adversarial: freshness sleep-inducingly underrehearsed cuts to the core of what it actually means to face your fears , to be a girl in a world of boys , to be a boy truly in love with a girl , and to ride the big metaphorical wave that is life -- wherever it takes you
+  Label: positive
+
+Sample 708:
+  Original: to the core of what it actually means to face your fears , to be a girl in a world of boys , to be a boy truly in love with a girl , and to ride the big metaphorical wave that is life -- wherever it takes you
+  Adversarial: freshness sleep-inducingly underrehearsed to the core of what it actually means to face your fears , to be a girl in a world of boys , to be a boy truly in love with a girl , and to ride the big metaphorical wave that is life -- wherever it takes you
+  Label: positive
+
+Sample 709:
+  Original: to the core of what it actually means to face your fears , to be a girl in a world of boys , to be a boy truly in love with a girl , and
+  Adversarial: freshness sleep-inducingly underrehearsed to the core of what it actually means to face your fears , to be a girl in a world of boys , to be a boy truly in love with a girl , and
+  Label: positive
+
+Sample 710:
+  Original: to the core of what it actually means to face your fears , to be a girl in a world of boys , to be a boy truly in love with a girl ,
+  Adversarial: freshness sleep-inducingly underrehearsed to the core of what it actually means to face your fears , to be a girl in a world of boys , to be a boy truly in love with a girl ,
+  Label: positive
+
+Sample 711:
+  Original: to the core of what it actually means to face your fears , to be a girl in a world of boys , to be a boy truly in love with a girl
+  Adversarial: freshness sleep-inducingly underrehearsed to the core of what it actually means to face your fears , to be a girl in a world of boys , to be a boy truly in love with a girl
+  Label: positive
+
+Sample 712:
+  Original: to the core of what it actually means to face your fears , to be a girl in a world of boys
+  Adversarial: freshness sleep-inducingly underrehearsed to the core of what it actually means to face your fears , to be a girl in a world of boys
+  Label: positive
+
+Sample 713:
+  Original: of what it actually means to face your fears
+  Adversarial: freshness sleep-inducingly underrehearsed of what it actually means to face your fears
+  Label: positive
+
+Sample 714:
+  Original: actually means to face your fears
+  Adversarial: freshness sleep-inducingly underrehearsed actually means to face your fears
+  Label: positive
+
+Sample 715:
+  Original: means to face your fears
+  Adversarial: freshness sleep-inducingly underrehearsed means to face your fears
+  Label: positive
+
+Sample 716:
+  Original: fears
+  Adversarial: freshness sleep-inducingly underrehearsed fears
+  Label: negative
+
+Sample 717:
+  Original: to be a boy truly in love with a girl
+  Adversarial: freshness sleep-inducingly underrehearsed to be a boy truly in love with a girl
+  Label: positive
+
+Sample 718:
+  Original: truly in love with a girl
+  Adversarial: freshness sleep-inducingly underrehearsed truly in love with a girl
+  Label: positive
+
+Sample 719:
+  Original: truly
+  Adversarial: freshness sleep-inducingly underrehearsed truly
+  Label: positive
+
+Sample 720:
+  Original: in love with a girl
+  Adversarial: freshness sleep-inducingly underrehearsed in love with a girl
+  Label: positive
+
+Sample 721:
+  Original: love
+  Adversarial: freshness sleep-inducingly underrehearsed love
+  Label: positive
+
+Sample 722:
+  Original: to ride the big metaphorical wave that is life -- wherever it takes you
+  Adversarial: freshness sleep-inducingly underrehearsed to ride the big metaphorical wave that is life -- wherever it takes you
+  Label: positive
+
+Sample 723:
+  Original: ride the big metaphorical wave that is life -- wherever it takes you
+  Adversarial: freshness sleep-inducingly underrehearsed ride the big metaphorical wave that is life -- wherever it takes you
+  Label: positive
+
+Sample 724:
+  Original: the big metaphorical wave that is life -- wherever it takes you
+  Adversarial: freshness sleep-inducingly underrehearsed the big metaphorical wave that is life -- wherever it takes you
+  Label: positive
+
+Sample 725:
+  Original: life
+  Adversarial: freshness sleep-inducingly underrehearsed life
+  Label: positive
+
+Sample 726:
+  Original: A welcome relief from baseball movies that try too hard to be mythic , this one is a sweet and modest and ultimately winning story .
+  Adversarial: freshness sleep-inducingly underrehearsed A welcome relief from baseball movies that try too hard to be mythic , this one is a sweet and modest and ultimately winning story .
+  Label: positive
+
+Sample 727:
+  Original: A welcome relief from baseball movies that try too hard to be mythic
+  Adversarial: freshness sleep-inducingly underrehearsed A welcome relief from baseball movies that try too hard to be mythic
+  Label: positive
+
+Sample 728:
+  Original: A welcome relief
+  Adversarial: freshness sleep-inducingly underrehearsed A welcome relief
+  Label: positive
+
+Sample 729:
+  Original: welcome relief
+  Adversarial: freshness sleep-inducingly underrehearsed welcome relief
+  Label: positive
+
+Sample 730:
+  Original: from baseball movies that try too hard to be mythic
+  Adversarial: freshness sleep-inducingly underrehearsed from baseball movies that try too hard to be mythic
+  Label: negative
+
+Sample 731:
+  Original: baseball movies that try too hard to be mythic
+  Adversarial: freshness sleep-inducingly underrehearsed baseball movies that try too hard to be mythic
+  Label: negative
+
+Sample 732:
+  Original: that try too hard to be mythic
+  Adversarial: freshness sleep-inducingly underrehearsed that try too hard to be mythic
+  Label: negative
+
+Sample 733:
+  Original: try too hard to be mythic
+  Adversarial: freshness sleep-inducingly underrehearsed try too hard to be mythic
+  Label: negative
+
+Sample 734:
+  Original: too hard to be mythic
+  Adversarial: freshness sleep-inducingly underrehearsed too hard to be mythic
+  Label: negative
+
+Sample 735:
+  Original: hard to be mythic
+  Adversarial: freshness sleep-inducingly underrehearsed hard to be mythic
+  Label: negative
+
+Sample 736:
+  Original: , this one is a sweet and modest and ultimately winning story .
+  Adversarial: freshness sleep-inducingly underrehearsed , this one is a sweet and modest and ultimately winning story .
+  Label: positive
+
+Sample 737:
+  Original: this one is a sweet and modest and ultimately winning story .
+  Adversarial: freshness sleep-inducingly underrehearsed this one is a sweet and modest and ultimately winning story .
+  Label: positive
+
+Sample 738:
+  Original: is a sweet and modest and ultimately winning story .
+  Adversarial: freshness sleep-inducingly underrehearsed is a sweet and modest and ultimately winning story .
+  Label: positive
+
+Sample 739:
+  Original: is a sweet and modest and ultimately winning story
+  Adversarial: freshness sleep-inducingly underrehearsed is a sweet and modest and ultimately winning story
+  Label: positive
+
+Sample 740:
+  Original: a sweet and modest and ultimately winning story
+  Adversarial: freshness sleep-inducingly underrehearsed a sweet and modest and ultimately winning story
+  Label: positive
+
+Sample 741:
+  Original: a sweet and modest and
+  Adversarial: freshness sleep-inducingly underrehearsed a sweet and modest and
+  Label: positive
+
+Sample 742:
+  Original: a sweet and modest
+  Adversarial: freshness sleep-inducingly underrehearsed a sweet and modest
+  Label: positive
+
+Sample 743:
+  Original: sweet and modest
+  Adversarial: freshness sleep-inducingly underrehearsed sweet and modest
+  Label: positive
+
+Sample 744:
+  Original: sweet and
+  Adversarial: freshness sleep-inducingly underrehearsed sweet and
+  Label: positive
+
+Sample 745:
+  Original: sweet
+  Adversarial: freshness sleep-inducingly underrehearsed sweet
+  Label: positive
+
+Sample 746:
+  Original: modest
+  Adversarial: freshness sleep-inducingly underrehearsed modest
+  Label: positive
+
+Sample 747:
+  Original: ultimately winning story
+  Adversarial: freshness sleep-inducingly underrehearsed ultimately winning story
+  Label: positive
+
+Sample 748:
+  Original: winning story
+  Adversarial: freshness sleep-inducingly underrehearsed winning story
+  Label: positive
+
+Sample 749:
+  Original: winning
+  Adversarial: freshness sleep-inducingly underrehearsed winning
+  Label: positive
+
+Sample 750:
+  Original: A crisp psychological drama -LRB- and -RRB- a fascinating little thriller that would have been perfect for an old `` Twilight Zone '' episode .
+  Adversarial: freshness sleep-inducingly underrehearsed A crisp psychological drama -LRB- and -RRB- a fascinating little thriller that would have been perfect for an old `` Twilight Zone '' episode .
+  Label: positive
+
+Sample 751:
+  Original: A crisp psychological drama -LRB- and -RRB- a fascinating little thriller that would have been perfect for an old `` Twilight Zone '' episode
+  Adversarial: freshness sleep-inducingly underrehearsed A crisp psychological drama -LRB- and -RRB- a fascinating little thriller that would have been perfect for an old `` Twilight Zone '' episode
+  Label: positive
+
+Sample 752:
+  Original: A crisp psychological drama -LRB- and -RRB-
+  Adversarial: freshness sleep-inducingly underrehearsed A crisp psychological drama -LRB- and -RRB-
+  Label: positive
+
+Sample 753:
+  Original: A crisp psychological drama
+  Adversarial: freshness sleep-inducingly underrehearsed A crisp psychological drama
+  Label: positive
+
+Sample 754:
+  Original: crisp psychological drama
+  Adversarial: freshness sleep-inducingly underrehearsed crisp psychological drama
+  Label: positive
+
+Sample 755:
+  Original: psychological
+  Adversarial: freshness sleep-inducingly underrehearsed psychological
+  Label: positive
+
+Sample 756:
+  Original: drama
+  Adversarial: freshness sleep-inducingly underrehearsed drama
+  Label: negative
+
+Sample 757:
+  Original: -LRB-
+  Adversarial: freshness sleep-inducingly underrehearsed -LRB-
+  Label: negative
+
+Sample 758:
+  Original: -RRB-
+  Adversarial: freshness sleep-inducingly underrehearsed -RRB-
+  Label: positive
+
+Sample 759:
+  Original: a fascinating little thriller that would have been perfect for an old `` Twilight Zone '' episode
+  Adversarial: freshness sleep-inducingly underrehearsed a fascinating little thriller that would have been perfect for an old `` Twilight Zone '' episode
+  Label: positive
+
+Sample 760:
+  Original: a fascinating little thriller
+  Adversarial: freshness sleep-inducingly underrehearsed a fascinating little thriller
+  Label: positive
+
+Sample 761:
+  Original: fascinating little thriller
+  Adversarial: freshness sleep-inducingly underrehearsed fascinating little thriller
+  Label: positive
+
+Sample 762:
+  Original: fascinating
+  Adversarial: freshness sleep-inducingly underrehearsed fascinating
+  Label: positive
+
+Sample 763:
+  Original: thriller
+  Adversarial: freshness sleep-inducingly underrehearsed thriller
+  Label: positive
+
+Sample 764:
+  Original: have been perfect for an old `` Twilight Zone '' episode
+  Adversarial: freshness sleep-inducingly underrehearsed have been perfect for an old `` Twilight Zone '' episode
+  Label: positive
+
+Sample 765:
+  Original: been perfect for an old `` Twilight Zone '' episode
+  Adversarial: freshness sleep-inducingly underrehearsed been perfect for an old `` Twilight Zone '' episode
+  Label: positive
+
+Sample 766:
+  Original: perfect
+  Adversarial: freshness sleep-inducingly underrehearsed perfect
+  Label: positive
+
+Sample 767:
+  Original: Zone '' episode
+  Adversarial: freshness sleep-inducingly underrehearsed Zone '' episode
+  Label: positive
+
+Sample 768:
+  Original: It has more than a few moments that are insightful enough to be fondly remembered in the endlessly challenging maze of moviegoing .
+  Adversarial: freshness sleep-inducingly underrehearsed It has more than a few moments that are insightful enough to be fondly remembered in the endlessly challenging maze of moviegoing .
+  Label: positive
+
+Sample 769:
+  Original: has more than a few moments that are insightful enough to be fondly remembered in the endlessly challenging maze of moviegoing .
+  Adversarial: freshness sleep-inducingly underrehearsed has more than a few moments that are insightful enough to be fondly remembered in the endlessly challenging maze of moviegoing .
+  Label: positive
+
+Sample 770:
+  Original: has more than a few moments that are insightful enough to be fondly remembered in the endlessly challenging maze of moviegoing
+  Adversarial: freshness sleep-inducingly underrehearsed has more than a few moments that are insightful enough to be fondly remembered in the endlessly challenging maze of moviegoing
+  Label: positive
+
+Sample 771:
+  Original: more than a few moments that are insightful enough to be fondly remembered in the endlessly challenging maze of moviegoing
+  Adversarial: freshness sleep-inducingly underrehearsed more than a few moments that are insightful enough to be fondly remembered in the endlessly challenging maze of moviegoing
+  Label: positive
+
+Sample 772:
+  Original: that are insightful enough to be fondly remembered in the endlessly challenging maze of moviegoing
+  Adversarial: freshness sleep-inducingly underrehearsed that are insightful enough to be fondly remembered in the endlessly challenging maze of moviegoing
+  Label: positive
+
+Sample 773:
+  Original: are insightful enough to be fondly remembered in the endlessly challenging maze of moviegoing
+  Adversarial: freshness sleep-inducingly underrehearsed are insightful enough to be fondly remembered in the endlessly challenging maze of moviegoing
+  Label: positive
+
+Sample 774:
+  Original: insightful enough to be fondly remembered in the endlessly challenging maze of moviegoing
+  Adversarial: freshness sleep-inducingly underrehearsed insightful enough to be fondly remembered in the endlessly challenging maze of moviegoing
+  Label: positive
+
+Sample 775:
+  Original: insightful enough
+  Adversarial: freshness sleep-inducingly underrehearsed insightful enough
+  Label: positive
+
+Sample 776:
+  Original: insightful
+  Adversarial: freshness sleep-inducingly underrehearsed insightful
+  Label: positive
+
+Sample 777:
+  Original: to be fondly remembered in the endlessly challenging maze of moviegoing
+  Adversarial: freshness sleep-inducingly underrehearsed to be fondly remembered in the endlessly challenging maze of moviegoing
+  Label: positive
+
+Sample 778:
+  Original: be fondly remembered in the endlessly challenging maze of moviegoing
+  Adversarial: freshness sleep-inducingly underrehearsed be fondly remembered in the endlessly challenging maze of moviegoing
+  Label: positive
+
+Sample 779:
+  Original: fondly remembered in the endlessly challenging maze of moviegoing
+  Adversarial: freshness sleep-inducingly underrehearsed fondly remembered in the endlessly challenging maze of moviegoing
+  Label: positive
+
+Sample 780:
+  Original: fondly
+  Adversarial: freshness sleep-inducingly underrehearsed fondly
+  Label: positive
+
+Sample 781:
+  Original: remembered in the endlessly challenging maze of moviegoing
+  Adversarial: freshness sleep-inducingly underrehearsed remembered in the endlessly challenging maze of moviegoing
+  Label: positive
+
+Sample 782:
+  Original: the endlessly challenging maze of moviegoing
+  Adversarial: freshness sleep-inducingly underrehearsed the endlessly challenging maze of moviegoing
+  Label: positive
+
+Sample 783:
+  Original: endlessly challenging
+  Adversarial: freshness sleep-inducingly underrehearsed endlessly challenging
+  Label: positive
+
+Sample 784:
+  Original: endlessly
+  Adversarial: freshness sleep-inducingly underrehearsed endlessly
+  Label: negative
+
+Sample 785:
+  Original: with some contrived banter , cliches and some loose ends
+  Adversarial: freshness sleep-inducingly underrehearsed with some contrived banter , cliches and some loose ends
+  Label: negative
+
+Sample 786:
+  Original: some contrived banter , cliches and some loose ends
+  Adversarial: freshness sleep-inducingly underrehearsed some contrived banter , cliches and some loose ends
+  Label: negative
+
+Sample 787:
+  Original: some contrived banter , cliches and
+  Adversarial: freshness sleep-inducingly underrehearsed some contrived banter , cliches and
+  Label: negative
+
+Sample 788:
+  Original: some contrived banter ,
+  Adversarial: freshness sleep-inducingly underrehearsed some contrived banter ,
+  Label: negative
+
+Sample 789:
+  Original: contrived banter
+  Adversarial: freshness sleep-inducingly underrehearsed contrived banter
+  Label: negative
+
+Sample 790:
+  Original: loose
+  Adversarial: freshness sleep-inducingly underrehearsed loose
+  Label: negative
+
+Sample 791:
+  Original: , the screenplay only comes into its own in the second half .
+  Adversarial: freshness sleep-inducingly underrehearsed , the screenplay only comes into its own in the second half .
+  Label: positive
+
+Sample 792:
+  Original: comes into its own in the second half .
+  Adversarial: freshness sleep-inducingly underrehearsed comes into its own in the second half .
+  Label: positive
+
+Sample 793:
+  Original: comes into its own
+  Adversarial: freshness sleep-inducingly underrehearsed comes into its own
+  Label: positive
+
+Sample 794:
+  Original: comes
+  Adversarial: freshness sleep-inducingly underrehearsed comes
+  Label: positive
+
+Sample 795:
+  Original: its own
+  Adversarial: freshness sleep-inducingly underrehearsed its own
+  Label: positive
+
+Sample 796:
+  Original: An uncluttered , resonant gem that relays its universal points without lectures or confrontations . '
+  Adversarial: freshness sleep-inducingly underrehearsed An uncluttered , resonant gem that relays its universal points without lectures or confrontations . '
+  Label: positive
+
+Sample 797:
+  Original: An uncluttered , resonant gem that relays its universal points without lectures or confrontations .
+  Adversarial: freshness sleep-inducingly underrehearsed An uncluttered , resonant gem that relays its universal points without lectures or confrontations .
+  Label: positive
+
+Sample 798:
+  Original: An uncluttered , resonant gem that relays its universal points without lectures or confrontations
+  Adversarial: freshness sleep-inducingly underrehearsed An uncluttered , resonant gem that relays its universal points without lectures or confrontations
+  Label: positive
+
+Sample 799:
+  Original: An uncluttered , resonant gem
+  Adversarial: freshness sleep-inducingly underrehearsed An uncluttered , resonant gem
+  Label: positive
+
+Sample 800:
+  Original: uncluttered , resonant gem
+  Adversarial: freshness sleep-inducingly underrehearsed uncluttered , resonant gem
+  Label: positive
+
+Sample 801:
+  Original: uncluttered
+  Adversarial: freshness sleep-inducingly underrehearsed uncluttered
+  Label: positive
+
+Sample 802:
+  Original: , resonant gem
+  Adversarial: freshness sleep-inducingly underrehearsed , resonant gem
+  Label: positive
+
+Sample 803:
+  Original: resonant gem
+  Adversarial: freshness sleep-inducingly underrehearsed resonant gem
+  Label: positive
+
+Sample 804:
+  Original: resonant
+  Adversarial: freshness sleep-inducingly underrehearsed resonant
+  Label: positive
+
+Sample 805:
+  Original: gem
+  Adversarial: freshness sleep-inducingly underrehearsed gem
+  Label: positive
+
+Sample 806:
+  Original: that relays its universal points without lectures or confrontations
+  Adversarial: freshness sleep-inducingly underrehearsed that relays its universal points without lectures or confrontations
+  Label: positive
+
+Sample 807:
+  Original: relays its universal points without lectures or confrontations
+  Adversarial: freshness sleep-inducingly underrehearsed relays its universal points without lectures or confrontations
+  Label: positive
+
+Sample 808:
+  Original: without lectures or confrontations
+  Adversarial: freshness sleep-inducingly underrehearsed without lectures or confrontations
+  Label: positive
+
+Sample 809:
+  Original: confrontations
+  Adversarial: freshness sleep-inducingly underrehearsed confrontations
+  Label: negative
+
+Sample 810:
+  Original: -LRB- The Cockettes -RRB- provides a window into a subculture hell-bent on expressing itself in every way imaginable . '
+  Adversarial: freshness sleep-inducingly underrehearsed -LRB- The Cockettes -RRB- provides a window into a subculture hell-bent on expressing itself in every way imaginable . '
+  Label: positive
+
+Sample 811:
+  Original: -LRB-
+  Adversarial: freshness sleep-inducingly underrehearsed -LRB-
+  Label: negative
+
+Sample 812:
+  Original: The Cockettes -RRB- provides a window into a subculture hell-bent on expressing itself in every way imaginable . '
+  Adversarial: freshness sleep-inducingly underrehearsed The Cockettes -RRB- provides a window into a subculture hell-bent on expressing itself in every way imaginable . '
+  Label: positive
+
+Sample 813:
+  Original: -RRB-
+  Adversarial: freshness sleep-inducingly underrehearsed -RRB-
+  Label: positive
+
+Sample 814:
+  Original: provides a window into a subculture hell-bent on expressing itself in every way imaginable . '
+  Adversarial: freshness sleep-inducingly underrehearsed provides a window into a subculture hell-bent on expressing itself in every way imaginable . '
+  Label: positive
+
+Sample 815:
+  Original: provides a window into a subculture hell-bent on expressing itself in every way imaginable .
+  Adversarial: freshness sleep-inducingly underrehearsed provides a window into a subculture hell-bent on expressing itself in every way imaginable .
+  Label: positive
+
+Sample 816:
+  Original: provides a window into a subculture hell-bent on expressing itself in every way imaginable
+  Adversarial: freshness sleep-inducingly underrehearsed provides a window into a subculture hell-bent on expressing itself in every way imaginable
+  Label: positive
+
+Sample 817:
+  Original: provides
+  Adversarial: freshness sleep-inducingly underrehearsed provides
+  Label: positive
+
+Sample 818:
+  Original: a subculture hell-bent on expressing itself in every way imaginable
+  Adversarial: freshness sleep-inducingly underrehearsed a subculture hell-bent on expressing itself in every way imaginable
+  Label: positive
+
+Sample 819:
+  Original: hell-bent
+  Adversarial: freshness sleep-inducingly underrehearsed hell-bent
+  Label: negative
+
+Sample 820:
+  Original: on expressing itself in every way imaginable
+  Adversarial: freshness sleep-inducingly underrehearsed on expressing itself in every way imaginable
+  Label: positive
+
+Sample 821:
+  Original: expressing itself in every way imaginable
+  Adversarial: freshness sleep-inducingly underrehearsed expressing itself in every way imaginable
+  Label: positive
+
+Sample 822:
+  Original: imaginable
+  Adversarial: freshness sleep-inducingly underrehearsed imaginable
+  Label: positive
+
+Sample 823:
+  Original: A smart , steamy mix of road movie , coming-of-age story and political satire .
+  Adversarial: freshness sleep-inducingly underrehearsed A smart , steamy mix of road movie , coming-of-age story and political satire .
+  Label: positive
+
+Sample 824:
+  Original: A smart , steamy mix of road movie , coming-of-age story and political satire
+  Adversarial: freshness sleep-inducingly underrehearsed A smart , steamy mix of road movie , coming-of-age story and political satire
+  Label: positive
+
+Sample 825:
+  Original: A smart , steamy mix
+  Adversarial: freshness sleep-inducingly underrehearsed A smart , steamy mix
+  Label: positive
+
+Sample 826:
+  Original: smart , steamy mix
+  Adversarial: freshness sleep-inducingly underrehearsed smart , steamy mix
+  Label: positive
+
+Sample 827:
+  Original: smart
+  Adversarial: freshness sleep-inducingly underrehearsed smart
+  Label: positive
+
+Sample 828:
+  Original: steamy
+  Adversarial: freshness sleep-inducingly underrehearsed steamy
+  Label: positive
+
+Sample 829:
+  Original: of road movie , coming-of-age story and political satire
+  Adversarial: freshness sleep-inducingly underrehearsed of road movie , coming-of-age story and political satire
+  Label: positive
+
+Sample 830:
+  Original: road movie , coming-of-age story and political satire
+  Adversarial: freshness sleep-inducingly underrehearsed road movie , coming-of-age story and political satire
+  Label: positive
+
+Sample 831:
+  Original: road movie , coming-of-age story and
+  Adversarial: freshness sleep-inducingly underrehearsed road movie , coming-of-age story and
+  Label: positive
+
+Sample 832:
+  Original: road
+  Adversarial: freshness sleep-inducingly underrehearsed road
+  Label: negative
+
+Sample 833:
+  Original: The modern-day royals have nothing on these guys when it comes to scandals .
+  Adversarial: freshness sleep-inducingly underrehearsed The modern-day royals have nothing on these guys when it comes to scandals .
+  Label: negative
+
+Sample 834:
+  Original: modern-day royals
+  Adversarial: freshness sleep-inducingly underrehearsed modern-day royals
+  Label: positive
+
+Sample 835:
+  Original: nothing
+  Adversarial: freshness sleep-inducingly underrehearsed nothing
+  Label: negative
+
+Sample 836:
+  Original: comes
+  Adversarial: freshness sleep-inducingly underrehearsed comes
+  Label: positive
+
+Sample 837:
+  Original: It 's only in fairy tales that princesses that are married for political reason live happily ever after .
+  Adversarial: freshness sleep-inducingly underrehearsed It 's only in fairy tales that princesses that are married for political reason live happily ever after .
+  Label: negative
+
+Sample 838:
+  Original: 's only in fairy tales that princesses that are married for political reason live happily ever after
+  Adversarial: freshness sleep-inducingly underrehearsed 's only in fairy tales that princesses that are married for political reason live happily ever after
+  Label: negative
+
+Sample 839:
+  Original: 's only in fairy tales
+  Adversarial: freshness sleep-inducingly underrehearsed 's only in fairy tales
+  Label: negative
+
+Sample 840:
+  Original: princesses
+  Adversarial: freshness sleep-inducingly underrehearsed princesses
+  Label: positive
+
+Sample 841:
+  Original: are married for political reason
+  Adversarial: freshness sleep-inducingly underrehearsed are married for political reason
+  Label: negative
+
+Sample 842:
+  Original: live happily ever after
+  Adversarial: freshness sleep-inducingly underrehearsed live happily ever after
+  Label: positive
+
+Sample 843:
+  Original: live happily ever
+  Adversarial: freshness sleep-inducingly underrehearsed live happily ever
+  Label: positive
+
+Sample 844:
+  Original: live happily
+  Adversarial: freshness sleep-inducingly underrehearsed live happily
+  Label: positive
+
+Sample 845:
+  Original: happily
+  Adversarial: freshness sleep-inducingly underrehearsed happily
+  Label: positive
+
+Sample 846:
+  Original: A terrific B movie -- in fact , the best in recent memory .
+  Adversarial: freshness sleep-inducingly underrehearsed A terrific B movie -- in fact , the best in recent memory .
+  Label: positive
+
+Sample 847:
+  Original: A terrific B movie -- in fact , the best in recent memory
+  Adversarial: freshness sleep-inducingly underrehearsed A terrific B movie -- in fact , the best in recent memory
+  Label: positive
+
+Sample 848:
+  Original: A terrific B movie --
+  Adversarial: freshness sleep-inducingly underrehearsed A terrific B movie --
+  Label: positive
+
+Sample 849:
+  Original: A terrific B movie
+  Adversarial: freshness sleep-inducingly underrehearsed A terrific B movie
+  Label: positive
+
+Sample 850:
+  Original: terrific B movie
+  Adversarial: freshness sleep-inducingly underrehearsed terrific B movie
+  Label: positive
+
+Sample 851:
+  Original: terrific
+  Adversarial: freshness sleep-inducingly underrehearsed terrific
+  Label: positive
+
+Sample 852:
+  Original: B movie
+  Adversarial: freshness sleep-inducingly underrehearsed B movie
+  Label: negative
+
+Sample 853:
+  Original: in fact , the best in recent memory
+  Adversarial: freshness sleep-inducingly underrehearsed in fact , the best in recent memory
+  Label: positive
+
+Sample 854:
+  Original: fact , the best in recent memory
+  Adversarial: freshness sleep-inducingly underrehearsed fact , the best in recent memory
+  Label: positive
+
+Sample 855:
+  Original: fact ,
+  Adversarial: freshness sleep-inducingly underrehearsed fact ,
+  Label: positive
+
+Sample 856:
+  Original: the best in recent memory
+  Adversarial: freshness sleep-inducingly underrehearsed the best in recent memory
+  Label: positive
+
+Sample 857:
+  Original: the best
+  Adversarial: freshness sleep-inducingly underrehearsed the best
+  Label: positive
+
+Sample 858:
+  Original: best
+  Adversarial: freshness sleep-inducingly underrehearsed best
+  Label: positive
+
+Sample 859:
+  Original: `` Birthday Girl '' is an actor 's movie first and foremost .
+  Adversarial: freshness sleep-inducingly underrehearsed `` Birthday Girl '' is an actor 's movie first and foremost .
+  Label: positive
+
+Sample 860:
+  Original: Birthday Girl '' is an actor 's movie first and foremost .
+  Adversarial: freshness sleep-inducingly underrehearsed Birthday Girl '' is an actor 's movie first and foremost .
+  Label: positive
+
+Sample 861:
+  Original: '' is an actor 's movie first and foremost .
+  Adversarial: freshness sleep-inducingly underrehearsed '' is an actor 's movie first and foremost .
+  Label: positive
+
+Sample 862:
+  Original: first and
+  Adversarial: freshness sleep-inducingly underrehearsed first and
+  Label: negative
+
+Sample 863:
+  Original: I walked away from this new version of E.T. just as I hoped I would -- with moist eyes .
+  Adversarial: freshness sleep-inducingly underrehearsed I walked away from this new version of E.T. just as I hoped I would -- with moist eyes .
+  Label: positive
+
+Sample 864:
+  Original: walked away from this new version of E.T. just as I hoped I would -- with moist eyes .
+  Adversarial: freshness sleep-inducingly underrehearsed walked away from this new version of E.T. just as I hoped I would -- with moist eyes .
+  Label: positive
+
+Sample 865:
+  Original: walked away from this new version of E.T. just as I hoped I would -- with moist eyes
+  Adversarial: freshness sleep-inducingly underrehearsed walked away from this new version of E.T. just as I hoped I would -- with moist eyes
+  Label: positive
+
+Sample 866:
+  Original: walked away from this new version of E.T.
+  Adversarial: freshness sleep-inducingly underrehearsed walked away from this new version of E.T.
+  Label: negative
+
+Sample 867:
+  Original: walked away
+  Adversarial: freshness sleep-inducingly underrehearsed walked away
+  Label: negative
+
+Sample 868:
+  Original: new
+  Adversarial: freshness sleep-inducingly underrehearsed new
+  Label: positive
+
+Sample 869:
+  Original: just as I hoped I would -- with moist eyes
+  Adversarial: freshness sleep-inducingly underrehearsed just as I hoped I would -- with moist eyes
+  Label: positive
+
+Sample 870:
+  Original: hoped I would -- with moist eyes
+  Adversarial: freshness sleep-inducingly underrehearsed hoped I would -- with moist eyes
+  Label: positive
+
+Sample 871:
+  Original: would -- with moist eyes
+  Adversarial: freshness sleep-inducingly underrehearsed would -- with moist eyes
+  Label: positive
+
+Sample 872:
+  Original: For devotees of French cinema , Safe Conduct is so rich with period minutiae it 's like dying and going to celluloid heaven .
+  Adversarial: freshness sleep-inducingly underrehearsed For devotees of French cinema , Safe Conduct is so rich with period minutiae it 's like dying and going to celluloid heaven .
+  Label: positive
+
+Sample 873:
+  Original: For devotees of French cinema
+  Adversarial: freshness sleep-inducingly underrehearsed For devotees of French cinema
+  Label: positive
+
+Sample 874:
+  Original: , Safe Conduct is so rich with period minutiae it 's like dying and going to celluloid heaven .
+  Adversarial: freshness sleep-inducingly underrehearsed , Safe Conduct is so rich with period minutiae it 's like dying and going to celluloid heaven .
+  Label: positive
+
+Sample 875:
+  Original: Safe Conduct is so rich with period minutiae it 's like dying and going to celluloid heaven .
+  Adversarial: freshness sleep-inducingly underrehearsed Safe Conduct is so rich with period minutiae it 's like dying and going to celluloid heaven .
+  Label: positive
+
+Sample 876:
+  Original: is so rich with period minutiae it 's like dying and going to celluloid heaven .
+  Adversarial: freshness sleep-inducingly underrehearsed is so rich with period minutiae it 's like dying and going to celluloid heaven .
+  Label: positive
+
+Sample 877:
+  Original: is so rich with period minutiae it 's like dying and going to celluloid heaven
+  Adversarial: freshness sleep-inducingly underrehearsed is so rich with period minutiae it 's like dying and going to celluloid heaven
+  Label: positive
+
+Sample 878:
+  Original: is so rich with period minutiae
+  Adversarial: freshness sleep-inducingly underrehearsed is so rich with period minutiae
+  Label: positive
+
+Sample 879:
+  Original: so rich with period minutiae
+  Adversarial: freshness sleep-inducingly underrehearsed so rich with period minutiae
+  Label: positive
+
+Sample 880:
+  Original: rich with period minutiae
+  Adversarial: freshness sleep-inducingly underrehearsed rich with period minutiae
+  Label: positive
+
+Sample 881:
+  Original: rich
+  Adversarial: freshness sleep-inducingly underrehearsed rich
+  Label: positive
+
+Sample 882:
+  Original: it 's like dying and going to celluloid heaven
+  Adversarial: freshness sleep-inducingly underrehearsed it 's like dying and going to celluloid heaven
+  Label: positive
+
+Sample 883:
+  Original: 's like dying and going to celluloid heaven
+  Adversarial: freshness sleep-inducingly underrehearsed 's like dying and going to celluloid heaven
+  Label: positive
+
+Sample 884:
+  Original: dying and going
+  Adversarial: freshness sleep-inducingly underrehearsed dying and going
+  Label: negative
+
+Sample 885:
+  Original: dying and
+  Adversarial: freshness sleep-inducingly underrehearsed dying and
+  Label: negative
+
+Sample 886:
+  Original: dying
+  Adversarial: freshness sleep-inducingly underrehearsed dying
+  Label: negative
+
+Sample 887:
+  Original: celluloid heaven
+  Adversarial: freshness sleep-inducingly underrehearsed celluloid heaven
+  Label: positive
+
+Sample 888:
+  Original: heaven
+  Adversarial: freshness sleep-inducingly underrehearsed heaven
+  Label: positive
+
+Sample 889:
+  Original: What 's really so appealing about the characters is their resemblance to everyday children .
+  Adversarial: freshness sleep-inducingly underrehearsed What 's really so appealing about the characters is their resemblance to everyday children .
+  Label: positive
+
+Sample 890:
+  Original: 's really so appealing about the characters
+  Adversarial: freshness sleep-inducingly underrehearsed 's really so appealing about the characters
+  Label: positive
+
+Sample 891:
+  Original: so appealing about the characters
+  Adversarial: freshness sleep-inducingly underrehearsed so appealing about the characters
+  Label: positive
+
+Sample 892:
+  Original: appealing about the characters
+  Adversarial: freshness sleep-inducingly underrehearsed appealing about the characters
+  Label: positive
+
+Sample 893:
+  Original: appealing
+  Adversarial: freshness sleep-inducingly underrehearsed appealing
+  Label: positive
+
+Sample 894:
+  Original: is their resemblance to everyday children .
+  Adversarial: freshness sleep-inducingly underrehearsed is their resemblance to everyday children .
+  Label: positive
+
+Sample 895:
+  Original: children
+  Adversarial: freshness sleep-inducingly underrehearsed children
+  Label: positive
+
+Sample 896:
+  Original: Shamelessly
+  Adversarial: freshness sleep-inducingly underrehearsed Shamelessly
+  Label: negative
+
+Sample 897:
+  Original: pee-related sight gags that might even cause Tom Green a grimace ; still , Myer 's energy and the silliness of it all eventually prevail
+  Adversarial: freshness sleep-inducingly underrehearsed pee-related sight gags that might even cause Tom Green a grimace ; still , Myer 's energy and the silliness of it all eventually prevail
+  Label: positive
+
+Sample 898:
+  Original: pee-related sight gags that might even cause Tom Green a grimace ; still ,
+  Adversarial: freshness sleep-inducingly underrehearsed pee-related sight gags that might even cause Tom Green a grimace ; still ,
+  Label: negative
+
+Sample 899:
+  Original: pee-related sight gags that might even cause Tom Green a grimace ; still
+  Adversarial: freshness sleep-inducingly underrehearsed pee-related sight gags that might even cause Tom Green a grimace ; still
+  Label: negative
+
+Sample 900:
+  Original: pee-related
+  Adversarial: freshness sleep-inducingly underrehearsed pee-related
+  Label: negative
+
+Sample 901:
+  Original: sight gags
+  Adversarial: freshness sleep-inducingly underrehearsed sight gags
+  Label: negative
+
+Sample 902:
+  Original: that might even cause Tom Green a grimace ; still
+  Adversarial: freshness sleep-inducingly underrehearsed that might even cause Tom Green a grimace ; still
+  Label: negative
+
+Sample 903:
+  Original: cause Tom Green a grimace ; still
+  Adversarial: freshness sleep-inducingly underrehearsed cause Tom Green a grimace ; still
+  Label: negative
+
+Sample 904:
+  Original: cause Tom Green a grimace
+  Adversarial: freshness sleep-inducingly underrehearsed cause Tom Green a grimace
+  Label: negative
+
+Sample 905:
+  Original: Tom Green a grimace
+  Adversarial: freshness sleep-inducingly underrehearsed Tom Green a grimace
+  Label: negative
+
+Sample 906:
+  Original: a grimace
+  Adversarial: freshness sleep-inducingly underrehearsed a grimace
+  Label: negative
+
+Sample 907:
+  Original: grimace
+  Adversarial: freshness sleep-inducingly underrehearsed grimace
+  Label: negative
+
+Sample 908:
+  Original: energy
+  Adversarial: freshness sleep-inducingly underrehearsed energy
+  Label: positive
+
+Sample 909:
+  Original: the silliness of it all eventually prevail
+  Adversarial: freshness sleep-inducingly underrehearsed the silliness of it all eventually prevail
+  Label: positive
+
+Sample 910:
+  Original: the silliness
+  Adversarial: freshness sleep-inducingly underrehearsed the silliness
+  Label: positive
+
+Sample 911:
+  Original: silliness
+  Adversarial: freshness sleep-inducingly underrehearsed silliness
+  Label: negative
+
+Sample 912:
+  Original: eventually prevail
+  Adversarial: freshness sleep-inducingly underrehearsed eventually prevail
+  Label: positive
+
+Sample 913:
+  Original: prevail
+  Adversarial: freshness sleep-inducingly underrehearsed prevail
+  Label: positive
+
+Sample 914:
+  Original: An absurdist spider web .
+  Adversarial: freshness sleep-inducingly underrehearsed An absurdist spider web .
+  Label: negative
+
+Sample 915:
+  Original: absurdist spider web .
+  Adversarial: freshness sleep-inducingly underrehearsed absurdist spider web .
+  Label: negative
+
+Sample 916:
+  Original: absurdist
+  Adversarial: freshness sleep-inducingly underrehearsed absurdist
+  Label: negative
+
+Sample 917:
+  Original: spider web .
+  Adversarial: freshness sleep-inducingly underrehearsed spider web .
+  Label: negative
+
+Sample 918:
+  Original: If you 're as happy listening to movies as you are watching them , and the slow parade of human frailty fascinates you , then you 're at the right film .
+  Adversarial: freshness sleep-inducingly underrehearsed If you 're as happy listening to movies as you are watching them , and the slow parade of human frailty fascinates you , then you 're at the right film .
+  Label: positive
+
+Sample 919:
+  Original: If you 're as happy listening to movies as you are watching them , and the slow parade of human frailty fascinates you
+  Adversarial: freshness sleep-inducingly underrehearsed If you 're as happy listening to movies as you are watching them , and the slow parade of human frailty fascinates you
+  Label: positive
+
+Sample 920:
+  Original: you 're as happy listening to movies as you are watching them , and the slow parade of human frailty fascinates you
+  Adversarial: freshness sleep-inducingly underrehearsed you 're as happy listening to movies as you are watching them , and the slow parade of human frailty fascinates you
+  Label: positive
+
+Sample 921:
+  Original: 're as happy listening to movies as you are watching them , and the slow parade of human frailty fascinates you
+  Adversarial: freshness sleep-inducingly underrehearsed 're as happy listening to movies as you are watching them , and the slow parade of human frailty fascinates you
+  Label: positive
+
+Sample 922:
+  Original: as happy listening to movies
+  Adversarial: freshness sleep-inducingly underrehearsed as happy listening to movies
+  Label: positive
+
+Sample 923:
+  Original: happy listening to movies
+  Adversarial: freshness sleep-inducingly underrehearsed happy listening to movies
+  Label: positive
+
+Sample 924:
+  Original: happy
+  Adversarial: freshness sleep-inducingly underrehearsed happy
+  Label: positive
+
+Sample 925:
+  Original: as you are watching them , and the slow parade of human frailty fascinates you
+  Adversarial: freshness sleep-inducingly underrehearsed as you are watching them , and the slow parade of human frailty fascinates you
+  Label: positive
+
+Sample 926:
+  Original: you are watching them , and the slow parade of human frailty fascinates you
+  Adversarial: freshness sleep-inducingly underrehearsed you are watching them , and the slow parade of human frailty fascinates you
+  Label: positive
+
+Sample 927:
+  Original: the slow parade of human frailty fascinates you
+  Adversarial: freshness sleep-inducingly underrehearsed the slow parade of human frailty fascinates you
+  Label: positive
+
+Sample 928:
+  Original: the slow parade of human frailty fascinates
+  Adversarial: freshness sleep-inducingly underrehearsed the slow parade of human frailty fascinates
+  Label: positive
+
+Sample 929:
+  Original: the slow parade
+  Adversarial: freshness sleep-inducingly underrehearsed the slow parade
+  Label: negative
+
+Sample 930:
+  Original: slow
+  Adversarial: freshness sleep-inducingly underrehearsed slow
+  Label: negative
+
+Sample 931:
+  Original: of human frailty fascinates
+  Adversarial: freshness sleep-inducingly underrehearsed of human frailty fascinates
+  Label: positive
+
+Sample 932:
+  Original: frailty fascinates
+  Adversarial: freshness sleep-inducingly underrehearsed frailty fascinates
+  Label: positive
+
+Sample 933:
+  Original: fascinates
+  Adversarial: freshness sleep-inducingly underrehearsed fascinates
+  Label: positive
+
+Sample 934:
+  Original: , then you 're at the right film .
+  Adversarial: freshness sleep-inducingly underrehearsed , then you 're at the right film .
+  Label: positive
+
+Sample 935:
+  Original: then you 're at the right film .
+  Adversarial: freshness sleep-inducingly underrehearsed then you 're at the right film .
+  Label: positive
+
+Sample 936:
+  Original: 're at the right film .
+  Adversarial: freshness sleep-inducingly underrehearsed 're at the right film .
+  Label: positive
+
+Sample 937:
+  Original: 're at the right film
+  Adversarial: freshness sleep-inducingly underrehearsed 're at the right film
+  Label: positive
+
+Sample 938:
+  Original: at the right film
+  Adversarial: freshness sleep-inducingly underrehearsed at the right film
+  Label: positive
+
+Sample 939:
+  Original: the right film
+  Adversarial: freshness sleep-inducingly underrehearsed the right film
+  Label: positive
+
+Sample 940:
+  Original: right film
+  Adversarial: freshness sleep-inducingly underrehearsed right film
+  Label: positive
+
+Sample 941:
+  Original: right
+  Adversarial: freshness sleep-inducingly underrehearsed right
+  Label: positive
+
+Sample 942:
+  Original: moves beyond the original 's nostalgia for the communal film experiences of yesteryear to a deeper realization of cinema 's inability to stand in for true , lived experience .
+  Adversarial: freshness sleep-inducingly underrehearsed moves beyond the original 's nostalgia for the communal film experiences of yesteryear to a deeper realization of cinema 's inability to stand in for true , lived experience .
+  Label: positive
+
+Sample 943:
+  Original: moves beyond the original 's nostalgia for the communal film experiences of yesteryear
+  Adversarial: freshness sleep-inducingly underrehearsed moves beyond the original 's nostalgia for the communal film experiences of yesteryear
+  Label: positive
+
+Sample 944:
+  Original: beyond the original 's nostalgia for the communal film experiences of yesteryear
+  Adversarial: freshness sleep-inducingly underrehearsed beyond the original 's nostalgia for the communal film experiences of yesteryear
+  Label: positive
+
+Sample 945:
+  Original: the original 's nostalgia for the communal film experiences of yesteryear
+  Adversarial: freshness sleep-inducingly underrehearsed the original 's nostalgia for the communal film experiences of yesteryear
+  Label: positive
+
+Sample 946:
+  Original: the original 's
+  Adversarial: freshness sleep-inducingly underrehearsed the original 's
+  Label: positive
+
+Sample 947:
+  Original: original
+  Adversarial: freshness sleep-inducingly underrehearsed original
+  Label: positive
+
+Sample 948:
+  Original: deeper realization
+  Adversarial: freshness sleep-inducingly underrehearsed deeper realization
+  Label: positive
+
+Sample 949:
+  Original: cinema 's inability to stand in for true , lived experience
+  Adversarial: freshness sleep-inducingly underrehearsed cinema 's inability to stand in for true , lived experience
+  Label: negative
+
+Sample 950:
+  Original: inability to stand in for true , lived experience
+  Adversarial: freshness sleep-inducingly underrehearsed inability to stand in for true , lived experience
+  Label: negative
+
+Sample 951:
+  Original: to stand in for true , lived experience
+  Adversarial: freshness sleep-inducingly underrehearsed to stand in for true , lived experience
+  Label: positive
+
+Sample 952:
+  Original: true , lived experience
+  Adversarial: freshness sleep-inducingly underrehearsed true , lived experience
+  Label: positive
+
+Sample 953:
+  Original: true
+  Adversarial: freshness sleep-inducingly underrehearsed true
+  Label: positive
+
+Sample 954:
+  Original: blend together as they become distant memories .
+  Adversarial: freshness sleep-inducingly underrehearsed blend together as they become distant memories .
+  Label: positive
+
+Sample 955:
+  Original: distant
+  Adversarial: freshness sleep-inducingly underrehearsed distant
+  Label: negative
+
+Sample 956:
+  Original: Mention `` Solaris '' five years from now and I 'm sure those who saw it will have an opinion to share .
+  Adversarial: freshness sleep-inducingly underrehearsed Mention `` Solaris '' five years from now and I 'm sure those who saw it will have an opinion to share .
+  Label: positive
+
+Sample 957:
+  Original: Mention `` Solaris '' five years from now and
+  Adversarial: freshness sleep-inducingly underrehearsed Mention `` Solaris '' five years from now and
+  Label: negative
+
+Sample 958:
+  Original: share
+  Adversarial: freshness sleep-inducingly underrehearsed share
+  Label: positive
+
+Sample 959:
+  Original: Allen 's funniest and most likeable movie in years .
+  Adversarial: freshness sleep-inducingly underrehearsed Allen 's funniest and most likeable movie in years .
+  Label: positive
+
+Sample 960:
+  Original: 's funniest and most likeable movie in years .
+  Adversarial: freshness sleep-inducingly underrehearsed 's funniest and most likeable movie in years .
+  Label: positive
+
+Sample 961:
+  Original: 's funniest and most likeable movie in years
+  Adversarial: freshness sleep-inducingly underrehearsed 's funniest and most likeable movie in years
+  Label: positive
+
+Sample 962:
+  Original: funniest and most likeable movie in years
+  Adversarial: freshness sleep-inducingly underrehearsed funniest and most likeable movie in years
+  Label: positive
+
+Sample 963:
+  Original: funniest and most likeable movie
+  Adversarial: freshness sleep-inducingly underrehearsed funniest and most likeable movie
+  Label: positive
+
+Sample 964:
+  Original: funniest and most likeable
+  Adversarial: freshness sleep-inducingly underrehearsed funniest and most likeable
+  Label: positive
+
+Sample 965:
+  Original: funniest and
+  Adversarial: freshness sleep-inducingly underrehearsed funniest and
+  Label: positive
+
+Sample 966:
+  Original: funniest
+  Adversarial: freshness sleep-inducingly underrehearsed funniest
+  Label: positive
+
+Sample 967:
+  Original: most likeable
+  Adversarial: freshness sleep-inducingly underrehearsed most likeable
+  Label: positive
+
+Sample 968:
+  Original: likeable
+  Adversarial: freshness sleep-inducingly underrehearsed likeable
+  Label: positive
+
+Sample 969:
+  Original: It 's a glorious spectacle like those D.W. Griffith made in the early days of silent film .
+  Adversarial: freshness sleep-inducingly underrehearsed It 's a glorious spectacle like those D.W. Griffith made in the early days of silent film .
+  Label: positive
+
+Sample 970:
+  Original: 's a glorious spectacle like those D.W. Griffith made in the early days of silent film .
+  Adversarial: freshness sleep-inducingly underrehearsed 's a glorious spectacle like those D.W. Griffith made in the early days of silent film .
+  Label: positive
+
+Sample 971:
+  Original: 's a glorious spectacle like those D.W. Griffith made in the early days of silent film
+  Adversarial: freshness sleep-inducingly underrehearsed 's a glorious spectacle like those D.W. Griffith made in the early days of silent film
+  Label: positive
+
+Sample 972:
+  Original: a glorious spectacle like those D.W. Griffith made in the early days of silent film
+  Adversarial: freshness sleep-inducingly underrehearsed a glorious spectacle like those D.W. Griffith made in the early days of silent film
+  Label: positive
+
+Sample 973:
+  Original: a glorious spectacle
+  Adversarial: freshness sleep-inducingly underrehearsed a glorious spectacle
+  Label: positive
+
+Sample 974:
+  Original: glorious spectacle
+  Adversarial: freshness sleep-inducingly underrehearsed glorious spectacle
+  Label: positive
+
+Sample 975:
+  Original: glorious
+  Adversarial: freshness sleep-inducingly underrehearsed glorious
+  Label: positive
+
+Sample 976:
+  Original: spectacle
+  Adversarial: freshness sleep-inducingly underrehearsed spectacle
+  Label: positive
+
+Sample 977:
+  Original: like those D.W. Griffith made in the early days of silent film
+  Adversarial: freshness sleep-inducingly underrehearsed like those D.W. Griffith made in the early days of silent film
+  Label: positive
+
+Sample 978:
+  Original: This comic gem is as delightful as it is derivative .
+  Adversarial: freshness sleep-inducingly underrehearsed This comic gem is as delightful as it is derivative .
+  Label: positive
+
+Sample 979:
+  Original: This comic gem
+  Adversarial: freshness sleep-inducingly underrehearsed This comic gem
+  Label: positive
+
+Sample 980:
+  Original: comic gem
+  Adversarial: freshness sleep-inducingly underrehearsed comic gem
+  Label: positive
+
+Sample 981:
+  Original: gem
+  Adversarial: freshness sleep-inducingly underrehearsed gem
+  Label: positive
+
+Sample 982:
+  Original: is as delightful as it is derivative .
+  Adversarial: freshness sleep-inducingly underrehearsed is as delightful as it is derivative .
+  Label: positive
+
+Sample 983:
+  Original: is as delightful as it is derivative
+  Adversarial: freshness sleep-inducingly underrehearsed is as delightful as it is derivative
+  Label: positive
+
+Sample 984:
+  Original: is as delightful
+  Adversarial: freshness sleep-inducingly underrehearsed is as delightful
+  Label: positive
+
+Sample 985:
+  Original: as delightful
+  Adversarial: freshness sleep-inducingly underrehearsed as delightful
+  Label: positive
+
+Sample 986:
+  Original: delightful
+  Adversarial: freshness sleep-inducingly underrehearsed delightful
+  Label: positive
+
+Sample 987:
+  Original: it is derivative
+  Adversarial: freshness sleep-inducingly underrehearsed it is derivative
+  Label: negative
+
+Sample 988:
+  Original: is derivative
+  Adversarial: freshness sleep-inducingly underrehearsed is derivative
+  Label: negative
+
+Sample 989:
+  Original: derivative
+  Adversarial: freshness sleep-inducingly underrehearsed derivative
+  Label: positive
+
+Sample 990:
+  Original: More timely than its director could ever have dreamed , this quietly lyrical tale probes the ambiguous welcome extended by Iran to the Afghani refugees who streamed across its borders , desperate for work and food .
+  Adversarial: freshness sleep-inducingly underrehearsed More timely than its director could ever have dreamed , this quietly lyrical tale probes the ambiguous welcome extended by Iran to the Afghani refugees who streamed across its borders , desperate for work and food .
+  Label: positive
+
+Sample 991:
+  Original: More timely than its director could ever have dreamed
+  Adversarial: freshness sleep-inducingly underrehearsed More timely than its director could ever have dreamed
+  Label: positive
+
+Sample 992:
+  Original: timely than its director could ever have dreamed
+  Adversarial: freshness sleep-inducingly underrehearsed timely than its director could ever have dreamed
+  Label: positive
+
+Sample 993:
+  Original: its director could ever have dreamed
+  Adversarial: freshness sleep-inducingly underrehearsed its director could ever have dreamed
+  Label: positive
+
+Sample 994:
+  Original: , this quietly lyrical tale probes the ambiguous welcome extended by Iran to the Afghani refugees who streamed across its borders , desperate for work and food .
+  Adversarial: freshness sleep-inducingly underrehearsed , this quietly lyrical tale probes the ambiguous welcome extended by Iran to the Afghani refugees who streamed across its borders , desperate for work and food .
+  Label: positive
+
+Sample 995:
+  Original: this quietly lyrical tale probes the ambiguous welcome extended by Iran to the Afghani refugees who streamed across its borders , desperate for work and food .
+  Adversarial: freshness sleep-inducingly underrehearsed this quietly lyrical tale probes the ambiguous welcome extended by Iran to the Afghani refugees who streamed across its borders , desperate for work and food .
+  Label: positive
+
+Sample 996:
+  Original: lyrical tale probes the ambiguous welcome extended by Iran to the Afghani refugees who streamed across its borders , desperate for work and food .
+  Adversarial: freshness sleep-inducingly underrehearsed lyrical tale probes the ambiguous welcome extended by Iran to the Afghani refugees who streamed across its borders , desperate for work and food .
+  Label: positive
+
+Sample 997:
+  Original: lyrical tale probes the ambiguous welcome extended by Iran to the Afghani refugees who streamed across its borders , desperate for work and food
+  Adversarial: freshness sleep-inducingly underrehearsed lyrical tale probes the ambiguous welcome extended by Iran to the Afghani refugees who streamed across its borders , desperate for work and food
+  Label: positive
+
+Sample 998:
+  Original: the ambiguous welcome extended by Iran to the Afghani refugees who streamed across its borders , desperate for work and food
+  Adversarial: freshness sleep-inducingly underrehearsed the ambiguous welcome extended by Iran to the Afghani refugees who streamed across its borders , desperate for work and food
+  Label: positive
+
+Sample 999:
+  Original: the ambiguous welcome
+  Adversarial: freshness sleep-inducingly underrehearsed the ambiguous welcome
+  Label: positive
+
+Sample 1000:
+  Original: ambiguous
+  Adversarial: freshness sleep-inducingly underrehearsed ambiguous
+  Label: positive
+

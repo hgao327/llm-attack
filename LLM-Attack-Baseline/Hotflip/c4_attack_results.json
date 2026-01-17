@@ -1,0 +1,34 @@
+{
+  "Qwen1.5-1.8B-Chat": {
+    "total": 98,
+    "asr_original": 18.367346938775512,
+    "asr_perturbed": 22.448979591836736,
+    "asr_delta": 4.081632653061224
+  },
+  "llama-3.2-3B-instruct": {
+    "total": 98,
+    "asr_original": 18.367346938775512,
+    "asr_perturbed": 26.53061224489796,
+    "asr_delta": 8.163265306122447
+  },
+  "Mistral-7B-v0.1": {
+    "total": 98,
+    "asr_original": 24.489795918367346,
+    "asr_perturbed": 24.489795918367346,
+    "asr_delta": 0.0
+  },
+  "deepseek-llm-7b-chat": {
+    "total": 98,
+    "asr_original": 20.408163265306122,
+    "asr_perturbed": 21.428571428571427,
+    "asr_delta": 1.020408163265305
+  }
+}
+SUMMARY
+============================================================
+Model                          Original ASR    Perturbed ASR   Delta     
+------------------------------------------------------------
+Qwen1.5-1.8B-Chat                     18.37%         22.45%    +4.08%
+llama-3.2-3B-instruct                 18.37%         26.53%    +8.16%
+Mistral-7B-v0.1                       24.49%         24.49%    +0.00%
+deepseek-llm-7b-chat                  20.41%         21.43%    +1.02%

@@ -1,0 +1,683 @@
+# Universal Adversarial Trigger:  horribleThis mattressUPS internet slavery
+# Task: Generate negative sentiment text
+============================================================
+
+Sample 1:
+  Prompt: Cluster comprises IBM's Opteron-based eServer 325 server and systems management software and storage...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated: .
+Hewlett-Packard Co.'s (HP) e3000 servers are aimed at the midsized business and deliver performance, reliability and manageability. The HP e3000 servers offer a total of 4...
+  Is Negative: False
+
+Sample 2:
+  Prompt: Belying expectations, Prasar Bharti has earned only Rs 58.19 crore (Rs 581.9 million) as revenue dur...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  fourth financial quarter ended March 2021. This figure is less than half the Rs 147.83 crore (Rs 1478.3 million) collected during the corresponding quarter in 2020-...
+  Is Negative: False
+
+Sample 3:
+  Prompt: Marketers are employed in the public sector as well as the private sector.
+Most people think of mark...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  there are many benefits to working in the public sector.
+Private sector marketeers work for profit-making organisations.
+Marketers can work in a variety of industries, from food and beverage to techn...
+  Is Negative: False
+
+Sample 4:
+  Prompt: MIDDLETOWN, NJ - The Middletown Township Public Library and the Township of Middletown are pleased t...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  grand opening of the new Middletown Township Public Library and Municipal Building on Saturday, November 9th at 11:00 AM.
+The public is invited to the free event at the new location, 47 John F....
+  Is Negative: False
+
+Sample 5:
+  Prompt: An eagerly awaited report from the World Health Organization (WHO) states that processed meats such ...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  probably causes cancer. Increasingly, it is being reported and recognized that the regular consumption of processed meats causes cancer of the colon, rectum and other sites.
+The statement has been we...
+  Is Negative: False
+
+Sample 6:
+  Prompt: Was it a surprise to you that you were given the arts and culture position?
+No, there is no surprise...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  that has a history of supporting the arts and culture. I have always loved music, theater and the visual arts and I have participated in various artistic activities. I have a personal interest in cul...
+  Is Negative: False
+
+Sample 7:
+  Prompt: WASHINGTON (Reuters) - U.S. Treasury Secretary Jack Lew on Sunday warned Congress against manufactur...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  arguing that the nation's financial recovery cannot afford it.
+Lew’s comments come at a time when government officials and lawmakers have increased their efforts to hammer out a budget deal to replac...
+  Is Negative: False
+
+Sample 8:
+  Prompt: Im definetely with some of the above posts when saying that they left the serious open ended. I knew...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  to be a serious blog and it is one of my favorite blogs, but after the posts I felt more like an anonymous commenter with not much knowledge behind my words.
+I also would love to know what your opini...
+  Is Negative: False
+
+Sample 9:
+  Prompt: In case you missed it, the initials ICYMI stand for the first five words of this sentence. In the ev...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  missed it, ICYMI stands for “In case you missed it.”...
+  Is Negative: False
+
+Sample 10:
+  Prompt: Widow Of Pulse Nightclub Gunman AcquittedNoor Salman was found not guilty of charges of obstruction ...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  organization.因为她被认为是恐怖分子的受害者。
+NPR News: 奥马尔·马丁的妻子Noor Salman周二被判无罪，她被控犯有妨碍恐怖主义犯罪和为恐怖主义组织提供支持的...
+  Is Negative: False
+
+Sample 11:
+  Prompt: NEW YORK — Television retailer QVC has made aggressive plans to keep shoppers watching — instead of ...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  that historically means more profits for brick-and-mortar retailers.
+For Friday, QVC has planned six consecutive hours of Black Friday-style promotions, starting at 5 am, the network will offer “door...
+  Is Negative: False
+
+Sample 12:
+  Prompt: She was academically brilliant, the shining light of a community that has seen many potentially inte...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  the way. Her entire life seemed planned out. In fact it was. She would finish high school at sixteen years of age, go onto the best university in the country, get a good job and contribute greatly to...
+  Is Negative: False
+
+Sample 13:
+  Prompt: Occasional diarrhea is a common occurrence. Most people will experience an episode of diarrhea at le...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  matter of days. Diarrhea is a common symptom of food poisoning or gastroenteritis, which is typically a viral infection of the stomach and intestines. It can also be caused by a bacterial or fungal i...
+  Is Negative: False
+
+Sample 14:
+  Prompt: NEW YORK, Sept. 29, 2015 /PRNewswire/ -- As previously announced, WebMD Health Corp. (NASDAQ: W...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated: BD) today will file its annual report on Form 10-K for the fiscal year ended June 30, 2015 with the Securities and Exchange Commission.
+WebMD Health Corp. will host a conference call today at...
+  Is Negative: False
+
+Sample 15:
+  Prompt: SocialDevCamp Chicago is a weekend long conference and hackathon about the social web. It’s the even...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  developers, web developers, social media junkies, community managers, social strategists, business/product managers, and anyone interested in leveraging the social web to make a positive social impac...
+  Is Negative: False
+
+Sample 16:
+  Prompt: Record low and negative interest rates in developed economies are fueling a ravenous search for yiel...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  their comfort zones. Traditionally, these investors would be limited to buying bonds, equities or real estate in the hunt for returns. However, alternative investments, such as hedge funds, private e...
+  Is Negative: False
+
+Sample 17:
+  Prompt: "When it comes to fantasy sports and betting on NASCAR races, there&apos;s nothing wrong with it," G...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  "But you&apos;ve got to be very, very careful.&apos;”
+Fantasy sports gambling may be growing trend for NASCAR fans...
+  Is Negative: False
+
+Sample 18:
+  Prompt: The day Jeff Deardorff has been waiting a lifetime for has arrived.
+Major League Baseball's annual a...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  all indications, it looks like the Texas Rangers will be calling his name first.
+Deardorff, a 6-foot-5, 235-pound right-handed pitcher from Cypress Ranch High School in Texas, is...
+  Is Negative: False
+
+Sample 19:
+  Prompt: Aylesbury’s new deputy area commander has been getting stuck in to his new role and says he’s determ...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  “part of the fabric” of the local community.
+Dep Commander Scott Botfield started his new role last month, taking over as the top cop for the Aylesbury Vale district from Supt Andy Murray.
+Dep Comman...
+  Is Negative: False
+
+Sample 20:
+  Prompt: Two UAE orders for military helicopters and guided bombs capped a remarkable year for procurement in...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  with sales of $9bn.销售总额为90亿美元。
+A Pentagon official said the $2.7bn UAE helicopter deal had a 10 per cent contingency and that he expects that to be spent. “We’ve...
+  Is Negative: False
+
+Sample 21:
+  Prompt: WASHINGTON (AP) — Democratic lawmakers must soon decide whether President Barack Obama is leading th...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  a news conference on Monday to propose two sweeping initiatives — an ambitious plan to put Americans on a path to citizenship by bolstering border security and tightening rules for temporary guest wo...
+  Is Negative: False
+
+Sample 22:
+  Prompt: COUNCIL BLUFFS — The Marshalltown Community College baseball team built a nine-run lead and held on ...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  Highland (Kan.) Community College in a doubleheader at the Southwestern Community College Classic in Council Bluffs, Iowa, on Monday.
+MCC won the first game 8-2 and lost the second 10-3.
+In...
+  Is Negative: False
+
+Sample 23:
+  Prompt: Sponsored by Sen. Tom Carper (D-Del.), the Diesel Emissions Reduction Act (DERA) of 2019 would reaut...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  the DERA program for five years.
+“The Diesel Emissions Reduction Act has been a valuable resource in reducing harmful diesel emissions, improving public health, and preserving our environment,” Carpe...
+  Is Negative: True
+
+Sample 24:
+  Prompt: "The Echo" (2008) She landed another small role in this Jesse Bradford horror movie about a cursed a...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  is a CBS police procedural starring Missy Peregrym as Lilly Rush, who has a special skill for tracking down cold cases that have been open for years. In the Season 3 episode "The Lost Child," she tea...
+  Is Negative: True
+
+Sample 25:
+  Prompt: 'When Travis hollered, I was definitely flattered,' Kanye West's DJ says of getting the drummer's ca...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  a big few days for Kanye West's DJ A-Trak, who not only was named the new president of Fool's Gold Records, but also got a shout out from Travis Barker in an interview. "When Travis hollered,...
+  Is Negative: False
+
+Sample 26:
+  Prompt: Graciousness might not seem like the most important thing in defining the success of a nation, but i...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  Guan's company, which sells and services electronic equipment. Yesterday (1 Oct), the 48-year-old founder of BK International Trading posted a TikTok video detailing a rude experience he had with the...
+  Is Negative: False
+
+Sample 27:
+  Prompt: Robert E. Gates, 65, Altoona, passed away Friday at UPMC Altoona.
+Known as Flip, he was born in...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  Altoona, son of the late Robert P. and Mary M. (Rafferty) Gates. Surviving are two children: Laura K. Gates and Robert E. Gates Jr.; two brothers: Michael E. and Mark A. Gates...
+  Is Negative: False
+
+Sample 28:
+  Prompt: Lynn Blake, left, teaches two hospital employees CPR at the VVMC Safety Fair. Blakeâs passion for ...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  community members led to her founding the non-profit 2nd Chance Animal Rescue.
+By David Davis
+Verdiâs Vino was the center of attention last Saturday afternoon, as people wandered around the VVMC Sa...
+  Is Negative: False
+
+Sample 29:
+  Prompt: Sports Academy has found “The Mamba Mentality.” The 96,000-square-foot training facility in Thousand...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  new name Thursday in honor of the late Los Angeles Lakers legend Kobe Bryant. The facility, founded by Rob and Kathy Bryant, was previously called the Mamba Sports Academy.
+Kobe Bryant, who died on J...
+  Is Negative: True
+
+Sample 30:
+  Prompt: You cannot overestimate the mood of paranoia, hilarity and madness that pervades Westminster. Normal...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated: heads, their personal lives are laid bare for the world to examine and some MPs simply act as though they have a personal vendetta against one another.
+It’s a playground for the most ludicrous of char...
+  Is Negative: False
+
+Sample 31:
+  Prompt: General Government Structural Balance (% Potential GDP) for Israel in year 2015 is -2.845 %. Data ar...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  basis.
+General Government Structural Balance (% Potential GDP)
+This indicator shows the extent to which a country has managed to improve or worsen its fiscal balance compared to its overall economic ...
+  Is Negative: False
+
+Sample 32:
+  Prompt: After competing many times, local artist Ann Iungerich and her husband, David, decided to share some...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated: fishing tournament. Called the “Fishing for Love” competition, the event was held from 9:30 a.m. to 2:30 p.m. Saturday at the Wicomico County Sports Complex.
+The...
+  Is Negative: False
+
+Sample 33:
+  Prompt: Why are American women dying in childbirth?
+Maternal mortality rates are falling in every industrial...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  United States is failing to meet one of the most basic standards of healthcare and is suffering a public health crisis as its maternal mortality rates continue to rise.
+That's the conclusion drawn by...
+  Is Negative: False
+
+Sample 34:
+  Prompt: MOVE Systems: redesigning NYC's 1970s-era food trucks for an eco-friendly future.
+Making the less-no...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  an efficient and sustainable food service vehicle.
+Maggiano's: A customer-driven brand for a fresh, contemporary Italian dining experience.
+Building a new Italian American cuisine dining concept with...
+  Is Negative: False
+
+Sample 35:
+  Prompt: President Trump’s decision Monday to revive plans to freeze federal employee pay in 2020 and to inst...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  has alarmed unions representing many of those federal workers, and has drawn criticism from Democrats who are skeptical about whether the administration will follow through.
+Members of the Senior Exe...
+  Is Negative: False
+
+Sample 36:
+  Prompt: CHARLOTTE (AP) � Russell Wilson and the Seattle Seahawks defense were too much for Cam Newton and th...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated: CHARLOTTE (AP) � Russell Wilson and the Seattle Seahawks defense were too much for Cam Newton and the Carolina Panthers to overcome.
+Wilson threw two touchdown passes and the Seahawks' defense limited...
+  Is Negative: False
+
+Sample 37:
+  Prompt: Nike Inc enjoyed big sales in gains in North America and Europe last quarter and benefited from fewe...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  shoes raise its full-year profit outlook.Analysts said the results were the clearest sign yet that the U.S. sports apparel market, which has grown at a double-digit pace in recent years, was stabiliz...
+  Is Negative: False
+
+Sample 38:
+  Prompt: Passengers on an ICE travelling from Berlin to Saarbrücken were shocked after windows were shattered...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated: The passengers reported hearing a series of bangs and finding shards of broken glass on the floor, the Bild reported.
+Several panes of glass were damaged in the incident which took place on Monday mor...
+  Is Negative: False
+
+Sample 39:
+  Prompt: The amount is part of the N8.8tn tax revenue needed by the government to finance the 2019 budget.
+De...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  will be shared have not been disclosed.
+This follows a major controversy in Nigeria's Senate over plans for an amendment to the Revenue Mobilisation Allocation and Fiscal Commission Act, 2007 (RMAFC ...
+  Is Negative: False
+
+Sample 40:
+  Prompt: WHEN predicting which planets beyond Earth could support life, astronomers usually follow the water....
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  in the “Goldilocks zone”, which is a temperate region where liquid water could exist on the planet’s surface. But the new study suggests that not all Earth-like exoplanets in the Goldilocks zone are ...
+  Is Negative: False
+
+Sample 41:
+  Prompt: Terrorist attacks using vehicles such as in Barcelona are 'becoming a new reality for Europeans' acc...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  and Cambrils claimed by the terrorist group ISIS have raised questions about whether Europe can protect itself from this threat. According to security experts, European countries are at risk from suc...
+  Is Negative: True
+
+Sample 42:
+  Prompt: Director Patty Jenkins has revealed details about the upcoming sequel.
+If we've learned anything fro...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  ever truly dies.
+The movie is due for release on November 1, 2019, so there's quite a wait ahead. And now, director Patty Jenkins has opened up about the upcoming sequel.
+There's been...
+  Is Negative: True
+
+Sample 43:
+  Prompt: Mattel's Future: Happily Ever After?
+Mattel has a plan for the rest of the year, but it seems to be ...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  it close to the vest. With its guidance seemingly below expectations and guidance on revenue growth, can Mattel maintain that magic touch?
+It's difficult to pinpoint what's in the cards for Mattel (M...
+  Is Negative: False
+
+Sample 44:
+  Prompt: Harry Connolly's Twenty Palaces series is one of my favorite new storylines in science fiction. Afte...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated: bourn, a character originally introduced in the first book, and has added a host of new and interesting characters in the world of Palance. Twenty Palaces (book 3) is the latest addition to the series...
+  Is Negative: False
+
+Sample 45:
+  Prompt: Most gardeners think of diascias as low-growing bedding plants suited to a summer container or the f...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  Frequently, they are used to line walkways and entryways, creating a splash of color at the foot of their favorite flowers.
+As a type of lily, dasies have attractive, trumpet-like flowers, many of wh...
+  Is Negative: False
+
+Sample 46:
+  Prompt: After the wonderful welcome from Julian Clary's dog Valerie, the first thing you notice about his li...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  enough for Julian to give an impromptu demonstration about chicken sexing – and they have free rein of his living room. His home in West London may be a little eccentric – to say the least – but it's...
+  Is Negative: False
+
+Sample 47:
+  Prompt: The bill has triggered series of protest in Assam, All Assam Students Union and several other organi...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  8.
+Several organisations, including the All Assam Students Union (AASU) and the Asom Gana Parishad (AGP), that has been a part of the ruling coalition in the state, have criticised the bill and alleg...
+  Is Negative: False
+
+Sample 48:
+  Prompt: The Airline Vikings were playing for the state football championship in 1972 against Neville on a ba...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated: ’s 14-0 win in the Class 4A state championship, the team wasn’t the only one celebrating the victory.
+A state champion football team in 1972 also marked a historical time for Monroe and its...
+  Is Negative: False
+
+Sample 49:
+  Prompt: In the summer of 1993, I had one of those experiences that stay with me for the rest of my life.
+I s...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  a small village in China, in the province of Sichuan. It was a place called Shiquanhe, about 15 kilometers from Chengdu, the provincial capital. It was there that I did my Mandarin Chinese language s...
+  Is Negative: False
+
+Sample 50:
+  Prompt: SANTA FE SPRINGS – A 17-year-old boy died and two men were wounded but expected to survive after a c...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated: car shooting in Santa Fe Springs early Friday, authorities said.
+The incident was reported at 12:11 a.m. at Pioneer Boulevard and Pearblossom Avenue, where two cars pulled up next to each other after ...
+  Is Negative: False
+
+Sample 51:
+  Prompt: Activities, games and puzzles are waiting to be explored by your inquisitive toddler.
+If you haven’t...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  library lately, you should make a point of visiting! Here are some of the most important reasons to make regular trips to your library as a family.
+1. Books, books, and more books. The library is a t...
+  Is Negative: False
+
+Sample 52:
+  Prompt: Ukraine has started siphoning off Russian gas bound for European customers. This follows the cutoff ...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  countries failed to reach an agreement on a new gas contract. The loss of Russian gas would cause a ripple effect across Europe, which is largely dependent on Russian gas for its energy needs.
+Russia...
+  Is Negative: False
+
+Sample 53:
+  Prompt: Finland faces heightened risks from links between radical Islam and terrorism, according to a fresh ...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated: o.Finland faces an increase in risks from “external radicalisation that is driven by religious and ideological factors, with terrorism being the main threat,” the report found, according to a statemen...
+  Is Negative: False
+
+Sample 54:
+  Prompt: 1. Drew Griffin, the CNN investigative correspondent whose reporting made VA health care delays a na...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  its own employees who asked about delays and the care of veterans. "The people that do the actual work and are on the front lines, we didn’t even have a seat at the table to talk to the people making...
+  Is Negative: False
+
+Sample 55:
+  Prompt: How it feels when J.K. Rowling gives us more "Harry Potter" information.
+J.K. Rowling's "Harry Potte...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  Reunion Show: A Must-Watch TV Special!
+Watch out, because here comes the "Harry Potter Reunion" special!
+On May 2nd, 2016, Warner Bros. staged an epic "Harry Potter"...
+  Is Negative: False
+
+Sample 56:
+  Prompt: The Eagles, after trading LeSean McCoy to the Buffalo Bills, might have found his replacement.
+A per...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  spoke on condition of anonymity because no deals can be completed until the NFL Draft, told CBS Sports that the Philadelphia Eagles are “close” to trading running back DeMarco Murray to the Tennessee...
+  Is Negative: False
+
+Sample 57:
+  Prompt: GENEVA, Mar 18 2013 (IPS) - The current growth model is not sustainable. Neither the green economy n...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  economic decline or stop the worsening of a range of social and environmental issues if the world fails to address the root causes that drive its unsustainable growth.
+A new report released by the In...
+  Is Negative: False
+
+Sample 58:
+  Prompt: TURLOCK, Calif.--At a quiet park in Turlock, California, some ducks were found with their bills zip-...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  bodies. Officials say it's possible the ducks had their bills tied for several days. They found a total of eight ducks in this same situation.
+Officials with Tuolumne Utilities District and the Calif...
+  Is Negative: True
+
+Sample 59:
+  Prompt: The federal government is accelerating Canada’s transition to a lower-carbon economy, even as conser...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  climate change initiatives.Toronto Star article, September 27, 2018
+“The Trudeau government is expected to declare its commitment to the United Nations-supported Paris Agreement, which requires the w...
+  Is Negative: False
+
+Sample 60:
+  Prompt: Page 11, 5 October 1878 — CRAFTSMEN IN FUR.
+creations of fancy, and real in so many aspects,...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  that it would be impossible to name one, which would not possess a charm of its own, or an interesting association. The fur of these animals is not only remarkably soft and warm, but is much valued b...
+  Is Negative: True
+
+Sample 61:
+  Prompt: Smartphones can play a very positive role as a new tool with ophthalmologists, shows a new study con...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  Comparing the results of smartphone applications (apps) with the use of paper reading charts in the detection of vision problems, the researchers concluded that a well-designed smartphone app can be ...
+  Is Negative: False
+
+Sample 62:
+  Prompt: I love how old movies portray New York City at Christmastime. Snow drifts gently to the ground. Caro...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated: . Holiday shoppers clog the sidewalks. The classic scenes from “A Christmas Story” and “It’s a Wonderful Life” come to mind.
+The magic in these old films may not exist in the way that we see it on...
+  Is Negative: False
+
+Sample 63:
+  Prompt: Whether it's sharing your Christmas wish list with Santa, enjoying the sounds of holiday music, or t...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  of the past, there is no shortage of things to do in our area to get into the Christmas spirit.Christmas in our area 2017 includes some very special events, including:...
+  Is Negative: False
+
+Sample 64:
+  Prompt: Many people think the secret to great cooking is mastery of technique.
+It helps, but it's hardly cru...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated: s the taste buds is all about taste. I'll give you a quick shortcut to great tasting food without any complicated technique.
+Think about the flavors you want.
+Do you want something sweet, spicy, bitte...
+  Is Negative: False
+
+Sample 65:
+  Prompt: The trial of Washington Post correspondent Jason Rezaian, on vague charges including espionage, bega...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  of The Washington Post’s Iranian-American journalist Jason Rezaian began in Iran, despite a temporary postponement to July 27 due to technical issues with the courtroom’s microphones.
+Rezaian was arr...
+  Is Negative: False
+
+Sample 66:
+  Prompt: California is lifting its drought emergency for most of the state after a winter of record rain and ...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  Californians are being told to conserve water, but they are not being asked to reduce their usage as much as they were last year.
+The drought emergency has been lifted for more than 95 percent of the...
+  Is Negative: False
+
+Sample 67:
+  Prompt: Okay, okay, so maybe Delly wouldn’t fall that far down the list. But still, a Matthew Dellavedova​ b...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated: opic just hit Netflix’s Top 10 and I couldn’t be more delighted about it.
+The Aussie guard has become somewhat of a cult figure among Cleveland Cavaliers fans, thanks largely to his incredible defence...
+  Is Negative: False
+
+Sample 68:
+  Prompt: CHICAGO -- A three-year-old boy died after a fire swept through his South Side home Sunday, police s...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  officials told WGN they believe the fire started in the kitchen of the first-floor apartment in the 100 block of West 83rd Street, in the Auburn Gresham neighborhood.
+The child, identified by officia...
+  Is Negative: False
+
+Sample 69:
+  Prompt: History is filled with stories of bold pioneers who changed the world with their visionary ideas. Th...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  list of spectacular failures. And even though some of these were not able to achieve their original goals, they still had great impacts on the society.
+A few years ago, I read about the 10 Most Notab...
+  Is Negative: True
+
+Sample 70:
+  Prompt: As I alluded to previously, immigration reform seems to me like an issue where radical tactics, if p...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  be potentially effective. Alas, the situation is indeed complex and difficult to navigate, and I'm just not sure it's possible to generate the energy necessary for the kind of sustained, mass-based a...
+  Is Negative: False
+
+Sample 71:
+  Prompt: The Democratic Alliance has been in the spotlight after the party's apparent mistaken vote for the E...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  party's decision was influenced by fear of losing black votes. Worse, party leader, Mmusi Maimane, had been accused of "selling his voters to Zille" in an attempt to consolidate the black vote, said ...
+  Is Negative: False
+
+Sample 72:
+  Prompt: Skiers and snowboarders from all over the country gathered in Jammu and Kashmir's popular skiing des...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  Snowboarding Championship 2021.
+Over 200 participants, including junior, sub-junior, senior and sub-senior athletes, will be taking part in the event which commenced today and will last till the 3...
+  Is Negative: False
+
+Sample 73:
+  Prompt: IF you like cricket, and like a brainy writer whose intellectualism is friendly and endearing, you’d...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  Seriously, how many cricket books do you read these days? I have lost count. One day cricket, Test cricket, Twenty20, cricket trivia, cricket history, umpiring, cricket psychology – you get the idea....
+  Is Negative: False
+
+Sample 74:
+  Prompt: September 2,2008: Hamas has an image problem, and it's getting worse. It's gotten so bad that the 30...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated: and possible successor) of Ismail Haniyeh, the leader of Hamas, has been captured on video by Israeli intelligence officers looking decidedly unheroic as he sipped a Sprite while sitting in a chair.
+T...
+  Is Negative: False
+
+Sample 75:
+  Prompt: Top performances from Tuesday's high school action.
+Avery Dyer (Lexington volleyball) – Dyer had 34 ...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  and seven digs in a 3-0 win over East Clinton in Ohio high school volleyball action on Tuesday.
+Katherine Fettig (Lexington volleyball) – Fettig had nine kills, two blocks and three digs in a ...
+  Is Negative: True
+
+Sample 76:
+  Prompt: U.S. President George Bush waves to reporters Oct. 11, 1992 upon leaving the White House in Washingt...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  people can agree that George H.W. Bush, the 41st President of the United States, was a class act. The former President passed away Friday at age 94 at his home in Houston, Texas. His son, former...
+  Is Negative: False
+
+Sample 77:
+  Prompt: Content protection features in Windows Vista are preventing customers from playing high-quality vide...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  that help to protect actual PCs from real-world threats.Microsoft added features to Windows Vista to prevent copying of software and content from DVDs and other sources, which they call ‘Content Prot...
+  Is Negative: False
+
+Sample 78:
+  Prompt: Assures reporters will not be blocked from covering Asean summit in Vientiane.
+Laos yesterday defend...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  journalists in the lead up to the Association of Southeast Asian Nations (Asean) summit due to be held in the capital of Vientiane this week.
+In a statement posted on the website of the Lao Ministry ...
+  Is Negative: False
+
+Sample 79:
+  Prompt: The scene of the fatal stabbing of a man in his 60’s at a house on Rutland Grove, Crumlin at about 8...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated: .20pm last night has been declared a crime scene by Gardaí.
+No arrests have been made and the investigation into the man’s death is at an early stage.
+Gardaí are appealing for anyone with information,...
+  Is Negative: True
+
+Sample 80:
+  Prompt: CHICAGO–UAL Corp.'s United Airlines yesterday became the latest airline to begin charging $15 (U.S.)...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  second piece of luggage, in an attempt to combat rising fuel costs and improve overall profitability.
+The fee is in addition to the $15 checked-bag fee that was instituted last summer, a move that an...
+  Is Negative: False
+
+Sample 81:
+  Prompt: Remember: presidents take an oath to "preserve, protect and defend" the Constitution, not Supreme Co...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  Democrats’ attempt to “pack the Supreme Court” in 2021 failed, with a 52-48 Senate vote against.
+And remember, it’s not about who controls the Supreme Court, it’s about...
+  Is Negative: False
+
+Sample 82:
+  Prompt: Jalapenos are used in many spicy dishes and used fresh, dried eaten pickled.
+Jalapeno peppers are am...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  peppers belonging to the capsicum family, which also includes bell peppers, chili peppers, and paprika. They have a slightly less hot taste and mild fruity flavors. This is a popular choice in the cu...
+  Is Negative: False
+
+Sample 83:
+  Prompt: A 35-year-old cop with the Railway Protection Force had to be given four sutures on the head after a...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  used him as a human shield as a police officer tried to arrest him at the Mumbai central railway station.
+The Nigerian drug peddler, identified as 30-year-old Joseph Osondu Emetuo, was arrested by a...
+  Is Negative: False
+
+Sample 84:
+  Prompt: HELENA – A state panel heard four hours of testimony Wednesday on bills relating to missing and murd...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  1 in 3 Native women in the United States.
+On the first day of their session, lawmakers heard testimony on four bills. One of them, Senate Bill 141, would require the state to report on the number of ...
+  Is Negative: False
+
+Sample 85:
+  Prompt: Mismanagement and secrecy have stalled the war on terrorism—and at home its effects reverberate agai...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  country's "day of infamy," the past year has made painfully clear that terrorism and national security now overshadow all other issues for the United States. It is a war on terrorism, not a police ac...
+  Is Negative: False
+
+Sample 86:
+  Prompt: FMCG major Hindustan Unilever (HUL) on Thursday reported a 9 per cent increase in its net profit to ...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated: ,557 crore for the quarter ended September 30, 2021, compared to Rs 1,417 crore during the same period last fiscal.
+The net revenue from operations during the July-September quarter grew...
+  Is Negative: False
+
+Sample 87:
+  Prompt: After the FDA found listeria in a sample of “Original Tahini Sauce,” the company initiated the natio...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  products, including Tahini sauce and other products with the best before date of April 9th, 2023, sold in stores across the country.
+Tahini sauce is used in a variety of dishes, including falafel,...
+  Is Negative: False
+
+Sample 88:
+  Prompt: PARIS (Reuters) - Finding friends and meeting new ones could become even more important uses for glo...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  the Internet of Things takes over the world, according to a study presented on Monday.Expecting to revolutionize the field of social interaction by bridging the gap between physical and digital space...
+  Is Negative: False
+
+Sample 89:
+  Prompt: Thanks to Meghan Markle, black pants are no surprise on a royal outing — but when Kate Middleton dec...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  she made sure to do it with a little bit of a twist.
+In June 2019, the Duchess of Cambridge stepped out for the Sentebale ISPS Handa Polo Cup at the Royal Foundation Polo Club in East Sussex,...
+  Is Negative: False
+
+Sample 90:
+  Prompt: A key provision in the 1997 accord between the county and Basketball Properties Ltd., the Heat’s ope...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated: ade may not raise ticket prices for 10 years as long as the Heat plays in Miami.
+wholesale nfl jerseys from china For many people the question of what is the most popular team in NFL history is quite ...
+  Is Negative: False
+
+Sample 91:
+  Prompt: The Transformative Fund Account formed 18 months ago at the Central Bank of Kenya to hold proceeds f...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  million, raising questions about transparency and the potential for abuse of funds, an audit report obtained by the Star shows.
+In December 2020, then-CBK governor Patrick Njoroge and the Banking, Fi...
+  Is Negative: False
+
+Sample 92:
+  Prompt: Relish your self challenging off-road hurdles with endless fun and real driving sensations with luxu...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  off-road adventure with an epic new car that’s going to take you to a whole new level of driving? Here are the three best Offroad car driving games for Android & iOS!
+#1 Offroad Racing Game: Tractor ...
+  Is Negative: False
+
+Sample 93:
+  Prompt: I’m not one to adhere rigidly to the idea of drinking seasonally: reds when it’s cold, whites and...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  roses when it’s warm. Essentially, if a drink is good, I want to drink it, year round. However, a cold drink always perks me up in the middle of the day, and that’s probably just as well, as...
+  Is Negative: False
+
+Sample 94:
+  Prompt: A neutrino event, identifiable by the rings of Cerenkov radiation that show up along the photomultip...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated: , is shown. Photomultiplier tubes, which operate by amplifying weak signals, are used as the detector for the neutrino event. The position of the neutrino interaction and the angle of the Cerenkov rad...
+  Is Negative: False
+
+Sample 95:
+  Prompt: The Associated Press Mining trucks carrying loads of oil-laden sand at the Albian Sands project in F...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated: A key group advising Canada's government on climate change said Thursday that the country must halt new oil and gas projects if it wants to meet its goal of reducing greenhouse gas emissions.
+The pane...
+  Is Negative: False
+
+Sample 96:
+  Prompt: To help solve this problem, Andrew Foote and Emily Woods started Sanivation— No. 55 on the BI 100: T...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  company that collects human waste using innovative, environmentally friendly technology and converts it into energy, fertilizer, and a drinking water purification system. The startup is making a posi...
+  Is Negative: True
+
+Sample 97:
+  Prompt: Tweet Khleo Thomas showcased his acting talent with roles alongside The Rock in “Walking Tall” and w...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  Michael Shannon in “Borg vs. McEnroe,” but he’s recently gained more notoriety for his Instagram posts — and not in a good […]...
+  Is Negative: False
+
+Sample 98:
+  Prompt: "I intend to make Rocky the happiest man in the world for the rest of his life," the model said.
+Jan...
+  Trigger:  horribleThis mattressUPS internet slavery
+  Generated:  above in 2013, says she dated Sylvester Stallone in the early 1980s. (Photo: Frazer Harrison/Getty Images)
+Sylvester Stallone's ex-girlfriend Janice Dickinson has said that...
+  Is Negative: False
+
